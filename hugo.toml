@@ -1,0 +1,98 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'GPEML Conference'
+theme = 'PaperMod'
+
+[params]
+  # 主题模式: 'auto', 'light', 'dark'
+  defaultTheme = 'light'
+  # 禁用主题切换以保持一致的学术会议风格
+  disableThemeToggle = true
+  # 显示修改时间
+  ShowReadingTime = true
+  # 显示代码复制按钮
+  ShowCodeCopyButtons = true
+  # 显示文章目录
+  ShowToc = true
+  # 显示文章导航
+  ShowPostNavLinks = true
+  # 显示面包屑导航
+  ShowBreadCrumbs = true
+  # 显示RSS按钮
+  ShowRssButtonInSectionTermList = true
+  # 封面图片
+  # cover.image = '/images/cover.jpg'
+  
+  [params.assets]
+    # 禁用指纹识别以便调试（生产环境可以启用）
+    disableFingerprinting = false
+    # 主题颜色 - 匹配 PRICAI 风格的深蓝色
+    theme_color = "#003366"
+    msapplication_TileColor = "#003366"
+  
+  [params.label]
+    # 隐藏导航栏中的标题文字
+  text = ""
+  hideText = true
+  
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'organization'
+    name = 'Organization'
+    url = '/organization/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'attending'
+    name = 'Attending'
+    url = '/attending/'
+    weight = 30
+  [[menu.main]]
+    parent = 'attending'
+    name = 'Special Airfares'
+    url = '/attending/special-airfares/'
+    weight = 31
+  [[menu.main]]
+    parent = 'attending'
+    name = 'Accommodations with Discount'
+    url = '/attending/accommodations-with-discount/'
+    weight = 32
+  [[menu.main]]
+    parent = 'attending'
+    name = 'Visa Information Guide'
+    url = '/attending/visa-information-guide/'
+    weight = 33
+  [[menu.main]]
+    parent = 'attending'
+    name = 'Conference Venue'
+    url = '/attending/conference-venue/'
+    weight = 34
+  [[menu.main]]
+    parent = 'attending'
+    name = 'Meeting Rooms and Floor Plans'
+    url = '/attending/meeting-rooms-and-floor-plans/'
+    weight = 35
+  [[menu.main]]
+    identifier = 'registration'
+    name = 'Registration'
+    url = '/registration/'
+    weight = 40
+  [[menu.main]]
+    identifier = 'program'
+    name = 'Program'
+    url = '/program/'
+    weight = 50
+  [[menu.main]]
+    identifier = 'proceedings'
+    name = 'Proceedings'
+    url = '/proceedings/'
+    weight = 60
+  [[menu.main]]
+    identifier = 'photos'
+    name = 'Photos'
+    url = '/photos/'
+    weight = 70

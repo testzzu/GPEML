@@ -1,0 +1,10 @@
+<div class="member-card">
+  <div class="member-avatar">
+    <img src="{{ .Get "image" | default "/images/photo1.jpg" }}" alt="{{ .Get "name" }}" loading="lazy">
+  </div>
+  <div class="member-info">
+    <h4 class="member-name">{{ .Get "name" }}</h4>
+    <p class="member-affiliation">{{ .Get "affiliation" }}</p>
+  </div>
+</div>
+
