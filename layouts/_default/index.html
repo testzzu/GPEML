@@ -12,8 +12,12 @@
                 <img src="{{ $heroImg.RelPermalink }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
             </div>
         {{- else }}
+            {{- $imagePath := .Params.hero.image }}
+            {{- if not (hasPrefix $imagePath "/") }}
+                {{- $imagePath = printf "/%s" $imagePath }}
+            {{- end }}
             <div class="hero-image">
-                <img src="{{ .Params.hero.image | relURL }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
+                <img src="{{ $imagePath | relURL }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
             </div>
         {{- end }}
         {{- else }}
