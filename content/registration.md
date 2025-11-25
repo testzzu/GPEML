@@ -4,79 +4,84 @@ draft = false
 title = 'Registration'
 +++
 
-## Conference Registration
+## Registration
 
-Registration for GPEML is now open. All attendees must register to participate in the conference.
+The registration system is now open for both the author(s) and general participants:
 
-### Registration Fees
+**[Click here to register](https://registration.gpeml2025.org)** (Link to be updated)
 
-#### Early Bird Registration (Before September 1, 2025)
+You will be provided information on how to get the Invitation Letter in the registration confirmation email. For visa information, please refer to the [Visa Information Guide](/attending/visa-information-guide/).
 
-- **Regular Attendee:** $XXX
-- **Student:** $XXX
-- **IEEE/ACM Member:** $XXX
+## Registration Fee
 
-#### Regular Registration (After September 1, 2025)
+Please note:
 
-- **Regular Attendee:** $XXX
-- **Student:** $XXX
-- **IEEE/ACM Member:** $XXX
+* The USD amounts are for indication purposes only. Your actual registration fee will be charged in Chinese Yuan (CNY). The registration fee must be paid in Chinese Yuan (CNY).
+* Student registrants must send a letter from their University/Institution confirming their studentship to registration@gpeml2025.org.
+* At least one author per accepted paper must register for the conference and present their paper. A single full registration (general) covers one paper. A full registration (student) can be used to cover a paper only if the student is the first author and will be presenting the paper at the conference.
+* All accepted papers must be registered by 15 June 2025.
+* Cancellations received by 1 July 2025 are eligible for a full refund, minus a ¥100 administration fee. No refunds (partial or full) will be given for cancellations made after July 1, 2025. All cancellation requests must be submitted via email to registration@gpeml2025.org.
 
-#### On-Site Registration
+### Early Registration (by 1 June 2025)
 
-- **Regular Attendee:** $XXX
-- **Student:** $XXX
-- **IEEE/ACM Member:** $XXX
+| Registration Type | General (CNY) | Students (CNY) |
+| ----------------- | ------------- | -------------- |
+| Full Registration | 2500 (≈ 350 USD) | 1800 (≈ 252 USD) |
+| Daily registration (July 11 or 12) | 1200 (≈ 168 USD) | 1200 (≈ 168 USD) |
+| Option: Additional Paper (Per paper) | 1200 (≈ 168 USD) | 1200 (≈ 168 USD) |
+| Option: Additional Page Charge (Per Page) | 400 (≈ 56 USD) | 400 (≈ 56 USD) |
+| Additional Dinner Ticket | 300 (≈ 42 USD) | 300 (≈ 42 USD) |
 
-*All prices are in USD. Registration fees include: conference proceedings, welcome reception, coffee breaks, and conference dinner.*
+### Late Registration (2 June 2025 ~ 5 July 2025)
 
-### Registration Includes
+| Registration Type | General (CNY) | Students (CNY) |
+| ----------------- | ------------- | -------------- |
+| Full Registration | 3000 (≈ 420 USD) | 2200 (≈ 308 USD) |
+| Daily registration (July 11 or 12) | 1400 (≈ 196 USD) | 1400 (≈ 196 USD) |
+| Additional Dinner Ticket | 300 (≈ 42 USD) | 300 (≈ 42 USD) |
 
-- Access to all technical sessions
-- Conference proceedings (digital)
-- Welcome reception
-- Coffee breaks
-- Conference dinner
-- Conference bag and materials
+### Onsite Registration (10 July 2025 ~ 12 July 2025)
 
-### Additional Options
+| Registration Type | General (CNY) | Students (CNY) |
+| ----------------- | ------------- | -------------- |
+| Full Registration | 3500 (≈ 490 USD) | 2600 (≈ 364 USD) |
+| Daily registration (July 11 or 12) | 1600 (≈ 224 USD) | 1600 (≈ 224 USD) |
+| Additional Dinner Ticket | 300 (≈ 42 USD) | 300 (≈ 42 USD) |
 
-- **Extra Conference Dinner Ticket:** $XX
-- **Workshop Registration:** $XX per workshop
-- **Tutorial Registration:** $XX per tutorial
+## Conference Registration Inclusions
 
-### Registration Process
+### Full Registration - General and Student, includes:
 
-1. Complete the online registration form
-2. Select your registration category
-3. Make payment (credit card or bank transfer)
-4. Receive confirmation email
+* A conference bag with gifts.
+* Access to all sessions in the GPEML 2025 conference.
+* Morning tea, lunch, afternoon tea across all conference days.
+* Conference reception on July 10, 2025.
+* Conference dinner on July 11, 2025.
 
-[Register Now](https://registration.gpeml2025.org) (Link to be updated)
+### Daily registration includes:
 
-### Payment Methods
+* A conference bag with gifts.
+* Access to all sessions on the day registered, excluding conference reception and conference dinner.
+* Morning tea, lunch, afternoon tea on the day registered.
 
-- Credit Card (Visa, MasterCard, American Express)
-- Bank Transfer
-- PayPal
+## Payment Methods
 
-### Cancellation Policy
+* Credit Card (Visa, MasterCard, UnionPay)
+* Bank Transfer
+* Alipay / WeChat Pay
 
-- Cancellation before October 1, 2025: Full refund minus $50 processing fee
-- Cancellation between October 1-31, 2025: 50% refund
-- Cancellation after October 31, 2025: No refund
+## Author Registration
 
-### Author Registration
+At least one author of each accepted paper must register for the conference by the camera-ready deadline (June 15, 2025) for the paper to be included in the proceedings.
 
-At least one author of each accepted paper must register for the conference by the camera-ready deadline (September 5, 2025) for the paper to be included in the proceedings.
-
-### Student Registration
+## Student Registration
 
 To qualify for student rates, you must:
-- Be currently enrolled as a full-time student
-- Provide a valid student ID or letter from your institution
-- Register using your student email address
 
-### Contact
+* Be currently enrolled as a full-time student
+* Provide a valid student ID or letter from your institution confirming your studentship
+* Send the confirmation letter to registration@gpeml2025.org
+
+## Contact
 
 For registration inquiries, please contact: registration@gpeml2025.org
