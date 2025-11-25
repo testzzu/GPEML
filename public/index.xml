@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to GPEML on GPEML Conference</title>
+    <link>http://localhost:1313/GPEML/</link>
+    <description>Recent content in Welcome to GPEML on GPEML Conference</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/GPEML/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop Photos</title>
+      <link>http://localhost:1313/GPEML/photos/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/photos/</guid>
+      <description>&lt;h2 id=&#34;snapshots-from-recent-gpeml-workshops&#34;&gt;Snapshots from Recent GPEML Workshops&lt;/h2&gt;
+&lt;p&gt;Relive the atmosphere of previous GPEML workshops through a curated selection of photos. More images will be added after each edition.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Keynote session with international speakers.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Interactive poster and demo discussions.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Networking during coffee breaks.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo3.jpg&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you captured memorable moments at GPEML and would like to share them, please email &lt;code&gt;photos@gpeml2025.org&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proceedings</title>
+      <link>http://localhost:1313/GPEML/proceedings/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:27 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/proceedings/</guid>
+      <description>&lt;h2 id=&#34;conference-proceedings&#34;&gt;Conference Proceedings&lt;/h2&gt;
+&lt;p&gt;The proceedings of GPEML will be published and made available to all registered attendees.&lt;/p&gt;
+&lt;h3 id=&#34;publication-information&#34;&gt;Publication Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; To be announced&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Digital and Print (if applicable)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ISBN:&lt;/strong&gt; To be assigned&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOI:&lt;/strong&gt; To be assigned&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;access&#34;&gt;Access&lt;/h3&gt;
+&lt;p&gt;All registered attendees will receive access to the digital proceedings. Proceedings will be available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Online through the conference website&lt;/li&gt;
+&lt;li&gt;Via download link sent to registered attendees&lt;/li&gt;
+&lt;li&gt;On USB drive (if provided at the conference)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;paper-format&#34;&gt;Paper Format&lt;/h3&gt;
+&lt;p&gt;Accepted papers will be published in the conference proceedings following the Springer LNCS format guidelines.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/GPEML/program/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:25 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/program/</guid>
+      <description>&lt;h2 id=&#34;conference-program&#34;&gt;Conference Program&lt;/h2&gt;
+&lt;p&gt;Stay on top of every session with the confirmed schedule below. Additional days and afternoon sessions will be added once finalized.&lt;/p&gt;
+&lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;July 10, 14:00–21:00:&lt;/strong&gt; On-site registration opens in the venue lobby.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;july-11-2025--morning-sessions&#34;&gt;July 11, 2025 · Morning Sessions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Chair&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:00–9:30&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Opening Ceremony&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;• Speeches from Vice-Presidents&lt;!-- raw HTML omitted --&gt;• Group Photo&lt;/td&gt;
+          &lt;td&gt;Chair: Wei Xu&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:30–10:10&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Linear Genetic Programming&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Wolfgang Banzhaf&lt;/td&gt;
+          &lt;td&gt;Chair: Jing Liang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:10–10:30&lt;/td&gt;
+          &lt;td&gt;Tea Break&lt;/td&gt;
+          &lt;td&gt;Chair: —&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30–11:10&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Revisiting Evolutionary Machine Learning – 50 Years of Development&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Mengjie Zhang&lt;/td&gt;
+          &lt;td&gt;Chair: Liang Feng&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:10–11:50&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Co-Evolutionary Approach to Program and Test Case Generation with Large Language Models&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Yuan Yuan&lt;/td&gt;
+          &lt;td&gt;Chair: —&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:50–12:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; What are the unique advantages of GPEML? What are the biggest bottlenecks in GPEML development and real-world adoption, and how to overcome them?&lt;!-- raw HTML omitted --&gt;Panelists: Prof. Mengjie Zhang, Prof. Wolfgang Banzhaf, Prof. Chao Qian, Prof. Yuan Yuan, Prof. Yanan Sun&lt;/td&gt;
+          &lt;td&gt;Chair: Bing Xue&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-11-2025--afternoon-sessions&#34;&gt;July 11, 2025 · Afternoon Sessions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Chair&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00–14:40&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Evolutionary Learning – From Theory to Practice&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Chao Qian&lt;/td&gt;
+          &lt;td&gt;Chair: Yu Xue&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:40–15:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Feature Space Transformations with Genetic Programming&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Leonardo Trujillo&lt;/td&gt;
+          &lt;td&gt;Chair: P. N. Suganthan&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:20–15:40&lt;/td&gt;
+          &lt;td&gt;Tea Break&lt;/td&gt;
+          &lt;td&gt;Chair: —&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:40–16:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Runtime Analysis of Evolutionary NAS for Multiclass Classification&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Yanan Sun&lt;/td&gt;
+          &lt;td&gt;Chair: Xiny Zhou&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:20–17:00&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; How Neutrality Shapes Evolution – Simplicity Bias and Search&lt;!-- raw HTML omitted --&gt;Speaker: A/Prof. Ting Hu&lt;/td&gt;
+          &lt;td&gt;Chair: Wenjing Hong&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17:00–17:40&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Automated Algorithm Design with Large Language Models&lt;!-- raw HTML omitted --&gt;Speaker: A/Prof. Zichao Lu&lt;/td&gt;
+          &lt;td&gt;Chair: Ying Bi&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-12-2025--morning-sessions&#34;&gt;July 12, 2025 · Morning Sessions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Chair&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:00–9:40&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Training Autoencoders with Cooperative Coevolution&lt;!-- raw HTML omitted --&gt;Speaker: Dr. Erik Hemberg&lt;/td&gt;
+          &lt;td&gt;Chair: Peng Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9:40–10:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Neural PDE Solvers: From Black-Box Approximators to Transparent Scientific Tools via Evolution-Inspired Strategies&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Min Jiang&lt;/td&gt;
+          &lt;td&gt;Chair: Wei Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:20–10:40&lt;/td&gt;
+          &lt;td&gt;Tea Break&lt;/td&gt;
+          &lt;td&gt;Chair: —&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:40–11:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Evolving Models, Exploring Spaces: Evolutionary Computation as a Pathway to Efficiency and Creativity&lt;!-- raw HTML omitted --&gt;Speaker: A/Prof. Penousal Machado&lt;/td&gt;
+          &lt;td&gt;Chair: Caitong Yue&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:20–12:00&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Genetic Programming for Automated Feature and Model Learning: From Theory to Real-World Applications&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Bing Xue&lt;/td&gt;
+          &lt;td&gt;Chair: Cuie Yang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:00–12:30&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; How to Publish GPEML Papers in Top-Tier Conferences and Journals?&lt;!-- raw HTML omitted --&gt;Panelists: Prof. Bing Xue, A/Prof. Penousal Machado, Prof. Leonardo Trujillo, Prof. Min Jiang, Prof. Jinghui Zhong&lt;/td&gt;
+          &lt;td&gt;Chair: Ting Hu&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-12-2025--afternoon-sessions&#34;&gt;July 12, 2025 · Afternoon Sessions&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Chair&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00–14:40&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Data-driven Optimization of Complex Systems Assisted by Small and Large Models&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Yaochu Jin&lt;/td&gt;
+          &lt;td&gt;Chair: Mengjie Zhang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:40–15:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Integrating Pretrained Transformers with Genetic Programming for Symbolic Regression&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Jinghui Zhong&lt;/td&gt;
+          &lt;td&gt;Chair: Wei Du&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:20–15:40&lt;/td&gt;
+          &lt;td&gt;Tea Break&lt;/td&gt;
+          &lt;td&gt;Chair: —&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:40–16:20&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Innovative Applications of Genetic Programming in Agricultural Remote Sensing&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Miao Lu&lt;/td&gt;
+          &lt;td&gt;Chair: Ke Chen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:20–17:00&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Greedy is Good?!&lt;!-- raw HTML omitted --&gt;Speaker: A/Prof. Yahui Jia&lt;/td&gt;
+          &lt;td&gt;Chair: Qiqi Liu&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17:00–17:40&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Research on GPEML in Zhengzhou University &amp;amp; Closing Ceremony&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;Speaker: Prof. Ying Bi&lt;/td&gt;
+          &lt;td&gt;Chair: Gonglin Yuan&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/GPEML/registration/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:24 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/registration/</guid>
+      <description>&lt;h2 id=&#34;conference-registration&#34;&gt;Conference Registration&lt;/h2&gt;
+&lt;p&gt;Registration for GPEML is now open. All attendees must register to participate in the conference.&lt;/p&gt;
+&lt;h3 id=&#34;registration-fees&#34;&gt;Registration Fees&lt;/h3&gt;
+&lt;h4 id=&#34;early-bird-registration-before-september-1-2025&#34;&gt;Early Bird Registration (Before September 1, 2025)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Regular Attendee:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEEE/ACM Member:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;regular-registration-after-september-1-2025&#34;&gt;Regular Registration (After September 1, 2025)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Regular Attendee:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEEE/ACM Member:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;on-site-registration&#34;&gt;On-Site Registration&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Regular Attendee:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEEE/ACM Member:&lt;/strong&gt; $XXX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;All prices are in USD. Registration fees include: conference proceedings, welcome reception, coffee breaks, and conference dinner.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accommodations with Discount</title>
+      <link>http://localhost:1313/GPEML/attending/accommodations-with-discount/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:22 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/attending/accommodations-with-discount/</guid>
+      <description>&lt;p&gt;We have secured discounted room blocks at hotels within walking distance of the workshop venue. Early booking is strongly recommended; booking codes are required to claim the negotiated rates.&lt;/p&gt;
+&lt;h3 id=&#34;huazhi-hotel-conference-venue&#34;&gt;Huazhi Hotel (Conference Venue)&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Business rooms at Huazhi Hotel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/accommodations/huazhi.jpg&#34; title=&#34;Business queen and standard rooms&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Business King Room (single occupancy, 1 breakfast):&lt;/strong&gt; ¥350 per night&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Twin Room (double occupancy, 2 breakfasts):&lt;/strong&gt; ¥380 per night&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sales Manager:&lt;/strong&gt; Li Guangxi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; +86 156 1791 2750&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To guarantee the discounted rate, contact the sales manager directly and mention you are attending GPEML 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conference Venue</title>
+      <link>http://localhost:1313/GPEML/attending/conference-venue/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:22 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/attending/conference-venue/</guid>
+      <description>&lt;h2 id=&#34;date--venue&#34;&gt;Date &amp;amp; Venue&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; July 10–12, 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Huazhi Hotel, Zhengzhou
+&lt;ul&gt;
+&lt;li&gt;No. 97, Kexue Avenue, Zhongyuan District, Zhengzhou (intersection of Kexue Avenue and Changchun Road)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Huazhi Hotel offers modern plenary halls, flexible breakout rooms, high-speed Wi-Fi, and seamless catering service for coffee breaks and lunches. Accessibility services are available upon request. Additional logistics and onsite tips will be added as the event approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meeting Rooms and Floor Plans</title>
+      <link>http://localhost:1313/GPEML/attending/meeting-rooms-and-floor-plans/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:22 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/attending/meeting-rooms-and-floor-plans/</guid>
+      <description>&lt;p&gt;Detailed floor plans and room assignments will be published alongside the final programme. Onsite signage and the event app will mirror the information provided here to help you navigate the venue efficiently.&lt;/p&gt;
+&lt;h3 id=&#34;planned-resources&#34;&gt;Planned Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Downloadable PDF map showing plenary, breakout, and poster spaces&lt;/li&gt;
+&lt;li&gt;Accessibility paths and elevator locations&lt;/li&gt;
+&lt;li&gt;Registration desk hours and help-desk locations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please revisit this page closer to the workshop for the latest layouts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Submission</title>
+      <link>http://localhost:1313/GPEML/submission/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:20 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/submission/</guid>
+      <description>&lt;h2 id=&#34;paper-submission&#34;&gt;Paper Submission&lt;/h2&gt;
+&lt;p&gt;All paper submissions must be made through the conference submission system.&lt;/p&gt;
+&lt;h3 id=&#34;submission-system&#34;&gt;Submission System&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://easychair.org/conferences/?conf=gpeml2025&#34;&gt;Submit your paper here&lt;/a&gt; (Link to be updated)&lt;/p&gt;
+&lt;h3 id=&#34;submission-guidelines&#34;&gt;Submission Guidelines&lt;/h3&gt;
+&lt;h4 id=&#34;format-requirements&#34;&gt;Format Requirements&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Format:&lt;/strong&gt; Springer LNCS (Lecture Notes in Computer Science) format&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page Limit:&lt;/strong&gt; Maximum 12 pages (including references)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File Format:&lt;/strong&gt; PDF only&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Language:&lt;/strong&gt; English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;paper-categories&#34;&gt;Paper Categories&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Regular Papers&lt;/strong&gt; - Full research papers (12 pages)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Short Papers&lt;/strong&gt; - Work-in-progress or position papers (6 pages)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;review-process&#34;&gt;Review Process&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;All papers will undergo a double-blind review process&lt;/li&gt;
+&lt;li&gt;Each paper will be reviewed by at least three program committee members&lt;/li&gt;
+&lt;li&gt;Reviews will be based on originality, technical quality, significance, and clarity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper Submission Deadline:&lt;/strong&gt; June 13, 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extended Paper Submission Deadline:&lt;/strong&gt; June 27, 2025 (Anywhere on Earth)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acceptance Notification:&lt;/strong&gt; August 22, 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Camera-Ready Submission:&lt;/strong&gt; September 5, 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;submission-checklist&#34;&gt;Submission Checklist&lt;/h3&gt;
+&lt;p&gt;Before submitting, please ensure:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Calls</title>
+      <link>http://localhost:1313/GPEML/calls/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:18 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/calls/</guid>
+      <description>&lt;h2 id=&#34;calls&#34;&gt;Calls&lt;/h2&gt;
+&lt;p&gt;This section contains all the calls for participation in GPEML.&lt;/p&gt;
+&lt;h3 id=&#34;call-for-papers&#34;&gt;&lt;a href=&#34;http://localhost:1313/GPEML/calls/call-for-papers/&#34;&gt;Call for Papers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Program Committee invites original, substantial, and unpublished technical papers on all areas of Artificial Intelligence and Machine Learning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deadline:&lt;/strong&gt; June 13, 2025 (Extended: June 27, 2025)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;call-for-workshops&#34;&gt;&lt;a href=&#34;http://localhost:1313/GPEML/calls/call-for-workshops/&#34;&gt;Call for Workshops&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We invite proposals for workshops to be held in conjunction with GPEML.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deadline:&lt;/strong&gt; April 22, 2025&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;call-for-sponsorship&#34;&gt;&lt;a href=&#34;http://localhost:1313/GPEML/calls/call-for-sponsorship/&#34;&gt;Call for Sponsorship&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We welcome sponsorship from organizations interested in supporting GPEML.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization</title>
+      <link>http://localhost:1313/GPEML/organization/</link>
+      <pubDate>Fri, 21 Nov 2025 10:28:16 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/organization/</guid>
+      <description>&lt;h2 id=&#34;steering-committee&#34;&gt;Steering Committee&lt;/h2&gt;
+&lt;p&gt;Members of the first Steering Committee are:&lt;/p&gt;
+&lt;div class=&#34;member-grid&#34;&gt;
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Wolfgang_Banzhaf.png&#34; alt=&#34;Wolfgang Banzhaf&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Wolfgang Banzhaf&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Michigan State University, East Lansing&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Mengjie_Zhang.png&#34; alt=&#34;Mengjie Zhang&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Mengjie Zhang&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, Wellington&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Bing_Xue.png&#34; alt=&#34;Bing Xue&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Bing Xue&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, Wellington&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Ying_Bi.png&#34; alt=&#34;Ying Bi&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Ying Bi&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, Zhengzhou&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/ChaoQian.jpg&#34; alt=&#34;Chao Qian&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Chao Qian&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Nanjing University, Nanjing&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Jinghui_Zhong.jpg&#34; alt=&#34;Jinghui Zhong&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Jinghui Zhong&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;South China University of Technology, Guangzhou&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Yanan_sun.jpg&#34; alt=&#34;Yanan Sun&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Yanan Sun&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Sichuan University, Chengdu&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Cuie_Yang.png&#34; alt=&#34;Cuie Yang&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Cuie Yang&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Northeast University, Shenyang&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Feng_Liang.jpg&#34; alt=&#34;Liang Feng&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;Liang Feng&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Chongqing University, Chongqing&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;hr&gt;
+&lt;h2 id=&#34;11-goals-and-duties&#34;&gt;1.1 Goals and Duties&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Promote GPEML in China&lt;/strong&gt;: Promote Genetic Programming and Evolutionary Machine Learning in China (including Mainland China, Hong Kong, Macau, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advance research and applications&lt;/strong&gt;: Promote and enhance research and applications of GPEML in China&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Foster international collaborations&lt;/strong&gt;: Promote international collaborations between Chinese GPEML researchers and innovative researchers worldwide&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Develop young researchers&lt;/strong&gt;: Develop postgraduate research students and early career researchers to undertake research and applications in GPEML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop branding&lt;/strong&gt;: Establish and update/review the name of the annual workshop (with the possibility to expand it to a conference in the future)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue and schedule&lt;/strong&gt;: Determine the venue and dates of each workshop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programme approval&lt;/strong&gt;: Discuss and approve the draft programme proposed by the organizing committee, including invited speakers of the workshop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format review&lt;/strong&gt;: Periodically review the workshop format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Special issues&lt;/strong&gt;: Facilitate the organisation of special issues derived from the workshop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Book publication&lt;/strong&gt;: Facilitate the organisation of publishing a book in the &lt;em&gt;Genetic and Evolutionary Computation&lt;/em&gt; Springer Book Series&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;12-scope&#34;&gt;1.2 Scope&lt;/h2&gt;
+&lt;p&gt;GPEML focuses on research and applications of Genetic Programming and Evolutionary Machine Learning, with the following major aspects:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
