@@ -39,7 +39,16 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://testzzu.github.io/GPEML/" 
+        run: hugo --minify --baseURL "https://testzzu.github.io/GPEML/"
+
+      - name: Verify build output
+        run: |
+          if [ ! -f ./public/index.html ]; then
+            echo "Error: index.html not found in public directory!"
+            exit 1
+          fi
+          echo "Build verification passed. Files in public/:"
+          ls -la ./public/ | head -20
 
       - name: Create .nojekyll file
         run: touch ./public/.nojekyll
