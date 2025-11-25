@@ -58,7 +58,7 @@ Pure optimisation methods and applications, e.g., EC for numeric continuous opti
 
 ---
 
-## 3. Workshop Organisation
+## 2. Workshop Organisation
 
 ### Time
 
@@ -74,6 +74,6 @@ Each workshop will invite a number of international and national innovative rese
 
 ---
 
-## 4. Meetings
+## 3. Meetings
 
 The Steering Committee meets two to three times per year. The main in-person meeting is held during the workshop, ideally on the first day of registration before the workshop opening. The other meetings are organised virtually (Zoom/Teams/Tencent/Voov), including one around December/January to review progress for the next workshop and another around May/June to help the organisers finalise the programme.

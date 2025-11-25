@@ -6,140 +6,52 @@ title = 'Program'
 
 ## Conference Program
 
-The detailed program for GPEML will be available closer to the conference date. Below is a tentative schedule.
+Stay on top of every session with the confirmed schedule below. Additional days and afternoon sessions will be added once finalized.
 
-### Tentative Program at a Glance
+### Registration
 
-**Monday, November 17, 2025**
-- Morning: Workshops
-- Afternoon: Workshops
-- Evening: Welcome Reception
+- **July 10, 14:00–21:00:** On-site registration opens in the venue lobby.
 
-**Tuesday, November 18, 2025**
-- Morning: Opening Ceremony, Keynote 1, Technical Sessions
-- Afternoon: Technical Sessions, Poster Session
-- Evening: Conference Dinner
+### July 11, 2025 · Morning Sessions
 
-**Wednesday, November 19, 2025**
-- Morning: Keynote 2, Technical Sessions
-- Afternoon: Technical Sessions, Industry Panel
-- Evening: Social Event
+| Time | Session | Chair |
+| --- | --- | --- |
+| 9:00–9:30 | **Opening Ceremony**<br/>• Speeches from Vice-Presidents<br/>• Group Photo | Chair: Wei Xu |
+| 9:30–10:10 | **Invited Talk:** Linear Genetic Programming<br/>Speaker: Prof. Wolfgang Banzhaf | Chair: Jing Liang |
+| 10:10–10:30 | Tea Break | Chair: — |
+| 10:30–11:10 | **Invited Talk:** Revisiting Evolutionary Machine Learning – 50 Years of Development<br/>Speaker: Prof. Mengjie Zhang | Chair: Liang Feng |
+| 11:10–11:50 | **Invited Talk:** Co-Evolutionary Approach to Program and Test Case Generation with Large Language Models<br/>Speaker: Prof. Yuan Yuan | Chair: — |
+| 11:50–12:20 | **Panel Discussion:** What are the unique advantages of GPEML? What are the biggest bottlenecks in GPEML development and real-world adoption, and how to overcome them?<br/>Panelists: Prof. Mengjie Zhang, Prof. Wolfgang Banzhaf, Prof. Chao Qian, Prof. Yuan Yuan, Prof. Yanan Sun | Chair: Bing Xue |
 
-**Thursday, November 20, 2025**
-- Morning: Keynote 3, Technical Sessions
-- Afternoon: Technical Sessions, Tutorials
-- Evening: Free Time
+### July 11, 2025 · Afternoon Sessions
 
-**Friday, November 21, 2025**
-- Morning: Technical Sessions, Tutorials
-- Afternoon: Closing Ceremony
+| Time | Session | Chair |
+| --- | --- | --- |
+| 14:00–14:40 | **Invited Talk:** Evolutionary Learning – From Theory to Practice<br/>Speaker: Prof. Chao Qian | Chair: Yu Xue |
+| 14:40–15:20 | **Invited Talk:** Feature Space Transformations with Genetic Programming<br/>Speaker: Prof. Leonardo Trujillo | Chair: P. N. Suganthan |
+| 15:20–15:40 | Tea Break | Chair: — |
+| 15:40–16:20 | **Invited Talk:** Runtime Analysis of Evolutionary NAS for Multiclass Classification<br/>Speaker: Prof. Yanan Sun | Chair: Xiny Zhou |
+| 16:20–17:00 | **Invited Talk:** How Neutrality Shapes Evolution – Simplicity Bias and Search<br/>Speaker: A/Prof. Ting Hu | Chair: Wenjing Hong |
+| 17:00–17:40 | **Invited Talk:** Automated Algorithm Design with Large Language Models<br/>Speaker: A/Prof. Zichao Lu | Chair: Ying Bi |
 
----
+### July 12, 2025 · Morning Sessions
 
-## Keynote Speakers
+| Time | Session | Chair |
+| --- | --- | --- |
+| 9:00–9:40 | **Invited Talk:** Training Autoencoders with Cooperative Coevolution<br/>Speaker: Dr. Erik Hemberg | Chair: Peng Wang |
+| 9:40–10:20 | **Invited Talk:** Neural PDE Solvers: From Black-Box Approximators to Transparent Scientific Tools via Evolution-Inspired Strategies<br/>Speaker: Prof. Min Jiang | Chair: Wei Li |
+| 10:20–10:40 | Tea Break | Chair: — |
+| 10:40–11:20 | **Invited Talk:** Evolving Models, Exploring Spaces: Evolutionary Computation as a Pathway to Efficiency and Creativity<br/>Speaker: A/Prof. Penousal Machado | Chair: Caitong Yue |
+| 11:20–12:00 | **Invited Talk:** Genetic Programming for Automated Feature and Model Learning: From Theory to Real-World Applications<br/>Speaker: Prof. Bing Xue | Chair: Cuie Yang |
+| 12:00–12:30 | **Panel Discussion:** How to Publish GPEML Papers in Top-Tier Conferences and Journals?<br/>Panelists: Prof. Bing Xue, A/Prof. Penousal Machado, Prof. Leonardo Trujillo, Prof. Min Jiang, Prof. Jinghui Zhong | Chair: Ting Hu |
 
-We are honored to have distinguished keynote speakers at GPEML.
+### July 12, 2025 · Afternoon Sessions
 
-### Keynote Speaker 1
-
-**Name:** To be announced  
-**Affiliation:** To be announced  
-**Title:** To be announced
-
-*Keynote details will be updated.*
-
-### Keynote Speaker 2
-
-**Name:** To be announced  
-**Affiliation:** To be announced  
-**Title:** To be announced
-
-*Keynote details will be updated.*
-
-### Keynote Speaker 3
-
-**Name:** To be announced  
-**Affiliation:** To be announced  
-**Title:** To be announced
-
-*Keynote details will be updated.*
-
----
-
-## Workshops
-
-GPEML will feature several workshops on specialized topics. Workshop details will be announced after the workshop proposal deadline.
-
-### Workshop Schedule
-
-Workshop schedules and topics will be available after acceptance notifications.
-
----
-
-## Tutorials
-
-A series of tutorials will be offered covering various topics in AI and ML. Tutorial details will be announced after the tutorial proposal deadline.
-
-### Tutorial Schedule
-
-Tutorial schedules and topics will be available after acceptance notifications.
-
----
-
-## Technical Sessions
-
-Technical sessions will feature presentations of accepted papers, organized by topic areas:
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Robotics
-- Knowledge Representation
-- Planning and Scheduling
-- Multi-agent Systems
-- AI Applications
-
-Detailed session schedules will be available in the full program.
-
----
-
-## Online Poster Gallery
-
-Accepted poster papers will be featured in an online poster gallery, accessible to all conference attendees.
-
-[View Poster Gallery](https://posters.gpeml2025.org) (Link to be updated)
-
----
-
-## Industry Panelists
-
-An industry panel will feature leaders from major technology companies discussing current trends and future directions in AI and ML.
-
-### Panelists
-
-Panelist information will be announced closer to the conference date.
-
----
-
-## Tentative Program
-
-The full tentative program with detailed schedules will be available after paper acceptance notifications. Please check back for updates.
-
----
-
-## Social Events
-
-### Welcome Reception
-
-**Date:** Monday, November 17, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** To be announced
-
-### Conference Dinner
-
-**Date:** Tuesday, November 18, 2025  
-**Time:** 7:00 PM - 10:00 PM  
-**Location:** To be announced
-
-*Additional social events may be organized. Details will be provided in the final program.*
+| Time | Session | Chair |
+| --- | --- | --- |
+| 14:00–14:40 | **Invited Talk:** Data-driven Optimization of Complex Systems Assisted by Small and Large Models<br/>Speaker: Prof. Yaochu Jin | Chair: Mengjie Zhang |
+| 14:40–15:20 | **Invited Talk:** Integrating Pretrained Transformers with Genetic Programming for Symbolic Regression<br/>Speaker: Prof. Jinghui Zhong | Chair: Wei Du |
+| 15:20–15:40 | Tea Break | Chair: — |
+| 15:40–16:20 | **Invited Talk:** Innovative Applications of Genetic Programming in Agricultural Remote Sensing<br/>Speaker: Prof. Miao Lu | Chair: Ke Chen |
+| 16:20–17:00 | **Invited Talk:** Greedy is Good?!<br/>Speaker: A/Prof. Yahui Jia | Chair: Qiqi Liu |
+| 17:00–17:40 | **Research on GPEML in Zhengzhou University & Closing Ceremony**<br/>Speaker: Prof. Ying Bi | Chair: Gonglin Yuan |

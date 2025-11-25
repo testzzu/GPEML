@@ -15,35 +15,33 @@ GPEML focuses on the cutting-edge theories and applications of Genetic Programmi
 
 GPEML will take place in person. The Program Committee invites original, substantial, and unpublished technical papers on all areas of Genetic Programming and Evolutionary Machine Learning.
 
-## Important Dates
+## Key Dates
 
-**Workshop Proposal Submission Deadline:** April 22, 2025
+The 2025 GPEML workshop will run July 10–12 in Zhengzhou, Henan Province. The program spans two packed days dedicated to accelerating academic exchange, showcasing breakthroughs in GP and EML, and connecting researchers across disciplines. We look forward to seeing you onsite!
 
-**Paper Submission Deadline:** June 13, 2025 
-
-**Extended Paper Submission Deadline:** June 27, 2025 (Anywhere on Earth)
-
-**Tutorial Proposal Submission Deadline:** June 23, 2025
-
-**Acceptance Notification:** August 22, 2025
-
-**Camera-Ready Submission:** September 5, 2025
-
-**Main Conference:** November 17–21, 2025
+- **July 10, 14:00–21:00:** On-site registration and welcome services  
+- **July 11 (morning & afternoon):** Plenary sessions, invited talks, and expert panels  
+- **July 12:** Focused discussions, collaboration meetings, and closing activities (detailed agenda coming soon)
 
 ---
 
-## Sponsors
+## Date & Venue
 
-### Platinum Sponsor
+- **Time:** July 10–12, 2025  
+- **Venue:** Huazhi Hotel, Zhengzhou  
+  - No. 97, Kexue Avenue, Zhongyuan District, Zhengzhou (intersection of Kexue Avenue and Changchun Road)
 
-*Shenzhen Institute of Technology*  
-*Shenzhen University of Advanced Technology*
+---
 
-### Silver Sponsor
+## Organizers
 
-*Topologic*  
-*Center for Data Science and Artificial Intelligence*
+- **Host:** IEEE Computational Intelligence Society  
+- **Organizer:** School of Electrical and Information Engineering, Zhengzhou University  
+- **Co-organizers:**  
+  - Henan Institute of Technology  
+  - Henan Society of Bioinformatics (Preparatory)  
+  - IEEE CIS Zhengzhou Chapter  
+  - IEEE Zhengzhou University Student Branch
 
 ---
 

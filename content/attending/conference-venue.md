@@ -4,14 +4,11 @@ draft = false
 title = 'Conference Venue'
 +++
 
-GPEML will be hosted at a premier conference facility. Detailed venue information (address, access instructions, and onsite services) will be provided once the annual workshop location is finalised.
+## Date & Venue
 
-### What to Expect
+- **Time:** July 10–12, 2025  
+- **Venue:** Huazhi Hotel, Zhengzhou  
+  - No. 97, Kexue Avenue, Zhongyuan District, Zhengzhou (intersection of Kexue Avenue and Changchun Road)
 
-- Modern plenary hall and breakout rooms equipped for hybrid sessions  
-- High-speed Wi-Fi throughout the venue  
-- Catering services covering coffee breaks and lunches  
-- Accessibility services available upon request  
-
-Venue logistics, transportation tips, and nearby amenities will appear here as soon as the host institution is announced.
+The Huazhi Hotel offers modern plenary halls, flexible breakout rooms, high-speed Wi-Fi, and seamless catering service for coffee breaks and lunches. Accessibility services are available upon request. Additional logistics and onsite tips will be added as the event approaches.
 

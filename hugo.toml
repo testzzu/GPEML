@@ -53,19 +53,9 @@ theme = 'PaperMod'
     weight = 30
   [[menu.main]]
     parent = 'attending'
-    name = 'Special Airfares'
-    url = '/attending/special-airfares/'
-    weight = 31
-  [[menu.main]]
-    parent = 'attending'
     name = 'Accommodations with Discount'
     url = '/attending/accommodations-with-discount/'
     weight = 32
-  [[menu.main]]
-    parent = 'attending'
-    name = 'Visa Information Guide'
-    url = '/attending/visa-information-guide/'
-    weight = 33
   [[menu.main]]
     parent = 'attending'
     name = 'Conference Venue'

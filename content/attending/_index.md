@@ -4,36 +4,7 @@ draft = false
 title = 'Attending'
 +++
 
-Welcome to the attendee information hub for GPEML. Use the submenu items to explore practical details on travel, accommodation, visas, and the venue. Additional attendee services remain available below.
-
----
-
-## Student Scholarship Program — "Students are the Future"
-
-The GPEML Student Scholarship Program provides financial support to help students attend the workshop.
-
-### Eligibility
-
-- Currently enrolled as a graduate or undergraduate student  
-- Accepted presentation at GPEML (preferred but not required)  
-- Demonstrated financial need  
-
-### Benefits
-
-- Workshop registration fee waiver  
-- Accommodation support (if available)  
-- Travel grant (partial, based on availability)  
-
-### Application Process
-
-1. Complete the scholarship application form  
-2. Submit a letter of recommendation from your advisor  
-3. Provide a statement of purpose  
-4. Include your CV/Resume  
-
-**Application Deadline:** To be announced  
-
-Questions: `scholarship@gpeml2025.org`
+Welcome to the attendee information hub for GPEML. Use the submenu items to explore practical details on travel, accommodation, and the venue. Additional attendee services remain available below.
 
 ---
 
@@ -41,7 +12,45 @@ Questions: `scholarship@gpeml2025.org`
 
 ### Transportation
 
-Details about airport transfers, local transit cards, and on-demand mobility services will be published with the final programme.
+**From Zhengzhou Xinzheng International Airport (CGO)**
+
+- **Taxi**
+  - Distance: ~55 km
+  - Duration: about 1 hour, depending on traffic
+  - Boarding: Use the ride-hailing pick-up area at Terminal 2
+- **Metro**
+  1. Enter Zhengzhou Metro at Xinzheng Airport Station (Exit B)
+  2. Take the Suburban Line to Nansihuan Station
+  3. Transfer to Line 2 toward Zijingshan Station
+  4. Transfer to Line 1 toward Zhengzhou University Station (Exit B)
+  5. Walk approximately 100 m west to reach the venue
+  - Total metro travel time: roughly 2 hours
+
+**From Zhengzhou East Railway Station**
+
+- **Taxi**
+  - Distance: ~28 km
+  - Duration: about 40 minutes
+  - Boarding: Taxi or ride-hailing pick-up area
+- **Metro**
+  1. Enter the metro network at Zhengzhou East Station
+  2. Ride Line 8 to Zhengzhou University Station (Exit E)
+  3. Walk approximately 30 m straight to the venue
+  - Total metro travel time: roughly 46 minutes
+
+**From Zhengzhou Railway Station**
+
+- **Taxi**
+  - Distance: ~16 km
+  - Duration: about 30 minutes
+  - Boarding: West Square ground parking area
+- **Metro**
+  1. Enter the metro at Zhengzhou Station (Exit B)
+  2. Take Line 1 to Zhengzhou University Station (Exit E)
+  3. Walk approximately 30 m straight to the venue
+  - Total metro travel time: roughly 40 minutes
+
+Details on city transit cards and additional mobility options will be posted as soon as they are confirmed.
 
 ### Dining
 
