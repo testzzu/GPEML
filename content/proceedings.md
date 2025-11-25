@@ -4,4 +4,4 @@ draft = false
 title = 'Proceedings'
 +++
 
-{{< pdf-viewer src="/other/GPEML_program.pdf" title="GPEML Program" >}}
+{{< pdf-viewer src="/other/GPEML_program_compressed.pdf" title="GPEML Program" >}}
