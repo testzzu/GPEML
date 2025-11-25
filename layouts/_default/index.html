@@ -9,11 +9,11 @@
         {{- if $heroImg }}
             {{- $heroImg = $heroImg.Resize "1400x" }}
             <div class="hero-image">
-                <img src="{{ $heroImg.Permalink }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
+                <img src="{{ $heroImg.RelPermalink }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
             </div>
         {{- else }}
             <div class="hero-image">
-                <img src="{{ .Params.hero.image | absURL }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
+                <img src="{{ .Params.hero.image | relURL }}" alt="{{ .Params.hero.alt | default "GPEML Conference" }}" />
             </div>
         {{- end }}
         {{- else }}
