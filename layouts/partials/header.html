@@ -25,7 +25,11 @@
                     <img src="{{ $img.Permalink }}" alt="" aria-label="logo"
                         height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- else }}
-                <img src="{{- site.Params.label.icon | absURL -}}" alt="" aria-label="logo"
+                {{- $iconPath := site.Params.label.icon }}
+                {{- if hasPrefix $iconPath "/" }}
+                    {{- $iconPath = $iconPath | strings.TrimPrefix "/" }}
+                {{- end }}
+                <img src="{{ printf "%s%s" site.BaseURL $iconPath }}" alt="" aria-label="logo"
                     height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- end -}}
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
