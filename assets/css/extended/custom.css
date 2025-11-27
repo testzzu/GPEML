@@ -69,9 +69,50 @@ header.header {
 
 header.header .nav {
     background-color: #003366 !important;
-    padding: 10px 0 !important;
+    padding: 15px 0 !important;
+    min-height: var(--header-height, 60px) !important;
     justify-content: center !important;
+    align-items: center !important;
     gap: var(--gap);
+    max-width: 100% !important;
+    display: flex !important;
+    line-height: normal !important;
+}
+
+/* Center the menu items */
+header.header .nav #menu {
+    margin: 0 auto !important;
+    justify-content: center !important;
+    display: flex !important;
+    flex: 0 0 auto;
+}
+
+/* Position logo to not interfere with menu centering */
+header.header .nav .logo {
+    flex: 0 0 auto;
+    margin: 0 !important;
+    order: -1;
+}
+
+/* On desktop, if logo is minimal, ensure menu is centered */
+@media (min-width: 769px) {
+    header.header .nav {
+        justify-content: center !important;
+        padding: 15px 0 !important;
+        min-height: 60px !important;
+    }
+    
+    header.header .nav #menu {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 0 !important;
+    }
+    
+    header.header .nav .logo {
+        position: absolute;
+        left: var(--gap);
+    }
 }
 
 /* Logo and title styling */
@@ -185,14 +226,28 @@ header.header .lang-switch li {
 }
 
 /* Body and content styling - clean white background */
+html {
+    background-color: #ffffff !important;
+}
+
 body {
-    background-color: #ffffff;
+    background-color: #ffffff !important;
     color: #333333;
 }
 
 /* Main content area */
 .main {
     background-color: #ffffff;
+}
+
+/* Ensure list pages also have white background */
+.list {
+    background-color: #ffffff !important;
+}
+
+/* Ensure all page containers have white background */
+body.list {
+    background-color: #ffffff !important;
 }
 
 /* Headings styling */
@@ -208,8 +263,8 @@ h1 {
 }
 
 h2 {
-    border-bottom: 2px solid #e0e0e0;
-    padding-bottom: 8px;
+    border-bottom: none;
+    padding-bottom: 0;
     margin-top: 30px;
     margin-bottom: 15px;
     color: #004080;
@@ -432,18 +487,36 @@ button:hover, .button:hover {
     
     /* Header and navigation */
     header.header {
-        padding: 8px 0 !important;
+        padding: 0 !important;
     }
     
     header.header .nav {
-        flex-direction: column;
-        align-items: stretch;
+        flex-direction: row !important;
+        align-items: center !important;
+        padding: 12px 0 !important;
+        min-height: 50px !important;
+        position: relative !important;
+    }
+    
+    /* Reset menu positioning on mobile */
+    header.header .nav #menu {
+        position: static !important;
+        transform: none !important;
+        left: auto !important;
+        margin: 0 !important;
+    }
+    
+    /* Reset logo positioning on mobile */
+    header.header .nav .logo {
+        position: static !important;
+        left: auto !important;
     }
     
     header.header .logo {
-        margin: 0 10px;
-        justify-content: space-between;
-        width: 100%;
+        margin: 0 10px !important;
+        justify-content: space-between !important;
+        width: auto !important;
+        flex: 0 0 auto !important;
     }
     
     header.header .logo a {
@@ -457,28 +530,29 @@ button:hover, .button:hover {
     
     /* Menu - hidden by default on mobile, shown when toggle is active */
     header.header #menu {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        background-color: #003366;
-        position: absolute;
-        top: 100%;
-        left: 0;
-        right: 0;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        z-index: 1000;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease, padding 0.3s ease;
-        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        display: none !important;
+        flex-direction: column !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background-color: #003366 !important;
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+        transform: none !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+        z-index: 1000 !important;
+        max-height: 0 !important;
+        overflow: hidden !important;
+        transition: max-height 0.3s ease, padding 0.3s ease !important;
+        border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
     }
     
     header.header #menu.menu-open {
-        display: flex;
-        max-height: 500px;
-        padding: 10px 0;
+        display: flex !important;
+        max-height: 500px !important;
+        padding: 10px 0 !important;
     }
 
     header.header #menu.menu-open .submenu {
@@ -729,14 +803,49 @@ button:hover, .button:hover {
     }
 }
 
-/* Hero Banner Section */
+/* Hero Banner Section - Full width, breaking out of main container */
 .hero-banner {
-    width: 100%;
-    margin: 0;
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin: 0 !important;
+    margin-top: 0 !important;
+    margin-left: calc(-50vw + 50%) !important;
+    margin-right: calc(-50vw + 50%) !important;
     padding: 0;
     position: relative;
     overflow: hidden;
     background: linear-gradient(135deg, #003366 0%, #004080 100%);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Remove top margin/padding from main when hero banner is first child */
+.main > .hero-banner:first-child {
+    margin-top: 0 !important;
+}
+
+/* Remove any padding from main that creates spacing before hero */
+.main {
+    padding-top: 0 !important;
+}
+
+.main > .hero-banner ~ * {
+    padding-top: var(--gap);
+}
+
+/* Add smooth fade-in animation */
+@keyframes fadeInHero {
+    from {
+        opacity: 0;
+        transform: scale(1.05);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.hero-image {
+    animation: fadeInHero 1s ease-out;
 }
 
 /* Remove background when image is present */
@@ -750,36 +859,70 @@ button:hover, .button:hover {
 
 .hero-content {
     position: relative;
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .hero-image {
-    width: 100%;
+    width: 100% !important;
     display: block;
     position: relative;
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
     overflow: hidden;
-    background: transparent;
+    background: linear-gradient(135deg, #003366 0%, #004080 100%);
     line-height: 0;
-    max-width: 100%;
+    max-width: 100% !important;
+    min-height: 400px;
+    max-height: 600px;
+}
+
+.hero-image::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 51, 102, 0.4) 0%,
+        rgba(0, 51, 102, 0.2) 30%,
+        rgba(0, 51, 102, 0.1) 70%,
+        rgba(0, 51, 102, 0.5) 100%
+    );
+    z-index: 1;
+    pointer-events: none;
+}
+
+.hero-image::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.7) 15%, rgba(255, 255, 255, 0.3) 40%, rgba(255, 255, 255, 0) 100%);
+    z-index: 2;
+    pointer-events: none;
 }
 
 .hero-image img {
-    width: 100%;
-    height: auto;
+    width: 100% !important;
+    height: 100% !important;
     display: block;
     object-fit: cover;
-    object-position: center;
+    object-position: top left;
     min-height: 400px;
     max-height: 600px;
-    margin: 0;
-    padding: 0;
-    vertical-align: middle;
-    max-width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    opacity: 0.85;
+    transition: opacity 0.5s ease;
+    filter: brightness(0.95) contrast(1.05);
 }
 
 .hero-default {
@@ -840,18 +983,36 @@ button:hover, .button:hover {
 
 /* Hero banner responsive */
 @media (max-width: 768px) {
+    .hero-banner {
+        width: 100vw !important;
+        max-width: 100vw !important;
+        margin-left: calc(-50vw + 50%) !important;
+        margin-right: calc(-50vw + 50%) !important;
+    }
+    
     .hero-image {
         width: 100%;
         margin: 0;
         padding: 0;
     }
     
+    .hero-image::after {
+        height: 50px;
+    }
+    
+    .hero-image {
+        min-height: 300px;
+        max-height: 400px;
+    }
+    
     .hero-image img {
         width: 100%;
+        height: 100%;
         min-height: 300px;
         max-height: 400px;
         object-fit: cover;
-        object-position: center;
+        object-position: top left;
+        opacity: 0.9;
     }
     
     .hero-default {
@@ -879,18 +1040,36 @@ button:hover, .button:hover {
 }
 
 @media (max-width: 480px) {
+    .hero-banner {
+        width: 100vw !important;
+        max-width: 100vw !important;
+        margin-left: calc(-50vw + 50%) !important;
+        margin-right: calc(-50vw + 50%) !important;
+    }
+    
     .hero-image {
         width: 100%;
         margin: 0;
         padding: 0;
     }
     
+    .hero-image::after {
+        height: 40px;
+    }
+    
+    .hero-image {
+        min-height: 250px;
+        max-height: 350px;
+    }
+    
     .hero-image img {
         width: 100%;
+        height: 100%;
         min-height: 250px;
         max-height: 350px;
         object-fit: cover;
-        object-position: center;
+        object-position: top left;
+        opacity: 0.9;
     }
     
     .hero-default {
@@ -924,6 +1103,131 @@ button:hover, .button:hover {
 [data-theme="dark"] h2, 
 [data-theme="dark"] h3 {
     color: #4a9eff;
+}
+
+/* Two-column layout for homepage - matching PRICAI style */
+.section-home-news {
+    margin: 0;
+    padding: 0;
+}
+
+.home-news-section {
+    margin: 40px 0;
+    padding: 0;
+    width: 100%;
+    overflow: visible;
+}
+
+/* Ensure parent containers don't restrict width */
+.post-content .home-news-section,
+.post-content .section-home-news {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+.sppb-row-container {
+    max-width: 100% !important;
+    margin: 0 auto;
+    padding: 0;
+    width: 100% !important;
+    overflow: visible;
+}
+
+.sppb-row {
+    display: flex !important;
+    flex-wrap: nowrap;
+    margin: 0;
+    align-items: flex-start;
+    width: 100% !important;
+    max-width: 100% !important;
+    gap: 30px;
+}
+
+.sppb-col-md-8 {
+    flex: 0 0 66.666667% !important;
+    max-width: 66.666667% !important;
+    min-width: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sppb-col-md-4 {
+    flex: 0 0 33.333333% !important;
+    max-width: 33.333333% !important;
+    min-width: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sppb-addon-wrapper {
+    margin: 0 0 30px 0;
+}
+
+.sppb-addon {
+    clear: both;
+}
+
+.sppb-addon-text-block {
+    background-color: #ffffff;
+    padding: 0;
+}
+
+.sppb-addon-title {
+    color: #003366;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.sppb-addon-content {
+    color: #333333;
+    line-height: 1.7;
+}
+
+.sppb-addon-content p {
+    margin: 0 0 15px 0;
+}
+
+.sppb-addon-content ul,
+.sppb-addon-content ol {
+    margin: 15px 0;
+    padding-left: 25px;
+}
+
+.sppb-addon-content li {
+    margin: 8px 0;
+}
+
+.sppb-addon-content a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.sppb-addon-content a:hover {
+    color: #004080;
+    text-decoration: underline;
+}
+
+/* Responsive: stack columns on mobile */
+@media (max-width: 991px) {
+    .sppb-row {
+        flex-wrap: wrap !important;
+        gap: 20px;
+    }
+    
+    .sppb-col-md-8,
+    .sppb-col-md-4 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+        padding: 0;
+    }
+    
+    .sppb-addon-title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
 }
 
 /* Member cards */

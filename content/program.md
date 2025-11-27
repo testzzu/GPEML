@@ -4,7 +4,7 @@ draft = false
 title = 'Program'
 +++
 
-## Conference Program
+## Symposium Program
 
 Stay on top of every session with the confirmed schedule below. Additional days and afternoon sessions will be added once finalized.
 
@@ -43,7 +43,7 @@ Stay on top of every session with the confirmed schedule below. Additional days 
 | 10:20–10:40 | Tea Break | Chair: — |
 | 10:40–11:20 | **Invited Talk:** Evolving Models, Exploring Spaces: Evolutionary Computation as a Pathway to Efficiency and Creativity<br/>Speaker: A/Prof. Penousal Machado | Chair: Caitong Yue |
 | 11:20–12:00 | **Invited Talk:** Genetic Programming for Automated Feature and Model Learning: From Theory to Real-World Applications<br/>Speaker: Prof. Bing Xue | Chair: Cuie Yang |
-| 12:00–12:30 | **Panel Discussion:** How to Publish GPEML Papers in Top-Tier Conferences and Journals?<br/>Panelists: Prof. Bing Xue, A/Prof. Penousal Machado, Prof. Leonardo Trujillo, Prof. Min Jiang, Prof. Jinghui Zhong | Chair: Ting Hu |
+| 12:00–12:30 | **Panel Discussion:** How to Publish GPEML Papers in Top-Tier Venues and Journals?<br/>Panelists: Prof. Bing Xue, A/Prof. Penousal Machado, Prof. Leonardo Trujillo, Prof. Min Jiang, Prof. Jinghui Zhong | Chair: Ting Hu |
 
 ### July 12, 2025 · Afternoon Sessions
 

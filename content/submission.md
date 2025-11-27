@@ -6,7 +6,7 @@ title = 'Submission'
 
 ## Paper Submission
 
-All paper submissions must be made through the conference submission system.
+All paper submissions must be made through the symposium submission system.
 
 ### Submission System
 
@@ -56,7 +56,7 @@ Accepted papers must be submitted in camera-ready format by the deadline. Author
 
 ### Publication
 
-Accepted papers will be published in the conference proceedings. Selected papers may be invited for publication in special issues of leading journals.
+Accepted papers will be published in the symposium proceedings. Selected papers may be invited for publication in special issues of leading journals.
 
 ### Contact
 

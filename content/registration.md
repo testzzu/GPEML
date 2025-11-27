@@ -18,7 +18,7 @@ Please note:
 
 * The USD amounts are for indication purposes only. Your actual registration fee will be charged in Chinese Yuan (CNY). The registration fee must be paid in Chinese Yuan (CNY).
 * Student registrants must send a letter from their University/Institution confirming their studentship to registration@gpeml2025.org.
-* At least one author per accepted paper must register for the conference and present their paper. A single full registration (general) covers one paper. A full registration (student) can be used to cover a paper only if the student is the first author and will be presenting the paper at the conference.
+* At least one author per accepted paper must register for the symposium and present their paper. A single full registration (general) covers one paper. A full registration (student) can be used to cover a paper only if the student is the first author and will be presenting the paper at the symposium.
 * All accepted papers must be registered by 15 June 2025.
 * Cancellations received by 1 July 2025 are eligible for a full refund, minus a ¥100 administration fee. No refunds (partial or full) will be given for cancellations made after July 1, 2025. All cancellation requests must be submitted via email to registration@gpeml2025.org.
 
@@ -48,20 +48,20 @@ Please note:
 | Daily registration (July 11 or 12) | 1600 (≈ 224 USD) | 1600 (≈ 224 USD) |
 | Additional Dinner Ticket | 300 (≈ 42 USD) | 300 (≈ 42 USD) |
 
-## Conference Registration Inclusions
+## Symposium Registration Inclusions
 
 ### Full Registration - General and Student, includes:
 
-* A conference bag with gifts.
-* Access to all sessions in the GPEML 2025 conference.
-* Morning tea, lunch, afternoon tea across all conference days.
-* Conference reception on July 10, 2025.
-* Conference dinner on July 11, 2025.
+* A symposium bag with gifts.
+* Access to all sessions in the GPEML 2025 symposium.
+* Morning tea, lunch, afternoon tea across all symposium days.
+* Symposium reception on July 10, 2025.
+* Symposium dinner on July 11, 2025.
 
 ### Daily registration includes:
 
-* A conference bag with gifts.
-* Access to all sessions on the day registered, excluding conference reception and conference dinner.
+* A symposium bag with gifts.
+* Access to all sessions on the day registered, excluding symposium reception and symposium dinner.
 * Morning tea, lunch, afternoon tea on the day registered.
 
 ## Payment Methods
@@ -72,7 +72,7 @@ Please note:
 
 ## Author Registration
 
-At least one author of each accepted paper must register for the conference by the camera-ready deadline (June 15, 2025) for the paper to be included in the proceedings.
+At least one author of each accepted paper must register for the symposium by the camera-ready deadline (June 15, 2025) for the paper to be included in the proceedings.
 
 ## Student Registration
 

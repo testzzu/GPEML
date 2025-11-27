@@ -1,0 +1,38 @@
+{{- $leftContent := .Get "left" | default "" -}}
+{{- $rightContent := .Get "right" | default "" -}}
+{{- $leftTitle := .Get "leftTitle" | default "" -}}
+{{- $rightTitle := .Get "rightTitle" | default "" -}}
+{{- $leftWidth := .Get "leftWidth" | default "8" -}}
+{{- $rightWidth := .Get "rightWidth" | default "4" -}}
+
+<section class="home-news-section">
+  <div class="two-column-container">
+    <div class="two-column-row">
+      <div class="two-column-left" style="flex: {{ $leftWidth }};">
+        <div class="two-column-content">
+          {{- if $leftTitle -}}
+          <h3 class="two-column-title">{{ $leftTitle }}</h3>
+          {{- end -}}
+          <div class="two-column-body">
+            {{- if $leftContent -}}
+              {{- $leftContent | markdownify -}}
+            {{- else -}}
+              {{- .Inner | markdownify -}}
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+      <div class="two-column-right" style="flex: {{ $rightWidth }};">
+        <div class="two-column-content">
+          {{- if $rightTitle -}}
+          <h3 class="two-column-title">{{ $rightTitle }}</h3>
+          {{- end -}}
+          <div class="two-column-body">
+            {{- $rightContent | markdownify -}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

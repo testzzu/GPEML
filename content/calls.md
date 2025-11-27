@@ -55,7 +55,7 @@ The GPEML Program Committee invites original, substantial, and unpublished techn
 - Papers should be submitted in PDF format
 - Maximum page limit: 12 pages (including references)
 - Format: Springer LNCS format
-- All submissions must be original and not simultaneously submitted to another journal or conference
+- All submissions must be original and not simultaneously submitted to another journal or symposium
 
 ### Important Dates
 

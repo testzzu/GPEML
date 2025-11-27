@@ -1,60 +1,85 @@
 +++
-title = 'Welcome to GPEML'
+title = 'Genetic Programming and Evolutionary Machine Learning Symposium'
 [hero]
-  image = '/images/hero-banner.jpg'  # Uncomment and add your hero image path
-  # alt = 'GPEML Conference'
-  # showText = true  # Show text overlay on image
-  title = 'GPEML Conference'
-  subtitle = 'Genetic Programming and Evolutionary Machine Learning'
-  description = 'Join leading experts and scholars worldwide to discuss cutting-edge research in GP and EML'
+  image = '/images/banner.png'
+  title = 'GPEML Symposium'
+  subtitle = 'Genetic Programming & Evolutionary Machine Learning'
+  description = 'An annual forum advancing evolutionary computation, automated program design, and interpretable AI.'
 +++
 
-## Welcome to GPEML
+## About the Symposium
 
-GPEML focuses on the cutting-edge theories and applications of Genetic Programming (GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational intelligence, GP and EML have demonstrated tremendous potential in automated program generation, feature engineering, explainable AI, evolutionary deep learning, and other emerging fields. The forum will gather leading experts and scholars worldwide to discuss the latest research advances, key technologies, and practical applications of GP and EML.
+The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium is a cross-disciplinary forum dedicated to automated program generation, evolutionary deep learning, and explainable AI. Each edition gathers researchers, practitioners, and students to exchange breakthroughs that push GP and EML into new scientific and industrial domains. The symposium format mirrors other flagship computational intelligence meetings by offering keynotes, paper presentations, tutorials, and networking lounges for collaborators worldwide.
 
-GPEML will take place in person. The Program Committee invites original, substantial, and unpublished technical papers on all areas of Genetic Programming and Evolutionary Machine Learning.
+<section class="home-news-section section-home-news">
+<div class="sppb-row-container">
+<div class="sppb-row">
+<div class="sppb-col-md-8">
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Call for Proposals to Host GPEML-2027</h3>
+<div class="sppb-addon-content">
 
-## Key Dates
+The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium is an international event which concentrates on evolutionary computation, automated program design, and interpretable AI. It aims to bring together researchers, practitioners, educators and users in GP and EML communities for in-depth intellectual exchanges, research cooperation and professional development. Beginning with the 2025 edition, GPEML operates on an annual cadence. Please visit the <a href="/conferences">GPEML website</a> for the list of past and upcoming symposia.
 
-The 2025 GPEML workshop will run July 10–12 in Zhengzhou, Henan Province. The program spans two packed days dedicated to accelerating academic exchange, showcasing breakthroughs in GP and EML, and connecting researchers across disciplines. We look forward to seeing you onsite!
+GPEML Steering Committee hereby invites proposals to host **the 3<sup>rd</sup> Genetic Programming and Evolutionary Machine Learning Symposium (GPEML 2027)** to be held around *November 2027*. These proposals will be evaluated by the GPEML Steering Committee during its meeting.
 
-- **July 10, 14:00–21:00:** On-site registration and welcome services  
-- **July 11 (morning & afternoon):** Plenary sessions, invited talks, and expert panels  
-- **July 12:** Focused discussions, collaboration meetings, and closing activities (detailed agenda coming soon)
+The proposal should be short but provide sufficient details on the:
 
----
+- Proposed organizing committee, including **one (1)** Conference Chair and **one (1)** Program Chair.
+- The primary contact person who will interact with GPEML.
+- Detailed information of the hosted site and potential support from the local authority.
+- Potential symposium venues and accommodations (with different budget tiers).
+- Logistics (visa, flights and transportation), weather, etc.
+- Detailed budget estimates (including break-even figures) as a function of the expected number of participants.
+- Potential sponsorships.
 
-## Date & Venue
+Please email your proposal to the Secretary of GPEML Steering Committee.
 
-- **Time:** July 10–12, 2025  
-- **Venue:** Huazhi Hotel, Zhengzhou  
-  - No. 97, Kexue Avenue, Zhongyuan District, Zhengzhou (intersection of Kexue Avenue and Changchun Road)
+</div>
+</div>
+</div>
+</div>
+<div class="sppb-col-md-4">
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Current and Upcoming GPEML Symposia</h3>
+<div class="sppb-addon-content">
 
----
+We are pleased to announce that:
 
-## Organizers
 
-- **Host:** IEEE Computational Intelligence Society  
-- **Organizer:** School of Electrical and Information Engineering, Zhengzhou University  
-- **Co-organizers:**  
-  - Henan Institute of Technology  
-  - Henan Society of Bioinformatics (Preparatory)  
-  - IEEE CIS Zhengzhou Chapter  
-  - IEEE Zhengzhou University Student Branch
 
----
+- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
 
-## About the Conference
+</div>
+</div>
+</div>
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Past GPEML Symposia</h3>
+<div class="sppb-addon-content">
 
-Over the years, the conference has been hosted in key locations around the world, bringing together leading researchers and practitioners in the field of Genetic Programming and Evolutionary Machine Learning.
+- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-GPEML aims to provide a platform for:
+## Why It Matters
 
-- **Research Presentations** - Share your latest research findings in GP and EML
-- **Networking** - Connect with peers and experts in genetic programming and evolutionary machine learning
-- **Workshops & Tutorials** - Learn from leading researchers in automated program generation, feature engineering, and explainable AI
-- **Industry Engagement** - Explore real-world applications of evolutionary deep learning and computational intelligence
+- Accelerate research across automated design, evolutionary search, and interpretable ML pipelines.
+- Connect communities spanning academic labs, industry R&D groups, and standards bodies focused on trustworthy intelligence.
+- Promote open exchange through proceedings, posters, and collaborative sessions that document the field's rapid evolution.
 
-For more information, please explore the menu above or contact the organizing committee.
+## How to Engage
+
+1. Pick your edition: dive into the 2025 and 2026 hubs for calls, registration, and venue guidance.
+2. Share updates: contribute news, tutorials, or industry case studies that help broaden the ecosystem.
+3. Stay connected: follow the site for steering announcements, committee rosters, and future host calls.
+
+Questions or partnership ideas? Contact the organizing committee via the channels listed under each yearly edition.
 

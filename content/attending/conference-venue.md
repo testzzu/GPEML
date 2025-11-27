@@ -1,7 +1,8 @@
 +++
 date = '2025-11-21T10:28:22+08:00'
 draft = false
-title = 'Conference Venue'
+title = 'Symposium Venue'
+hiddenInHomeList = true
 +++
 
 ## Date & Venue

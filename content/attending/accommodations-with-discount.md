@@ -2,11 +2,12 @@
 date = '2025-11-21T10:28:22+08:00'
 draft = false
 title = 'Accommodations with Discount'
+hiddenInHomeList = true
 +++
 
 We have secured discounted room blocks at hotels within walking distance of the workshop venue. Early booking is strongly recommended; booking codes are required to claim the negotiated rates.
 
-### Huazhi Hotel (Conference Venue)
+### Huazhi Hotel (Symposium Venue)
 
 ![Business rooms at Huazhi Hotel](/images/accommodations/huazhi.jpg "Business queen and standard rooms")
 

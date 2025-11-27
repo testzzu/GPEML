@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="light">
+
+<head><script src="/GPEML/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=GPEML/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>GPEML 2025 | GPEML Symposium</title>
+<meta name="keywords" content="">
+<meta name="description" content="Zhengzhou · July 10–12, 2025">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/GPEML/2025/">
+<link crossorigin="anonymous" href="/GPEML/assets/css/stylesheet.3ba6cb62de7cb62ab5ce53b9089ad6096c46b2a9a5201e4f03ae508cc62db12e.css" integrity="sha256-O6bLYt58tiq1zlO5CJrWCWxGsqmlIB5PA65QjMYtsS4=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/GPEML/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/GPEML/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/GPEML/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/GPEML/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/GPEML/safari-pinned-tab.svg">
+<meta name="theme-color" content="#003366">
+<meta name="msapplication-TileColor" content="#003366">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/GPEML/2025/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/GPEML/2025/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta name="theme-color" content="#003366">
+<meta name="msapplication-TileColor" content="#003366">
+
+
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <div class="logo-switches"><button id="menu-toggle" class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/organization/" title="Organization">
+                    <span>Organization</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/attending/" title="Attending">
+                    <span>Attending</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/registration/" title="Registration">
+                    <span>Registration</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/program/" title="Program">
+                    <span>Program</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/proceedings/" title="Proceedings">
+                    <span>Proceedings</span>
+                </a>
+            </li>
+            <li class="menu-item">
+                <a href="http://localhost:1313/GPEML/photos/" title="Photos">
+                    <span>Photos</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<script>
+    
+    (function() {
+        const menuToggle = document.getElementById('menu-toggle');
+        const menu = document.getElementById('menu');
+        
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+        
+        function closeMenu() {
+            if (menu && menuToggle) {
+                menu.classList.remove('menu-open');
+                menuToggle.classList.remove('menu-toggle-active');
+                menuToggle.setAttribute('aria-expanded', 'false');
+            }
+        }
+        
+        function openMenu() {
+            if (menu && menuToggle) {
+                menu.classList.add('menu-open');
+                menuToggle.classList.add('menu-toggle-active');
+                menuToggle.setAttribute('aria-expanded', 'true');
+            }
+        }
+        
+        if (menuToggle && menu) {
+            
+            menuToggle.addEventListener('click', function(e) {
+                e.stopPropagation();
+                if (isMobile()) {
+                    const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
+                    if (isExpanded) {
+                        closeMenu();
+                    } else {
+                        openMenu();
+                    }
+                }
+            });
+            
+            
+            const menuLinks = menu.querySelectorAll('a');
+            menuLinks.forEach(function(link) {
+                link.addEventListener('click', function() {
+                    if (isMobile()) {
+                        closeMenu();
+                    }
+                });
+            });
+            
+            
+            document.addEventListener('click', function(event) {
+                if (isMobile()) {
+                    const isClickInsideMenu = menu.contains(event.target);
+                    const isClickOnToggle = menuToggle.contains(event.target);
+                    
+                    if (!isClickInsideMenu && !isClickOnToggle && menu.classList.contains('menu-open')) {
+                        closeMenu();
+                    }
+                }
+            });
+            
+            
+            let resizeTimer;
+            window.addEventListener('resize', function() {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(function() {
+                    if (!isMobile() && menu.classList.contains('menu-open')) {
+                        closeMenu();
+                    }
+                }, 250);
+            });
+            
+            
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'Escape' && menu.classList.contains('menu-open')) {
+                    closeMenu();
+                }
+            });
+        }
+    })();
+</script>
+
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/GPEML/">Home</a></div>
+  <h1>
+    GPEML 2025
+    <a href="/GPEML/2025/index.xml" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+  </h1>
+  <div class="post-description">
+    Zhengzhou · July 10–12, 2025
+  </div>
+</header>
+<div class="post-content"><h2 id="welcome-to-gpeml-2025">Welcome to GPEML 2025<a hidden class="anchor" aria-hidden="true" href="#welcome-to-gpeml-2025">#</a></h2>
+<p>GPEML 2025 focuses on the cutting-edge theories and applications of Genetic Programming (GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational intelligence, GP and EML have demonstrated tremendous potential in automated program generation, feature engineering, explainable AI, evolutionary deep learning, and other emerging fields. The symposium will gather leading experts and scholars worldwide to discuss the latest research advances, key technologies, and practical applications of GP and EML.</p>
+<p>GPEML 2025 will take place fully in person. The Program Committee invites original, substantial, and unpublished technical papers on all areas of Genetic Programming and Evolutionary Machine Learning.</p>
+<hr>
+<h2 id="date">Date<a hidden class="anchor" aria-hidden="true" href="#date">#</a></h2>
+<p>The 2025 GPEML workshop will run <strong>July 10–12, 2025</strong> in Zhengzhou, Henan Province. The program spans two packed days dedicated to accelerating academic exchange, showcasing breakthroughs in GP and EML, and connecting researchers across disciplines.</p>
+<ul>
+<li><strong>July 10, 14:00–21:00:</strong> On-site registration and welcome services</li>
+<li><strong>July 11 (morning &amp; afternoon):</strong> Plenary sessions, invited talks, and expert panels</li>
+<li><strong>July 12:</strong> Focused discussions, collaboration meetings, and closing activities</li>
+</ul>
+<p>Further detailed agenda and session structure will be published on the <strong>Schedule</strong> section and the Program page.</p>
+<hr>
+<h2 id="schedule">Schedule<a hidden class="anchor" aria-hidden="true" href="#schedule">#</a></h2>
+<p>The detailed technical program will include:</p>
+<ul>
+<li>Plenary and keynote sessions by leading researchers in GP and EML</li>
+<li>Oral presentations and poster sessions for accepted papers</li>
+<li>Panels on emerging topics such as evolutionary deep learning and explainable GP</li>
+<li>Focused discussion and collaboration slots on July 12</li>
+</ul>
+<p>A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the <a href="/program/">Program</a> page and the PDF program when available.</p>
+<hr>
+<h2 id="organization">Organization<a hidden class="anchor" aria-hidden="true" href="#organization">#</a></h2>
+<ul>
+<li><strong>Host:</strong> IEEE Computational Intelligence Society</li>
+<li><strong>Organizer:</strong> School of Electrical and Information Engineering, Zhengzhou University</li>
+<li><strong>Co-organizers:</strong>
+<ul>
+<li>Henan Institute of Technology</li>
+<li>Henan Society of Bioinformatics (Preparatory)</li>
+<li>IEEE CIS Zhengzhou Chapter</li>
+<li>IEEE Zhengzhou University Student Branch</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="accommodation">Accommodation<a hidden class="anchor" aria-hidden="true" href="#accommodation">#</a></h2>
+<p>Over the years, the symposium series aims to bring together leading researchers and practitioners in the field of Genetic Programming and Evolutionary Machine Learning. GPEML provides a platform for:</p>
+<ul>
+<li>
+<p><strong>Research Presentations</strong> – Share the latest research findings in GP and EML</p>
+</li>
+<li>
+<p><strong>Networking</strong> – Connect with peers and experts in genetic programming and evolutionary machine learning</p>
+</li>
+<li>
+<p><strong>Workshops &amp; Tutorials</strong> – Learn from leading researchers in automated program generation, feature engineering, and explainable AI</p>
+</li>
+<li>
+<p><strong>Industry Engagement</strong> – Explore real-world applications of evolutionary deep learning and computational intelligence</p>
+</li>
+<li>
+<p>Venue hotel with discounted rates: see <strong>Accommodations with Discount</strong> for room types and booking instructions</p>
+</li>
+<li>
+<p>Walking-distance options near the Huazhi Hotel for different budget levels</p>
+</li>
+<li>
+<p>Early booking is strongly recommended; booking codes may be required to claim negotiated rates</p>
+</li>
+</ul>
+<p>For full details, please visit the dedicated accommodation page:</p>
+<ul>
+<li><a href="/attending/accommodations-with-discount/">Accommodations with Discount</a></li>
+</ul>
+<hr>
+<h2 id="transportation">Transportation<a hidden class="anchor" aria-hidden="true" href="#transportation">#</a></h2>
+<p>GPEML 2025 is hosted at <strong>Huazhi Hotel, No. 97 Kexue Avenue, Zhongyuan District, Zhengzhou</strong> (intersection of Kexue Avenue and Changchun Road).</p>
+<p>Typical access options include:</p>
+<ul>
+<li><strong>By air:</strong> Zhengzhou Xinzheng International Airport, then airport shuttle, taxi, or ride-hailing to the hotel</li>
+<li><strong>By high-speed rail:</strong> Zhengzhou East Railway Station followed by metro or taxi to Kexue Avenue area</li>
+<li><strong>Within the city:</strong> Metro and bus connections to Zhongyuan District, plus short taxi rides to the venue</li>
+</ul>
+<p>More detailed routes, metro lines, and arrival tips will be posted under the Attending section as the event approaches.</p>
+<hr>
+<h2 id="media--materials">Media &amp; Materials<a hidden class="anchor" aria-hidden="true" href="#media--materials">#</a></h2>
+<p>To support outreach and reporting, the symposium will provide:</p>
+<ul>
+<li>A downloadable <strong>PDF program</strong> with session overviews and room assignments</li>
+<li>Official GPEML 2025 visuals for use in lab websites and social media posts</li>
+<li>Links to selected photos and videos captured during the event</li>
+</ul>
+<p>Relevant media resources will be accessible here and under the <strong>Photos</strong> and <strong>Program</strong> sections:</p>
+<ul>
+<li><a href="/other/GPEML_program.pdf">Program overview PDF</a></li>
+<li><a href="/attending/meeting-rooms-and-floor-plans/">Venue information and floor plans</a></li>
+<li><a href="/photos/">Photos gallery</a></li>
+</ul>
+<p>Questions about GPEML 2025 can be sent to the local organizing committee via the emails listed under the Organization section. Please revisit this site for updates on calls, visa guidance, detailed schedule, and media resources.</p>
+
+
+</div>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/GPEML/">GPEML Symposium</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+</body>
+
+</html>
