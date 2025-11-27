@@ -66,3 +66,8 @@ theme = 'PaperMod'
     name = 'Past Symposium'
     url = '/past-symposium/'
     weight = 26
+  [[menu.main]]
+    identifier = 'news'
+    name = 'News & Events'
+    url = '/news-events/'
+    weight = 30

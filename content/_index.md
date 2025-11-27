@@ -79,37 +79,3 @@ GPEML focuses on research and applications of Genetic Programming and Evolutiona
 In particular, this workshop aims to distinguish itself from existing Evolutionary Computation symposia and workshops.  
 Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this workshop.
 
-<section class="home-news-section section-home-news">
-<div class="sppb-row-container">
-<div class="sppb-row">
-<div class="sppb-col-md-8">
-<div class="sppb-addon-wrapper">
-<div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Call for Proposals to Host GPEML-2027</h3>
-<div class="sppb-addon-content">
-
-The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium is an international event which concentrates on evolutionary computation, automated program design, and interpretable AI. It aims to bring together researchers, practitioners, educators and users in GP and EML communities for in-depth intellectual exchanges, research cooperation and professional development. Beginning with the 2025 edition, GPEML operates on an annual cadence. Please visit the <a href="/conferences">GPEML website</a> for the list of past and upcoming symposia.
-
-GPEML Steering Committee hereby invites proposals to host **the 3<sup>rd</sup> Genetic Programming and Evolutionary Machine Learning Symposium (GPEML 2027)** to be held around *November 2027*. These proposals will be evaluated by the GPEML Steering Committee during its meeting.
-
-The proposal should be short but provide sufficient details on the:
-
-- Proposed organizing committee, including **one (1)** Conference Chair and **one (1)** Program Chair.
-- The primary contact person who will interact with GPEML.
-- Detailed information of the hosted site and potential support from the local authority.
-- Potential symposium venues and accommodations (with different budget tiers).
-- Logistics (visa, flights and transportation), weather, etc.
-- Detailed budget estimates (including break-even figures) as a function of the expected number of participants.
-- Potential sponsorships.
-
-Please email your proposal to the Secretary of GPEML Steering Committee.
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
