@@ -97,10 +97,24 @@
             </div>
         </div>
         {{- $currentPage := . }}
+        {{- $page_url := $currentPage.Permalink | absLangURL }}
+        {{- $hasCustomMenu := $currentPage.Params.customMenu }}
         <ul id="menu" class="menu">
+            {{- if $hasCustomMenu }}
+            {{- /* Custom menu from page params */ -}}
+            {{- range $currentPage.Params.menuItems }}
+            {{- $menu_item_url := (cond (strings.HasSuffix .url "/") .url (printf "%s/" .url) ) | absLangURL }}
+            {{- $is_active := eq $menu_item_url $page_url }}
+            <li class="menu-item">
+                <a href="{{ .url | absLangURL }}" title="{{ .name }}">
+                    <span {{- if $is_active }} class="active" {{- end }}>{{ .name }}</span>
+                </a>
+            </li>
+            {{- end }}
+            {{- else }}
+            {{- /* Default site menu */ -}}
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
-            {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
             {{- $child_active := false }}
             {{- if .HasChildren }}
@@ -144,6 +158,7 @@
                 </ul>
                 {{- end }}
             </li>
+            {{- end }}
             {{- end }}
         </ul>
     </nav>

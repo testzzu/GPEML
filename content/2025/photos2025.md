@@ -2,6 +2,13 @@
 date = '2025-11-24T00:00:00+08:00'
 draft = false
 title = 'Workshop Photos'
+[params]
+  customMenu = true
+  menuItems = [
+    { name = 'Home', url = '/GPEML', weight = 10 },
+    { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
+    { name = 'Media', url = '/GPEML/2025/photos2025/', weight = 20 }
+  ]
 +++
 
 ## Snapshots from Recent GPEML Workshops
@@ -15,6 +22,4 @@ Relive the atmosphere of previous GPEML workshops through a curated selection of
 ![Networking during coffee breaks.](/images/photo3.jpg)
 
 ---
-
-If you captured memorable moments at GPEML and would like to share them, please email `photos@gpeml2025.org`.
 

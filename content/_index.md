@@ -17,6 +17,74 @@ The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium is a
 <div class="sppb-col-md-8">
 <div class="sppb-addon-wrapper">
 <div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Goals and Duties</h3>
+<div class="sppb-addon-content">
+
+- **Promote GPEML in China**: Promote Genetic Programming and Evolutionary Machine Learning in China (including Mainland China, Hong Kong, Macau, etc.)
+- **Advance research and applications**: Promote and enhance research and applications of GPEML in China
+- **Foster international collaborations**: Promote international collaborations between Chinese GPEML researchers and innovative researchers worldwide
+- **Develop young researchers**: Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
+- **Workshop branding**: Establish and update/review the name of the annual workshop (with the possibility to expand it to a symposium in the future)
+- **Venue and schedule**: Determine the venue and dates of each workshop
+- **Programme approval**: Discuss and approve the draft programme proposed by the organizing committee, including invited speakers of the workshop
+- **Format review**: Periodically review the workshop format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
+- **Special issues**: Facilitate the organisation of special issues derived from the workshop
+- **Book publication**: Facilitate the organisation of publishing a book in the *Genetic and Evolutionary Computation* Springer Book Series
+
+</div>
+</div>
+</div>
+</div>
+<div class="sppb-col-md-4">
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Current and Upcoming GPEML Symposia</h3>
+<div class="sppb-addon-content">
+
+We are pleased to announce that:
+
+- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
+
+</div>
+</div>
+</div>
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
+<h3 class="sppb-addon-title">Past GPEML Symposia</h3>
+<div class="sppb-addon-content">
+
+- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+## Scope
+
+GPEML focuses on research and applications of Genetic Programming and Evolutionary Machine Learning, with the following major aspects:
+
+- **Genetic Programming (GP)**  
+  Including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other evolutionary computation paradigms that can evolve non-predefined models; covering both theories and applications of GP.
+
+- **Evolutionary Machine Learning (EML)**  
+  Including using any evolutionary computation methods and techniques to help solve any machine learning tasks, and using machine learning methods to help solve or improve any evolutionary computation methods and applications.
+
+- **Hybridisation with Generative AI / LLMs**  
+  Encouraging the hybridization of EML methods and generative AI / large language models (LLMs).
+
+In particular, this workshop aims to distinguish itself from existing Evolutionary Computation symposia and workshops.  
+Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this workshop.
+
+<section class="home-news-section section-home-news">
+<div class="sppb-row-container">
+<div class="sppb-row">
+<div class="sppb-col-md-8">
+<div class="sppb-addon-wrapper">
+<div class="sppb-addon sppb-addon-text-block">
 <h3 class="sppb-addon-title">Call for Proposals to Host GPEML-2027</h3>
 <div class="sppb-addon-content">
 
@@ -40,46 +108,8 @@ Please email your proposal to the Secretary of GPEML Steering Committee.
 </div>
 </div>
 </div>
-<div class="sppb-col-md-4">
-<div class="sppb-addon-wrapper">
-<div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Current and Upcoming GPEML Symposia</h3>
-<div class="sppb-addon-content">
-
-We are pleased to announce that:
-
-
-
-- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
-
-</div>
-</div>
-</div>
-<div class="sppb-addon-wrapper">
-<div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Past GPEML Symposia</h3>
-<div class="sppb-addon-content">
-
-- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </section>
 
-## Why It Matters
-
-- Accelerate research across automated design, evolutionary search, and interpretable ML pipelines.
-- Connect communities spanning academic labs, industry R&D groups, and standards bodies focused on trustworthy intelligence.
-- Promote open exchange through proceedings, posters, and collaborative sessions that document the field's rapid evolution.
-
-## How to Engage
-
-1. Pick your edition: dive into the 2025 and 2026 hubs for calls, registration, and venue guidance.
-2. Share updates: contribute news, tutorials, or industry case studies that help broaden the ecosystem.
-3. Stay connected: follow the site for steering announcements, committee rosters, and future host calls.
-
-Questions or partnership ideas? Contact the organizing committee via the channels listed under each yearly edition.
 

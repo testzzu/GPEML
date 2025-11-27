@@ -6,25 +6,59 @@ description = 'Zhengzhou · July 10–12, 2025'
   title = 'GPEML 2025 · Zhengzhou'
   subtitle = 'Genetic Programming & Evolutionary Machine Learning Symposium'
   description = 'July 10–12, 2025 · Huazhi Hotel, Zhengzhou, China'
+[params]
+  customMenu = true
+  menuItems = [
+    { name = 'Home', url = '/GPEML', weight = 10 },
+    { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
+    { name = 'Media', url = '/GPEML/2025/photos2025/', weight = 20 }
+  ]
 +++
 
 ## Welcome to GPEML 2025
 
-GPEML 2025 focuses on the cutting-edge theories and applications of Genetic Programming (GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational intelligence, GP and EML have demonstrated tremendous potential in automated program generation, feature engineering, explainable AI, evolutionary deep learning, and other emerging fields. The symposium will gather leading experts and scholars worldwide to discuss the latest research advances, key technologies, and practical applications of GP and EML.
-
-GPEML 2025 will take place fully in person. The Program Committee invites original, substantial, and unpublished technical papers on all areas of Genetic Programming and Evolutionary Machine Learning.
+This event focuses on the cutting-edge theories and applications of Genetic Programming 
+(GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational 
+intelligence, GP and EML have demonstrated tremendous potential in automated program 
+generation, feature engineering, explainable AI, evolutionary deep learning, and other emerging 
+fields. The forum will gather leading experts and scholars worldwide to discuss the latest 
+research advances, key technologies, and practical applications of GP and EML.
 
 ---
 
-## Date
+## Forum Topics
 
-The 2025 GPEML workshop will run **July 10–12, 2025** in Zhengzhou, Henan Province. The program spans two packed days dedicated to accelerating academic exchange, showcasing breakthroughs in GP and EML, and connecting researchers across disciplines.
+Forum Topics (including but not limited to):
 
-- **July 10, 14:00–21:00:** On-site registration and welcome services  
-- **July 11 (morning & afternoon):** Plenary sessions, invited talks, and expert panels  
-- **July 12:** Focused discussions, collaboration meetings, and closing activities
+- **Theoretical developments and optimization strategies in GP**
+- **Applications of evolutionary machine learning in deep learning and reinforcement learning**
+- **The role of evolutionary computation in automated feature engineering and AutoML**
+- **Multi-objective evolutionary optimization and explainable machine learning**
+- **Evolutionary methods in computer vision and image processing**
+- **Integration of GP with natural language processing and recommendation systems**
+- **Practical application cases in industries such as healthcare, finance, and more**
 
-Further detailed agenda and session structure will be published on the **Schedule** section and the Program page.
+---
+
+## Organizers
+
+**[Host]** IEEE Computational Intelligence Society
+
+**[Organizer]** School of Electrical and Information Engineering, Zhengzhou University
+
+**[Co-organizers]**
+
+- Henan Institute of Technology
+- Henan Society of Bioinformatics (Preparatory)
+- IEEE CIS Zhengzhou Chapter
+- IEEE Zhengzhou University Student Branch
+
+---
+
+## Date & Venue
+
+- **Time:** July 10–12, 2025
+- **Venue:** Huazhi Hotel, Zhengzhou (No. 97 Kexue Avenue, Zhongyuan District, Zhengzhou – intersection of Kexue Avenue and Changchun Road)
 
 ---
 
@@ -38,18 +72,6 @@ The detailed technical program will include:
 - Focused discussion and collaboration slots on July 12
 
 A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the [Program](/program/) page and the PDF program when available.
-
----
-
-## Organization
-
-- **Host:** IEEE Computational Intelligence Society  
-- **Organizer:** School of Electrical and Information Engineering, Zhengzhou University  
-- **Co-organizers:**  
-  - Henan Institute of Technology  
-  - Henan Society of Bioinformatics (Preparatory)  
-  - IEEE CIS Zhengzhou Chapter  
-  - IEEE Zhengzhou University Student Branch
 
 ---
 

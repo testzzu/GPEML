@@ -18,7 +18,7 @@ theme = 'PaperMod'
   # 显示代码复制按钮
   ShowCodeCopyButtons = true
   # 显示文章目录
-  ShowToc = true
+  ShowToc = false
   # 显示文章导航
   ShowPostNavLinks = true
   # 显示面包屑导航
@@ -47,32 +47,22 @@ theme = 'PaperMod'
     url = '/'
     weight = 10
   [[menu.main]]
-    identifier = 'organization'
-    name = 'Organization'
-    url = '/organization/'
+    identifier = 'committee'
+    name = 'Committees'
+    url = '/committee/'
     weight = 20
   [[menu.main]]
-    identifier = 'attending'
-    name = 'Attending'
-    url = '/attending/'
-    weight = 30
+    identifier = 'symposium'
+    name = 'Symposium'
+    url = '/future-symposium/'
+    weight = 25
   [[menu.main]]
-    identifier = 'registration'
-    name = 'Registration'
-    url = '/registration/'
-    weight = 40
+    parent = 'symposium'
+    name = 'Future Symposium'
+    url = '/future-symposium/'
+    weight = 25
   [[menu.main]]
-    identifier = 'program'
-    name = 'Program'
-    url = '/program/'
-    weight = 50
-  [[menu.main]]
-    identifier = 'proceedings'
-    name = 'Proceedings'
-    url = '/proceedings/'
-    weight = 60
-  [[menu.main]]
-    identifier = 'photos'
-    name = 'Photos'
-    url = '/photos/'
-    weight = 70
+    parent = 'symposium'
+    name = 'Past Symposium'
+    url = '/past-symposium/'
+    weight = 26

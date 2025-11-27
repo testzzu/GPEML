@@ -7,7 +7,13 @@
     <img src="{{ printf "%s%s" site.BaseURL $imagePath }}" alt="{{ .Get "name" }}" loading="lazy">
   </div>
   <div class="member-info">
-    <h4 class="member-name">{{ .Get "name" }}</h4>
+    <h4 class="member-name">
+      {{- if .Get "url" -}}
+        <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ .Get "name" }}</a>
+      {{- else -}}
+        {{ .Get "name" }}
+      {{- end -}}
+    </h4>
     <p class="member-affiliation">{{ .Get "affiliation" }}</p>
   </div>
 </div>

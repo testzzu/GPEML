@@ -6,6 +6,121 @@
     <description>Recent content in GPEML 2025 on GPEML Symposium</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/GPEML/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop Photos</title>
+      <link>http://localhost:1313/GPEML/2025/photos2025/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/GPEML/2025/photos2025/</guid>
+      <description>&lt;h2 id=&#34;snapshots-from-recent-gpeml-workshops&#34;&gt;Snapshots from Recent GPEML Workshops&lt;/h2&gt;
+&lt;p&gt;Relive the atmosphere of previous GPEML workshops through a curated selection of photos. More images will be added after each edition.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Keynote session with international speakers.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Interactive poster and demo discussions.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo2.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Networking during coffee breaks.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/GPEML/images/photo3.jpg&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Schedule 2025</title>
+      <link>http://localhost:1313/GPEML/2025/schedule2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/GPEML/2025/schedule2025/</guid>
+      <description>&lt;h2 id=&#34;daily-program-overview&#34;&gt;Daily Program Overview&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Final talk titles and speaker pairings will be posted closer to the event.&lt;br&gt;
+The overview below helps delegates plan travel and networking commitments.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;july-11-2025--morning-sessions&#34;&gt;July 11, 2025 · Morning Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;9:00–9:30&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Opening Ceremony&lt;/strong&gt;&lt;br/&gt;• Speeches from Vice-Presidents&lt;br/&gt;• Group Photo&lt;/td&gt;&lt;td&gt;Chair: Wei Xu&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;9:30–10:10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Linear Genetic Programming&lt;br/&gt;Speaker: Prof. Wolfgang Banzhaf&lt;/td&gt;&lt;td&gt;Chair: Jing Liang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:10–10:30&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;Chair: —&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:30–11:10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Revisiting Evolutionary Machine Learning – 50 Years of Development&lt;br/&gt;Speaker: Prof. Mengjie Zhang&lt;/td&gt;&lt;td&gt;Chair: Liang Feng&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;11:10–11:50&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Co-Evolutionary Approach to Program and Test Case Generation with Large Language Models&lt;br/&gt;Speaker: Prof. Yuan Yuan&lt;/td&gt;&lt;td&gt;Chair: —&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;11:50–12:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; What are the unique advantages of GPEML? What are the biggest bottlenecks in GPEML development and real-world adoption, and how to overcome them?&lt;br/&gt;Panelists: Prof. Mengjie Zhang, Prof. Wolfgang Banzhaf, Prof. Chao Qian, Prof. Yuan Yuan, Prof. Yanan Sun&lt;/td&gt;&lt;td&gt;Chair: Bing Xue&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-11-2025--afternoon-sessions&#34;&gt;July 11, 2025 · Afternoon Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;14:00–14:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Evolutionary Learning – From Theory to Practice&lt;br/&gt;Speaker: Prof. Chao Qian&lt;/td&gt;&lt;td&gt;Chair: Yu Xue&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;14:40–15:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Feature Space Transformations with Genetic Programming&lt;br/&gt;Speaker: Prof. Leonardo Trujillo&lt;/td&gt;&lt;td&gt;Chair: P. N. Suganthan&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:20–15:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;Chair: —&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:40–16:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Runtime Analysis of Evolutionary NAS for Multiclass Classification&lt;br/&gt;Speaker: Prof. Yanan Sun&lt;/td&gt;&lt;td&gt;Chair: Xiny Zhou&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;16:20–17:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; How Neutrality Shapes Evolution – Simplicity Bias and Search&lt;br/&gt;Speaker: A/Prof. Ting Hu&lt;/td&gt;&lt;td&gt;Chair: Wenjing Hong&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;17:00–17:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Automated Algorithm Design with Large Language Models&lt;br/&gt;Speaker: A/Prof. Zichao Lu&lt;/td&gt;&lt;td&gt;Chair: Ying Bi&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-12-2025--morning-sessions&#34;&gt;July 12, 2025 · Morning Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;9:00–9:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Training Autoencoders with Cooperative Coevolution&lt;br/&gt;Speaker: Dr. Erik Hemberg&lt;/td&gt;&lt;td&gt;Chair: Peng Wang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;9:40–10:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Neural PDE Solvers: From Black-Box Approximators to Transparent Scientific Tools via Evolution-Inspired Strategies&lt;br/&gt;Speaker: Prof. Min Jiang&lt;/td&gt;&lt;td&gt;Chair: Wei Li&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:20–10:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;Chair: —&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:40–11:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Evolving Models, Exploring Spaces: Evolutionary Computation as a Pathway to Efficiency and Creativity&lt;br/&gt;Speaker: A/Prof. Penousal Machado&lt;/td&gt;&lt;td&gt;Chair: Caitong Yue&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;11:20–12:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Genetic Programming for Automated Feature and Model Learning: From Theory to Real-World Applications&lt;br/&gt;Speaker: Prof. Bing Xue&lt;/td&gt;&lt;td&gt;Chair: Cuie Yang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;12:00–12:30&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; How to Publish GPEML Papers in Top-Tier Conferences and Journals?&lt;br/&gt;Panelists: Prof. Bing Xue, A/Prof. Penousal Machado, Prof. Leonardo Trujillo, Prof. Min Jiang, Prof. Jinghui Zhong&lt;/td&gt;&lt;td&gt;Chair: Ting Hu&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-12-2025--afternoon-sessions&#34;&gt;July 12, 2025 · Afternoon Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:20%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;14:00–14:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Data-driven Optimization of Complex Systems Assisted by Small and Large Models&lt;br/&gt;Speaker: Prof. Yaochu Jin&lt;/td&gt;&lt;td&gt;Chair: Mengjie Zhang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;14:40–15:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Integrating Pretrained Transformers with Genetic Programming for Symbolic Regression&lt;br/&gt;Speaker: Prof. Jinghui Zhong&lt;/td&gt;&lt;td&gt;Chair: Wei Du&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:20–15:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;Chair: —&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:40–16:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Innovative Applications of Genetic Programming in Agricultural Remote Sensing&lt;br/&gt;Speaker: Prof. Miao Lu&lt;/td&gt;&lt;td&gt;Chair: Ke Chen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;16:20–17:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Greedy is Good?!&lt;br/&gt;Speaker: A/Prof. Yahui Jia&lt;/td&gt;&lt;td&gt;Chair: Qiqi Liu&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;17:00–17:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Research on GPEML in Zhengzhou University &amp;amp; Closing Ceremony&lt;/strong&gt;&lt;br/&gt;Speaker: Prof. Ying Bi&lt;/td&gt;&lt;td&gt;Chair: Gonglin Yuan&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
   </channel>
 </rss>
