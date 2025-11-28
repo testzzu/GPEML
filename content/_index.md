@@ -79,3 +79,6 @@ GPEML focuses on research and applications of Genetic Programming and Evolutiona
 In particular, this workshop aims to distinguish itself from existing Evolutionary Computation symposia and workshops.  
 Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this workshop.
 
+## Contact
+
+- **Ying Bi:** yingbi@zzu.edu.cn
