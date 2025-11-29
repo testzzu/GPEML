@@ -42,15 +42,20 @@ theme = 'PaperMod'
   
 [menu]
   [[menu.main]]
-    identifier = 'home'
+    identifier = 'HOME'
     name = 'Home'
     url = '/'
     weight = 10
   [[menu.main]]
-    identifier = 'committee'
+    identifier = 'about-gpeml'
+    name = 'About GPEML'
+    url = '/about/'
+    weight = 20
+  [[menu.main]]
+    parent = 'about-gpeml'
     name = 'Committees'
     url = '/committee/'
-    weight = 20
+    weight = 21
   [[menu.main]]
     identifier = 'symposium'
     name = 'Symposium'
@@ -68,6 +73,6 @@ theme = 'PaperMod'
     weight = 26
   [[menu.main]]
     identifier = 'news'
-    name = 'News & Events'
+    name = 'News and Events'
     url = '/news-events/'
     weight = 30
