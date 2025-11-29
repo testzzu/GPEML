@@ -49,12 +49,12 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = 'about-gpeml'
     name = 'About GPEML'
-    url = '/about/'
+    url = '/committee/'
     weight = 20
   [[menu.main]]
     parent = 'about-gpeml'
     name = 'Committees'
-    url = '/committee/'
+    url = '#'
     weight = 21
   [[menu.main]]
     identifier = 'symposium'
