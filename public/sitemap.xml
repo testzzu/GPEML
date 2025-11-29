@@ -51,6 +51,8 @@
   </url><url>
     <loc>http://localhost:1313/GPEML/news-events/</loc>
   </url><url>
+    <loc>http://localhost:1313/GPEML/2025/organization/</loc>
+  </url><url>
     <loc>http://localhost:1313/GPEML/past-symposium/</loc>
   </url><url>
     <loc>http://localhost:1313/GPEML/2025/schedule2025/</loc>

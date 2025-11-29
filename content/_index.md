@@ -67,10 +67,10 @@ We are pleased to announce that:
 
 GPEML focuses on research and applications of Genetic Programming and Evolutionary Machine Learning, with the following major aspects:
 
-- **Genetic Programming (GP)**  
+- **Genetic Programming**  
   Including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other evolutionary computation paradigms that can evolve non-predefined models; covering both theories and applications of GP.
 
-- **Evolutionary Machine Learning (EML)**  
+- **Evolutionary Machine Learning**  
   Including using any evolutionary computation methods and techniques to help solve any machine learning tasks, and using machine learning methods to help solve or improve any evolutionary computation methods and applications.
 
 - **Hybridisation with Generative AI / LLMs**  

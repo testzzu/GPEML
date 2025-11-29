@@ -3,13 +3,15 @@ date = '2025-11-24T00:00:00+08:00'
 draft = false
 title = 'Workshop Photos'
 hiddenInHomeList = true
+hiddenInSectionList = true
 [params]
   customMenu = true
   menuItems = [
     { name = 'Home', url = '/GPEML', weight = 10 },
     { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
     { name = 'Media', url = '/GPEML/2025/photos2025/', weight = 20 },
-    { name = 'Transportion', url = '/GPEML/2025/transportation/', weight = 40 }
+    { name = 'Transportion', url = '/GPEML/2025/transportation/', weight = 40 },
+    { name = 'Organization', url = '/GPEML/2025/organization/', weight = 50 }
   ]
 +++
 

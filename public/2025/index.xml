@@ -21,6 +21,130 @@
 &lt;hr&gt;</description>
     </item>
     <item>
+      <title>Organization 2025</title>
+      <link>http://localhost:1313/GPEML/2025/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/GPEML/2025/organization/</guid>
+      <description>&lt;h2 id=&#34;organization-for-gpeml-2025&#34;&gt;Organization for GPEML 2025&lt;/h2&gt;
+&lt;div class=&#34;member-grid&#34;&gt;
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Mengjie_Zhang.png&#34; alt=&#34;Mengjie Zhang&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/Mengjie.Zhang&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mengjie Zhang&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Wolfgang_Banzhaf.png&#34; alt=&#34;Wolfgang Banzhaf&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www.cse.msu.edu/~banzhafw/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wolfgang Banzhaf&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Michigan State University, USA&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Bing_Xue.png&#34; alt=&#34;Bing Xue&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/bing.xue&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bing Xue&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/liangjing.jpg&#34; alt=&#34;Jing Liang&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1243/1978.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jing Liang&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Ying_Bi.png&#34; alt=&#34;Ying Bi&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://yingbi92.github.io/personal-webpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ying Bi&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/quboyang.png&#34; alt=&#34;Boyang Qu&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1243/1980.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Boyang Qu&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhongyuan University of Technology, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/yukunjie.jpg&#34; alt=&#34;Kunjie Yu&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1243/2058.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kunjie Yu&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/yuecaitong.jpg&#34; alt=&#34;Caitong Yue&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1243/2189.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Caitong Yue&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/guoweifeng.jpg&#34; alt=&#34;Weifeng Guo&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1243/2190.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Weifeng Guo&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/2025/wangpeng.jpg&#34; alt=&#34;Peng Wang&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/cilab/info/1244/2079.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Peng Wang&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Schedule 2025</title>
       <link>http://localhost:1313/GPEML/2025/schedule2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

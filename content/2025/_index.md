@@ -12,7 +12,8 @@ description = 'Zhengzhou · July 10–12, 2025'
     { name = 'Home', url = '/GPEML', weight = 10 },
     { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
     { name = 'Media', url = '/GPEML/2025/photos2025/', weight = 20 },
-    { name = 'Transportion', url = '/GPEML/2025/transportation/', weight = 40 }
+    { name = 'Transportion', url = '/GPEML/2025/transportation/', weight = 40 },
+    { name = 'Organization', url = '/GPEML/2025/organization/', weight = 50 } 
   ]
 +++
 
@@ -119,9 +120,8 @@ To support outreach and reporting, the symposium will provide:
 
 Relevant media resources will be accessible here and under the **Photos** and **Program** sections:
 
-- [Program overview PDF](/other/GPEML_program.pdf)  
-- [Venue information and floor plans](/attending/meeting-rooms-and-floor-plans/)  
-- [Photos gallery](/photos/)
+- [Program overview PDF](/GPEML/other/GPEML_program_compressed.pdf)  
+- [Photos gallery](/GPEML/2025/photos2025/)
 
 Questions about GPEML 2025 can be sent to the local organizing committee via the emails listed under the Organization section. Please revisit this site for updates on calls, visa guidance, detailed schedule, and media resources.
 
