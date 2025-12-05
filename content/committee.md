@@ -23,22 +23,22 @@ hideMeta = true
 
 ---
 
-## Workshop Organisation
+## Symposium Organisation
 
 ### Time
 
-To achieve the main goals of the workshop, the preferred timeframe is July–September each year.
+To achieve the main goals of the symposium, the preferred timeframe is July–September each year.
 
 ### Organisation
 
-The Steering Committee appoints a (General) Chair for the workshop each year. The Chair forms a local organising committee to run the event. The immediate past workshop chair and the chair-elect (immediate next chair) can serve as deputy chairs to help with the organisation. The conveners serve as the Advisory Board, helping seek, recommend, and contact international speakers. The Workshop (General) Chair leads the operational delivery to ensure the workshop runs smoothly and meets its goals, including securing sponsorship to keep the workshop financially viable.
+The Steering Committee appoints a (General) Chair for the symposium each year. The Chair forms a local organising committee to run the event. The immediate past symposium chair and the chair-elect (immediate next chair) can serve as deputy chairs to help with the organisation. The conveners serve as the Advisory Board, helping seek, recommend, and contact international speakers. The Symposium (General) Chair leads the operational delivery to ensure the symposium runs smoothly and meets its goals, including securing sponsorship to keep the symposium financially viable.
 
 ### Invited Speakers
 
-Each workshop will invite a number of international and national innovative researchers in GP and EML.
+Each symposium will invite a number of international and national innovative researchers in GP and EML.
 
 ---
 
 ## Meetings
 
-The Steering Committee meets two to three times per year. The main in-person meeting is held during the workshop, ideally on the first day of registration before the workshop opening. The other meetings are organised virtually (Zoom/Teams/Tencent/Voov), including one around December/January to review progress for the next workshop and another around May/June to help the organisers finalise the programme.
+The Steering Committee meets two to three times per year. The main in-person meeting is held during the symposium, ideally on the first day of registration before the symposium opening. The other meetings are organised virtually (Zoom/Teams/Tencent/Voov), including one around December/January to review progress for the next symposium and another around May/June to help the organisers finalise the programme.

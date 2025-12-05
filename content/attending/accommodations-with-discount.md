@@ -7,7 +7,7 @@ hiddenInHomeList = true
 
 We have secured discounted room blocks at hotels within walking distance of the workshop venue. Early booking is strongly recommended; booking codes are required to claim the negotiated rates.
 
-### Huazhi Hotel (Symposium Venue)
+### Huazhi Hotel (Conference Venue)
 
 ![Business rooms at Huazhi Hotel](/images/accommodations/huazhi.jpg "Business queen and standard rooms")
 

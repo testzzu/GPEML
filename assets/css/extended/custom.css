@@ -350,35 +350,6 @@ table td:nth-child(3) {
     width: 20%; /* Chair column */
 }
 
-/* Schedule tables with fixed session-width */
-.fixed-session-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
-
-.fixed-session-table th,
-.fixed-session-table td {
-    border: 1px solid #e0e0e0;
-    padding: 12px;
-    vertical-align: top;
-}
-
-.fixed-session-table th:nth-child(2),
-.fixed-session-table td:nth-child(2) {
-    width: 60%;
-}
-
-.fixed-session-table tr:nth-child(even) {
-    background-color: #f8fbff;
-}
-
-.fixed-session-table th {
-    background-color: #003366;
-    color: #ffffff;
-}
-
-
 /* Blockquotes */
 blockquote {
     border-left: 4px solid #003366;
