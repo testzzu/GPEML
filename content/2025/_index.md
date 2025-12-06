@@ -83,7 +83,7 @@ Over the years, the symposium series aims to bring together leading researchers 
 
 - **Research Presentations** – Share the latest research findings in GP and EML  
 - **Networking** – Connect with peers and experts in genetic programming and evolutionary machine learning  
-- **Workshops & Tutorials** – Learn from leading researchers in automated program generation, feature engineering, and explainable AI  
+- **Smposium & Tutorials** – Learn from leading researchers in automated program generation, feature engineering, and explainable AI  
 - **Industry Engagement** – Explore real-world applications of evolutionary deep learning and computational intelligence
 
 - Venue hotel with discounted rates: see **Accommodations with Discount** for room types and booking instructions  

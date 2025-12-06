@@ -13,5 +13,5 @@ Detailed floor plans and room assignments will be published alongside the final 
 - Accessibility paths and elevator locations  
 - Registration desk hours and help-desk locations  
 
-Please revisit this page closer to the workshop for the latest layouts.
+Please revisit this page closer to the symposium for the latest layouts.
 
