@@ -73,7 +73,7 @@ The detailed technical program will include:
 - Panels on emerging topics such as evolutionary deep learning and explainable GP  
 - Focused discussion and collaboration slots on July 12
 
-A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the [Program](/program/) page and the PDF program when available.
+A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the Program page and the PDF program when available.
 
 ---
 
@@ -92,7 +92,7 @@ Over the years, the symposium series aims to bring together leading researchers 
 
 For full details, please visit the dedicated accommodation page:
 
-- [Accommodations with Discount](/attending/accommodations-with-discount/)
+- [Accommodations with Discount](https://hk.trip.com/hotels/zhengzhou-hotel-detail-19924774/huawise-hotel/)
 
 ---
 

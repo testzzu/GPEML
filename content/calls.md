@@ -122,4 +122,4 @@ The "Students are the Future" scholarship program provides financial support for
 - Statement of purpose
 - CV/Resume
 
-For application details, please visit the [Student Scholarship Program page](/attending/).
+For application details, please visit the [Student Scholarship Program page](/schedule2025/).
