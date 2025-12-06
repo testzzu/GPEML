@@ -1,7 +1,7 @@
 +++
 date = '2025-11-24T00:00:00+08:00'
 draft = false
-title = 'Workshop Photos'
+title = 'Photos'
 hiddenInHomeList = true
 hiddenInSectionList = true
 [params]
