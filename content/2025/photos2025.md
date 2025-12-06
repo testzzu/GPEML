@@ -19,11 +19,22 @@ hiddenInSectionList = true
 
 Relive the atmosphere of previous GPEML workshops through a curated selection of photos. More images will be added after each edition.
 
-![Keynote session with international speakers.](/images/photo1.jpg)
+{{< photo-gallery >}}
+/images/2025photo/A1.jpg|
+/images/2025photo/A2.jpg|
+/images/2025photo/A8.jpg|
+/images/2025photo/A3.jpg|
+/images/2025photo/A4.jpg|
+/images/2025photo/A5.jpg|
+/images/2025photo/A6.jpg|
+/images/2025photo/A7.jpg|
 
-![Interactive poster and demo discussions.](/images/photo2.jpg)
+/images/2025photo/A9.jpg|
+/images/2025photo/photo1.jpg|
+/images/2025photo/photo2.jpg|
+/images/2025photo/photo3.jpg|
 
-![Networking during coffee breaks.](/images/photo3.jpg)
+{{< /photo-gallery >}}
 
 ---
 

@@ -1,0 +1,209 @@
+{{- $dir := .Get "dir" | default "" -}}
+{{- $imageList := slice -}}
+
+{{- if $dir -}}
+  {{- /* Auto-load images from directory */ -}}
+  {{- $imageDir := $dir -}}
+  {{- if hasPrefix $imageDir "/" -}}
+    {{- $imageDir = $imageDir | strings.TrimPrefix "/" -}}
+  {{- end -}}
+  {{- if not (hasSuffix $imageDir "/") -}}
+    {{- $imageDir = printf "%s/" $imageDir -}}
+  {{- end -}}
+  
+  {{- /* List of known images based on directory */ -}}
+  {{- $knownImages := slice -}}
+  {{- if eq $imageDir "images/2025/" -}}
+    {{- /* No images for this directory */ -}}
+    {{- $knownImages = slice -}}
+  {{- else if eq $imageDir "images/2025photo/" -}}
+    {{- /* Auto-detect: try photo1.jpg to photo50.jpg */ -}}
+    {{- range seq 1 50 -}}
+      {{- $knownImages = $knownImages | append (printf "photo%d.jpg" .) -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Try to get images as resources, fallback to static paths */ -}}
+  {{- range $knownImages -}}
+    {{- $imgPath := printf "%s%s" $imageDir . -}}
+    {{- $resource := resources.Get $imgPath -}}
+    {{- if $resource -}}
+      {{- $imageList = $imageList | append (dict "path" $resource.RelPermalink "name" .) -}}
+    {{- else -}}
+      {{- /* Fallback to static path */ -}}
+      {{- $fullPath := printf "%s%s%s" site.BaseURL $imageDir . -}}
+      {{- $imageList = $imageList | append (dict "path" $fullPath "name" .) -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Sort images by name */ -}}
+  {{- $imageList = sort $imageList "name" -}}
+{{- else -}}
+  {{- /* Manual list from Inner content */ -}}
+  {{- $innerStr := .Inner | string -}}
+  {{- $photos := split $innerStr "\n" -}}
+  {{- range $photos -}}
+    {{- $line := trim . " \t\r\n" -}}
+    {{- if and $line (not (hasPrefix $line "<!--")) -}}
+      {{- $parts := split $line "|" -}}
+      {{- if ge (len $parts) 2 -}}
+        {{- $imagePath := trim (index $parts 0) " \t" -}}
+        {{- $caption := trim (index $parts 1) " \t" -}}
+        {{- if hasPrefix $imagePath "/" -}}
+          {{- $imagePath = $imagePath | strings.TrimPrefix "/" -}}
+        {{- end -}}
+        {{- $fullPath := printf "%s%s" site.BaseURL $imagePath -}}
+        {{- $imageList = $imageList | append (dict "path" $fullPath "caption" $caption) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="photo-gallery" id="photoGallery">
+  {{- range $imageList -}}
+    {{- $imagePath := .path -}}
+    {{- $caption := .caption | default "" -}}
+    {{- /* Use empty caption if not provided manually */ -}}
+    <div class="photo-item" data-src="{{ $imagePath }}" data-caption="{{ $caption }}">
+      <img src="{{ $imagePath }}" alt="" loading="lazy" onerror="this.parentElement.style.display='none';">
+      {{- if $caption -}}
+      <div class="photo-caption">{{ $caption }}</div>
+      {{- end -}}
+    </div>
+  {{- end -}}
+</div>
+
+{{- if not (.Page.Scratch.Get "lightbox-initialized") -}}
+  {{- .Page.Scratch.Set "lightbox-initialized" true -}}
+<!-- Lightbox Modal -->
+<div class="lightbox" id="lightbox">
+  <span class="lightbox-close" id="lightboxClose"></span>
+  <span class="lightbox-prev" id="lightboxPrev"></span>
+  <span class="lightbox-next" id="lightboxNext"></span>
+  <div class="lightbox-content">
+    <img id="lightboxImage" src="" alt="">
+    <div class="lightbox-caption" id="lightboxCaption"></div>
+  </div>
+</div>
+{{- end -}}
+
+<script>
+(function() {
+  // Only initialize once
+  if (window.photoGalleryInitialized) return;
+  window.photoGalleryInitialized = true;
+  
+  const gallery = document.getElementById('photoGallery');
+  const lightbox = document.getElementById('lightbox');
+  if (!gallery || !lightbox) return;
+  
+  const lightboxImage = document.getElementById('lightboxImage');
+  const lightboxCaption = document.getElementById('lightboxCaption');
+  const lightboxClose = document.getElementById('lightboxClose');
+  const lightboxPrev = document.getElementById('lightboxPrev');
+  const lightboxNext = document.getElementById('lightboxNext');
+  
+  let currentIndex = 0;
+  let photos = [];
+  
+  // Function to update photos array, filtering out hidden items
+  function updatePhotosArray() {
+    photos = [];
+    const allGalleries = document.querySelectorAll('.photo-gallery');
+    allGalleries.forEach(g => {
+      const items = Array.from(g.querySelectorAll('.photo-item'));
+      items.forEach(item => {
+        // Only add if the item is visible (image loaded successfully)
+        if (item.style.display !== 'none' && item.offsetParent !== null) {
+          photos.push(item);
+        }
+      });
+    });
+  }
+  
+  // Initialize photos array
+  updatePhotosArray();
+  
+  // Re-update after images have had time to load/fail
+  setTimeout(updatePhotosArray, 500);
+  setTimeout(updatePhotosArray, 1500);
+  
+  function openLightbox(index) {
+    if (photos.length === 0) return;
+    currentIndex = index;
+    updateLightbox();
+    lightbox.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+  
+  function closeLightbox() {
+    lightbox.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+  
+  function updateLightbox() {
+    if (photos.length === 0) return;
+    const photo = photos[currentIndex];
+    const img = photo.querySelector('img');
+    const caption = photo.getAttribute('data-caption') || img.getAttribute('alt') || '';
+    
+    lightboxImage.src = photo.getAttribute('data-src') || img.src;
+    lightboxCaption.textContent = caption;
+  }
+  
+  function showNext() {
+    currentIndex = (currentIndex + 1) % photos.length;
+    updateLightbox();
+  }
+  
+  function showPrev() {
+    currentIndex = (currentIndex - 1 + photos.length) % photos.length;
+    updateLightbox();
+  }
+  
+  // Event listeners - attach to all photo items
+  photos.forEach((photo, index) => {
+    photo.addEventListener('click', () => openLightbox(index));
+  });
+  
+  if (lightboxClose) {
+    lightboxClose.addEventListener('click', closeLightbox);
+  }
+  
+  if (lightboxPrev) {
+    lightboxPrev.addEventListener('click', (e) => {
+      e.stopPropagation();
+      showPrev();
+    });
+  }
+  
+  if (lightboxNext) {
+    lightboxNext.addEventListener('click', (e) => {
+      e.stopPropagation();
+      showNext();
+    });
+  }
+  
+  if (lightbox) {
+    lightbox.addEventListener('click', (e) => {
+      if (e.target === lightbox) {
+        closeLightbox();
+      }
+    });
+  }
+  
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (!lightbox.classList.contains('active')) return;
+    
+    if (e.key === 'Escape') {
+      closeLightbox();
+    } else if (e.key === 'ArrowLeft') {
+      showPrev();
+    } else if (e.key === 'ArrowRight') {
+      showNext();
+    }
+  });
+})();
+</script>
+
