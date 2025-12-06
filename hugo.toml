@@ -63,12 +63,12 @@ theme = 'PaperMod'
     weight = 25
   [[menu.main]]
     parent = 'symposium'
-    name = 'Future Symposium'
+    name = 'Future Symposia'
     url = '/future-symposium/'
     weight = 25
   [[menu.main]]
     parent = 'symposium'
-    name = 'Past Symposium'
+    name = 'Past Symposia'
     url = '/past-symposium/'
     weight = 26
   [[menu.main]]
