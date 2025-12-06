@@ -13,9 +13,7 @@
       <link>http://localhost:1313/GPEML/2025/photos2025/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/GPEML/2025/photos2025/</guid>
-      <description>&lt;h2 id=&#34;snapshots-from-recent-gpeml-workshops&#34;&gt;Snapshots from Recent GPEML Workshops&lt;/h2&gt;
-&lt;p&gt;Relive the atmosphere of previous GPEML workshops through a curated selection of photos. More images will be added after each edition.&lt;/p&gt;
-&lt;div class=&#34;photo-gallery&#34; id=&#34;photoGallery&#34;&gt;&lt;div class=&#34;photo-item&#34; data-src=&#34;http://localhost:1313/GPEML/images/2025photo/A1.jpg&#34; data-caption=&#34;&#34;&gt;
+      <description>&lt;div class=&#34;photo-gallery&#34; id=&#34;photoGallery&#34;&gt;&lt;div class=&#34;photo-item&#34; data-src=&#34;http://localhost:1313/GPEML/images/2025photo/A1.jpg&#34; data-caption=&#34;&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/GPEML/images/2025photo/A1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; onerror=&#34;this.parentElement.style.display=&#39;none&#39;;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;photo-item&#34; data-src=&#34;http://localhost:1313/GPEML/images/2025photo/A2.jpg&#34; data-caption=&#34;&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/GPEML/images/2025photo/A2.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; onerror=&#34;this.parentElement.style.display=&#39;none&#39;;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;photo-item&#34; data-src=&#34;http://localhost:1313/GPEML/images/2025photo/A8.jpg&#34; data-caption=&#34;&#34;&gt;
       &lt;img src=&#34;http://localhost:1313/GPEML/images/2025photo/A8.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; onerror=&#34;this.parentElement.style.display=&#39;none&#39;;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;photo-item&#34; data-src=&#34;http://localhost:1313/GPEML/images/2025photo/A3.jpg&#34; data-caption=&#34;&#34;&gt;

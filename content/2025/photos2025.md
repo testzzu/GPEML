@@ -15,9 +15,7 @@ hiddenInSectionList = true
   ]
 +++
 
-## Snapshots from Recent GPEML Workshops
 
-Relive the atmosphere of previous GPEML workshops through a curated selection of photos. More images will be added after each edition.
 
 {{< photo-gallery >}}
 /images/2025photo/A1.jpg|
