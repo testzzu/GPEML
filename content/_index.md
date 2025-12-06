@@ -24,11 +24,11 @@ The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium focu
 - **Advance research and applications**: Promote and enhance research and applications of GPEML in China
 - **Foster international collaborations**: Promote international collaborations between Chinese GPEML researchers and innovative researchers worldwide
 - **Develop young researchers**: Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
-- **Workshop branding**: Establish and update/review the name of the annual workshop (with the possibility to expand it to a symposium in the future)
-- **Venue and schedule**: Determine the venue and dates of each workshop
-- **Programme approval**: Discuss and approve the draft programme proposed by the organizing committee, including invited speakers of the workshop
-- **Format review**: Periodically review the workshop format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
-- **Special issues**: Facilitate the organisation of special issues derived from the workshop
+- **Symposium branding**: Establish and update/review the name of the annual symposium (with the possibility to expand it to a symposium in the future)
+- **Venue and schedule**: Determine the venue and dates of each symposium
+- **Programme approval**: Discuss and approve the draft programme proposed by the organizing committee, including invited speakers of the symposium
+- **Format review**: Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
+- **Special issues**: Facilitate the organisation of special issues derived from the symposium
 - **Book publication**: Facilitate the organisation of publishing a book in the *Genetic and Evolutionary Computation* Springer Book Series
 
 </div>
@@ -76,8 +76,8 @@ GPEML focuses on research and applications of Genetic Programming and Evolutiona
 - **Hybridisation with Generative AI / LLMs**  
   Encouraging the hybridization of EML methods and generative AI / large language models (LLMs).
 
-In particular, this workshop aims to distinguish itself from existing Evolutionary Computation symposia and workshops.  
-Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this workshop.
+In particular, this symposium aims to distinguish itself from existing Evolutionary Computation symposia.  
+Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this symposium.
 
 ## Contact
 
