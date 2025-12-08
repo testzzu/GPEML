@@ -57,6 +57,11 @@ theme = 'PaperMod'
     url = '/committee/'
     weight = 21
   [[menu.main]]
+    parent = 'about-gpeml'
+    name = 'Bylaw'
+    url = '/bylaw/'
+    weight = 22
+  [[menu.main]]
     identifier = 'symposium'
     name = 'Symposium'
     url = '/future-symposium/'

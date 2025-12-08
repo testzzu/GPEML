@@ -20,16 +20,14 @@ The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium focu
 <h3 class="sppb-addon-title">Goals and Duties</h3>
 <div class="sppb-addon-content">
 
-- **Promote GPEML in China**: Promote Genetic Programming and Evolutionary Machine Learning in China (including Mainland China, Hong Kong, Macau, etc.)
-- **Advance research and applications**: Promote and enhance research and applications of GPEML in China
-- **Foster international collaborations**: Promote international collaborations between Chinese GPEML researchers and innovative researchers worldwide
-- **Develop young researchers**: Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
-- **Symposium branding**: Establish and update/review the name of the annual symposium (with the possibility to expand it to a symposium in the future)
-- **Venue and schedule**: Determine the venue and dates of each symposium
-- **Programme approval**: Discuss and approve the draft programme proposed by the organizing committee, including invited speakers of the symposium
-- **Format review**: Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
-- **Special issues**: Facilitate the organisation of special issues derived from the symposium
-- **Book publication**: Facilitate the organisation of publishing a book in the *Genetic and Evolutionary Computation* Springer Book Series
+- Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China 
+- Promote international collaborations between Chinese GPEML researchers and international innovative researchers
+- Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
+- Determine the venue and dates of each symposium
+- Discuss and approve the draft program proposed by the organizing committee, including invited speakers of the symposium
+- Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
+- Facilitate the organisation of special issues derived from the symposium
+- Facilitate the organisation of publishing a book in the Genetic and Evolutionary Computation Springer Book Series
 
 </div>
 </div>
@@ -65,20 +63,23 @@ We are pleased to announce that:
 
 ## Scope
 
-GPEML focuses on research and applications of Genetic Programming and Evolutionary Machine Learning, with the following major aspects:
+Focus on research and applications on GPEML with the following major aspects: 
 
-- **Genetic Programming**  
-  Including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other evolutionary computation paradigms that can evolve non-predefined models; covering both theories and applications of GP.
+<div style="padding-left: 30px;">
 
-- **Evolutionary Machine Learning**  
-  Including using any evolutionary computation methods and techniques to help solve any machine learning tasks, and using machine learning methods to help solve or improve any evolutionary computation methods and applications.
+- Genetic programming (GP), including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other EC paradigms that can evolving non-predefined models; theories and applications of GP
 
-- **Hybridisation with Generative AI / LLMs**  
-  Encouraging the hybridization of EML methods and generative AI / large language models (LLMs).
+- Evolutionary machine learning (EML), including using any evolutionary computation methods and techniques to help solve any machine learning tasks; and machine learning methods to help solve/improve any EC methods and applications
+
+- oEncourage the hybridization of EML methods and generative AI/LLMs
+
+</div>
 
 In particular, this symposium aims to distinguish itself from existing Evolutionary Computation symposia.  
 Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this symposium.
 
 ## Contact
-
-- **Ying Bi:** yingbi@zzu.edu.cn
+- **Wolfgang Banzhaf (Co-Convener):** banzhafw@cse.msu.edu
+- **Mengjie Zhang (Co-Convener):**  Mengjie.Zhang@vuw.ac.nz
+- **Bing Xue (Co-Secretary):** bing.xue@vuw.ac.nz
+- **Ying Bi (Co-Secretary):** yingbi@zzu.edu.cn
