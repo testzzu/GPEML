@@ -8,10 +8,20 @@
   </div>
   <div class="member-info">
     <h4 class="member-name">
+      {{- $name := .Get "name" -}}
+      {{- $nameParts := split $name "<" -}}
+      {{- $plainName := index $nameParts 0 | strings.TrimSpace -}}
+      {{- $htmlPart := "" -}}
+      {{- if gt (len $nameParts) 1 -}}
+        {{- $htmlPart = printf "<%s" (index $nameParts 1) -}}
+        {{- range after 2 $nameParts -}}
+          {{- $htmlPart = printf "%s<%s" $htmlPart . -}}
+        {{- end -}}
+      {{- end -}}
       {{- if .Get "url" -}}
-        <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ .Get "name" }}</a>
+        <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer">{{ $plainName }}</a>{{ if $htmlPart }}<div class="member-title">{{ $htmlPart | safeHTML }}</div>{{ end }}
       {{- else -}}
-        {{ .Get "name" }}
+        {{ $plainName }}{{ if $htmlPart }}<div class="member-title">{{ $htmlPart | safeHTML }}</div>{{ end }}
       {{- end -}}
     </h4>
     <p class="member-affiliation">{{ .Get "affiliation" }}</p>

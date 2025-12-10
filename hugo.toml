@@ -48,34 +48,15 @@ theme = 'PaperMod'
     weight = 10
   [[menu.main]]
     identifier = 'about-gpeml'
-    name = 'About GPEML'
+    name = 'GPEML Steering Committee Constitution'
     url = '/committee/'
     weight = 20
-  [[menu.main]]
-    parent = 'about-gpeml'
-    name = 'Committees'
-    url = '/committee/'
-    weight = 21
-  [[menu.main]]
-    parent = 'about-gpeml'
-    name = 'Bylaw'
-    url = '/bylaw/'
-    weight = 22
   [[menu.main]]
     identifier = 'symposium'
     name = 'Symposium'
     url = '/future-symposium/'
     weight = 25
-  [[menu.main]]
-    parent = 'symposium'
-    name = 'Future Symposia'
-    url = '/future-symposium/'
-    weight = 25
-  [[menu.main]]
-    parent = 'symposium'
-    name = 'Past Symposia'
-    url = '/past-symposium/'
-    weight = 26
+
   [[menu.main]]
     identifier = 'news'
     name = 'News and Events'

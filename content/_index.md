@@ -67,19 +67,53 @@ Focus on research and applications on GPEML with the following major aspects:
 
 <div style="padding-left: 30px;">
 
-- Genetic programming (GP), including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other EC paradigms that can evolving non-predefined models; theories and applications of GP
+- **Genetic programming (GP)**, including all paradigms and representations of GP such as TGP, LGP, Grammar Guided GP (G3P), Cartesian GP, and any other EC paradigms that can evolving non-predefined models; theories and applications of GP
 
-- Evolutionary machine learning (EML), including using any evolutionary computation methods and techniques to help solve any machine learning tasks; and machine learning methods to help solve/improve any EC methods and applications
+- **Evolutionary machine learning (EML)**, including using any evolutionary computation methods and techniques to help solve any machine learning tasks; and machine learning methods to help solve/improve any EC methods and applications
 
-- oEncourage the hybridization of EML methods and generative AI/LLMs
+- Encourage the hybridization of **EML** methods and generative **AI/LLMs**
 
 </div>
 
-In particular, this symposium aims to distinguish itself from existing Evolutionary Computation symposia.  
-Pure optimisation methods and applications, e.g., EC for numeric continuous optimisation tested only on benchmarks, are considered beyond the scope of this symposium.
+Distinguish this symposium from existing Evolutionary Computation conferences and workshops. The pure optimization methods and applications, e.g., EC for numeric continuous optimization testing on benchmarks would be very well beyond the scope.
+
+
+## Steering Committee Terms and Composition
+
+The Steering Committee consists of the symposium startup proposers and a small number of representatives who are willing and have the capacity and capability to host the symposium in the next five years. The Steering Committee of the Symposium (Series) sets two co-conveners and two co-secretaries to process the routine duties and run the committee meetings. The duration of each term is five years.
+
+Members of the Steering Committee are:
+<div style="padding-left: 30px;">
+
+- **Wolfgang Banzhaf**, Michigan State University, East Lansing, USA **(Co-Convener)**
+- **Mengjie Zhang**, Victoria University of Wellington, Wellington, New Zealand **(Co-Convener)** 
+- **Bing Xue**, Victoria University of Wellington, Wellington, New Zealand **(Co-Secretary)**
+- **Ying Bi**, Zhengzhou University, Zhengzhou, China **(Co-Secretary)**
+- **Chao Qian**, Nanjing University, Nanjing, China
+- **Jinghui Zhong**, South China University of Technology, Guangzhou, China
+- **Yanan Sun**, Sichuan University, Chengdu, China
+- **Cuie Yang**, Northeast University, Shenyang, China
+- **Liang Feng**, Chongqing University, Chongqing, China
+</div>
+
+## Symposium Organisation
+
+**Time:** To achieve the main goals of the symposium, the preferred timeframe is July–September annually.
+
+**Organisation:** The Steering Committee will appoint a (General) Chair for the symposium each year. The Chair will form a local organizing committee to run the symposium. In addition, the immediate past symposium chair and the symposium chair-elected (immediate next chair) could act as the deputy chairs to help organizing the symposium. The conveners will be served as the Advisory Board, helping seek, recommend and contact the international speakers. The Symposium Chair will take responsibilities to run the symposium smoothly to achieve the goals of the symposia, including seeking sponsorship to make the symposium financially viable.
+
+**Invited Speakers:** Each symposium will invite a number of international and national innovative researchers in GP and EML.
+
+## Committee Meetings
+
+The Steering Committee will meet 2-3 times per year. The main in-person meeting will be held in the symposium, ideally in the first day of registration before the symposium opening. Another meeting will be organised via Zoom/Teams/Tencent/VooV, including one around December/January to discuss the progress of the next symposium planning, and when necessary a third meeting will be held around May/June to help the organisers finalise the symposium program.
 
 ## Contact
+<div style="padding-left: 30px;">
+
 - **Wolfgang Banzhaf (Co-Convener):** banzhafw@cse.msu.edu
-- **Mengjie Zhang (Co-Convener):**  Mengjie.Zhang@vuw.ac.nz
-- **Bing Xue (Co-Secretary):** bing.xue@vuw.ac.nz
+- **Mengjie Zhang (Co-Convener):**  Mengjie.Zhang@ecs.vuw.ac.nz
+- **Bing Xue (Co-Secretary):** bing.xue@ecs.vuw.ac.nz
 - **Ying Bi (Co-Secretary):** yingbi@zzu.edu.cn
+
+</div>

@@ -610,118 +610,29 @@
 &lt;p&gt;To achieve the main goals of the symposium, the preferred timeframe is July–September annually&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Committee</title>
+      <title>GPEML Steering Committee Constitution</title>
       <link>http://localhost:1313/GPEML/committee/</link>
       <pubDate>Fri, 21 Nov 2025 10:28:16 +0800</pubDate>
       <guid>http://localhost:1313/GPEML/committee/</guid>
-      <description>&lt;h3 id=&#34;members-of-the-steering-committee&#34;&gt;Members of the Steering Committee&lt;/h3&gt;
+      <description>&lt;p&gt;The Steering Committee consists of the symposium startup proposers and a small number of representatives who are willing and have the capacity and capability to host the symposium in the next five years. The Steering Committee of the Symposium (Series) sets two co-conveners and two co-secretaries to process the routine duties and run the committee meetings. The duration of each term is five years.&lt;/p&gt;
+&lt;h3 id=&#34;members-of-the-steering-committee&#34;&gt;Members of the Steering Committee&lt;/h3&gt;
 &lt;div class=&#34;member-grid&#34;&gt;
 
 &lt;div class=&#34;member-card&#34;&gt;
   &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Wolfgang_Banzhaf.png&#34; alt=&#34;Wolfgang Banzhaf&#34; loading=&#34;lazy&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Wolfgang_Banzhaf.png&#34; alt=&#34;Wolfgang Banzhaf &amp;lt;strong&amp;gt;(Co-Convener)&amp;lt;/strong&amp;gt;&#34; loading=&#34;lazy&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www.cse.msu.edu/~banzhafw/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wolfgang Banzhaf&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Michigan State University, East Lansing, USA (Co-Convener)&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Mengjie_Zhang.png&#34; alt=&#34;Mengjie Zhang&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/Mengjie.Zhang&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Mengjie Zhang&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, Wellington, New Zealand (Co-Convener)&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Bing_Xue.png&#34; alt=&#34;Bing Xue&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/bing.xue&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bing Xue&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, Wellington, New Zealand (Co-Secretary)&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Ying_Bi.png&#34; alt=&#34;Ying Bi&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://yingbi92.github.io/personal-webpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ying Bi&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, Zhengzhou, China (Co-Secretary)&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/ChaoQian.jpg&#34; alt=&#34;Chao Qian&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www.lamda.nju.edu.cn/qianc/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Chao Qian&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Nanjing University, Nanjing, China&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Jinghui_Zhong.jpg&#34; alt=&#34;Jinghui Zhong&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://jinghuizhong.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jinghui Zhong&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;South China University of Technology, Guangzhou, China&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Yanan_sun.jpg&#34; alt=&#34;Yanan Sun&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://yn-sun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Yanan Sun&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Sichuan University, Chengdu, China&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class=&#34;member-card&#34;&gt;
-  &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/GPEML/images/member/Cuie_Yang.png&#34; alt=&#34;Cuie Yang&#34; loading=&#34;lazy&#34;&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=5aS3XfMAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cuie Yang&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Northeastern University, Shenyang, China&lt;/p&gt;</description>
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www.cse.msu.edu/~banzhafw/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Wolfgang Banzhaf&lt;/a&gt;&lt;div class=&#34;member-title&#34;&gt;&lt;strong&gt;(Co-Convener)&lt;/strong&gt;&lt;/div&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Michigan State University, East Lansing, USA&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/GPEML/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/GPEML/contact/</guid>
-      <description>Get in touch with the GPEML Symposium team</description>
-    </item>
-    <item>
-      <title>Future GPEML Symposia</title>
+      <title></title>
       <link>http://localhost:1313/GPEML/future-symposium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/GPEML/future-symposium/</guid>
-      <description>&lt;p&gt;We are pleased to announce that:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;future-gpeml-symposia&#34;&gt;Future GPEML Symposia&lt;/h2&gt;
+&lt;p&gt;We are pleased to announce that:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;GPEML 2026&lt;/strong&gt;, the 2&lt;sup&gt;nd&lt;/sup&gt; edition, Chengdu, China, is currently being organized. Please visit &lt;a href=&#34;http://localhost:1313/GPEML/2026/&#34;&gt;GPEML-2026 overview&lt;/a&gt; for updates.&lt;/p&gt;
@@ -737,6 +648,13 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;GPEML 2030&lt;/strong&gt;, the 6&lt;sup&gt;th&lt;/sup&gt; edition, Chongqing, China, is planned. Details to be announced.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/GPEML/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/GPEML/contact/</guid>
+      <description>Get in touch with the GPEML Symposium team</description>
     </item>
     <item>
       <title>Organization 2025</title>

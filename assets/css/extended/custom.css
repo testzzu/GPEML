@@ -1288,13 +1288,27 @@ button:hover, .button:hover {
 
 .member-name a {
     color: #003366;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: color 0.3s ease;
 }
 
 .member-name a:hover {
     color: #0066cc;
-    text-decoration: underline;
+    text-decoration: none !important;
+}
+
+.member-name a:visited {
+    text-decoration: none !important;
+}
+
+.member-name a:active {
+    text-decoration: none !important;
+}
+
+.member-name .member-title {
+    margin-top: 0px !important;
+    padding-top: 4px;
+    line-height: 1.4;
 }
 
 .member-affiliation {
