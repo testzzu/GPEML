@@ -48,7 +48,7 @@ theme = 'PaperMod'
     weight = 10
   [[menu.main]]
     identifier = 'about-gpeml'
-    name = 'GPEML Steering Committee Constitution'
+    name = 'Steering Committee'
     url = '/committee/'
     weight = 20
   [[menu.main]]
