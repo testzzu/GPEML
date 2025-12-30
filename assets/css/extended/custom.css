@@ -1595,3 +1595,17 @@ button:hover, .button:hover {
     }
 }
 
+/* 隐藏标题悬停时显示的锚点链接 (#) */
+.anchor {
+    display: none !important;
+}
+
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+    display: none !important;
+}
+

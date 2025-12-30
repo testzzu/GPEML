@@ -8,6 +8,7 @@ description = 'Zhengzhou · July 10–12, 2025'
   description = 'July 10–12, 2025 · Huazhi Hotel, Zhengzhou, China'
 [params]
   customMenu = true
+  ShowRssButtonInSectionTermList = false
   menuItems = [
     { name = 'Home', url = '/GPEML', weight = 10 },
     { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
