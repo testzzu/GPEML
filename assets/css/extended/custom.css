@@ -1213,6 +1213,12 @@ button:hover, .button:hover {
     margin: 8px 0;
 }
 
+/* Increase spacing for Goals and Duties list items */
+.sppb-addon-content ul li {
+    margin: 30px 0;
+    line-height: 1.6;
+}
+
 .sppb-addon-content a {
     color: #0066cc;
     text-decoration: none;

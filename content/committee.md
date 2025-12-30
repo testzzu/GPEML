@@ -8,6 +8,8 @@ hideMeta = true
 
 The Steering Committee consists of the symposium startup proposers and a small number of representatives who are willing and have the capacity and capability to host the symposium in the next five years. The Steering Committee of the Symposium (Series) sets two co-conveners and two co-secretaries to process the routine duties and run the committee meetings. The duration of each term is five years.
 
+
+
 ### Members of the Steering Committee
 
 {{< membergrid >}}
@@ -21,6 +23,16 @@ The Steering Committee consists of the symposium startup proposers and a small n
 {{< member name="Cuie Yang" affiliation="Northeastern University, Shenyang, China" image="/images/member/Cuie_Yang.png" url="https://scholar.google.com/citations?user=5aS3XfMAAAAJ&hl=en" >}}
 {{< member name="Liang Feng" affiliation="Chongqing University, Chongqing, China" image="/images/member/Feng_Liang.jpg" url="https://cs.cqu.edu.cn/info/1491/5633.htm" >}}
 {{< /membergrid >}}
+
+### Goals and Duties
+- Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China 
+- Promote international collaborations between Chinese GPEML researchers and international innovative researchers
+- Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
+- Determine the venue and dates of each symposium
+- Discuss and approve the draft program proposed by the organizing committee, including invited speakers of the symposium
+- Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
+- Facilitate the organisation of special issues derived from the symposium
+- Facilitate the organisation of publishing a book in the Genetic and Evolutionary Computation Springer Book Series
 
 ### Time
 

@@ -21,13 +21,15 @@ The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium focu
 <div class="sppb-addon-content">
 
 - Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China 
+
 - Promote international collaborations between Chinese GPEML researchers and international innovative researchers
+
 - Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
-- Determine the venue and dates of each symposium
+<!-- - Determine the venue and dates of each symposium
 - Discuss and approve the draft program proposed by the organizing committee, including invited speakers of the symposium
 - Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
 - Facilitate the organisation of special issues derived from the symposium
-- Facilitate the organisation of publishing a book in the Genetic and Evolutionary Computation Springer Book Series
+- Facilitate the organisation of publishing a book in the Genetic and Evolutionary Computation Springer Book Series -->
 
 </div>
 </div>
@@ -78,7 +80,7 @@ Focus on research and applications on GPEML with the following major aspects:
 Distinguish this symposium from existing Evolutionary Computation conferences and workshops. The pure optimization methods and applications, e.g., EC for numeric continuous optimization testing on benchmarks would be very well beyond the scope.
 
 
-## Steering Committee Terms and Composition
+<!-- ## Steering Committee Terms and Composition
 
 The Steering Committee consists of the symposium startup proposers and a small number of representatives who are willing and have the capacity and capability to host the symposium in the next five years. The Steering Committee of the Symposium (Series) sets two co-conveners and two co-secretaries to process the routine duties and run the committee meetings. The duration of each term is five years.
 
@@ -94,7 +96,7 @@ Members of the Steering Committee are:
 - **Yanan Sun**, Sichuan University, Chengdu, China
 - **Cuie Yang**, Northeast University, Shenyang, China
 - **Liang Feng**, Chongqing University, Chongqing, China
-</div>
+</div> -->
 
 ## Symposium Organisation
 
@@ -104,9 +106,9 @@ Members of the Steering Committee are:
 
 **Invited Speakers:** Each symposium will invite a number of international and national innovative researchers in GP and EML.
 
-## Committee Meetings
+<!-- ## Committee Meetings
 
-The Steering Committee will meet 2-3 times per year. The main in-person meeting will be held in the symposium, ideally in the first day of registration before the symposium opening. Another meeting will be organised via Zoom/Teams/Tencent/VooV, including one around December/January to discuss the progress of the next symposium planning, and when necessary a third meeting will be held around May/June to help the organisers finalise the symposium program.
+The Steering Committee will meet 2-3 times per year. The main in-person meeting will be held in the symposium, ideally in the first day of registration before the symposium opening. Another meeting will be organised via Zoom/Teams/Tencent/VooV, including one around December/January to discuss the progress of the next symposium planning, and when necessary a third meeting will be held around May/June to help the organisers finalise the symposium program. -->
 
 ## Contact
 <div style="padding-left: 30px;">
