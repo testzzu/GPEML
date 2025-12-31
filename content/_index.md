@@ -14,46 +14,27 @@ The Genetic Programming and Evolutionary Machine Learning (GPEML) Symposium focu
 <section class="home-news-section section-home-news">
 <div class="sppb-row-container">
 <div class="sppb-row">
-<div class="sppb-col-md-8">
+<div class="sppb-col-md-12">
 <div class="sppb-addon-wrapper">
 <div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Goals and Duties</h3>
+<h3 class="sppb-addon-title">Goals</h3>
 <div class="sppb-addon-content">
 
-- Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China 
+<div style="padding-left: 10px;">
+
+- Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China
 
 - Promote international collaborations between Chinese GPEML researchers and international innovative researchers
 
 - Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
+
+</div>
 <!-- - Determine the venue and dates of each symposium
 - Discuss and approve the draft program proposed by the organizing committee, including invited speakers of the symposium
 - Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
 - Facilitate the organisation of special issues derived from the symposium
 - Facilitate the organisation of publishing a book in the Genetic and Evolutionary Computation Springer Book Series -->
 
-</div>
-</div>
-</div>
-</div>
-<div class="sppb-col-md-4">
-<div class="sppb-addon-wrapper">
-<div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Current and Upcoming GPEML Symposia</h3>
-<div class="sppb-addon-content">
-
-We are pleased to announce that:
-
-- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
-
-</div>
-</div>
-</div>
-<div class="sppb-addon-wrapper">
-<div class="sppb-addon sppb-addon-text-block">
-<h3 class="sppb-addon-title">Past GPEML Symposia</h3>
-<div class="sppb-addon-content">
-
-- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
 </div>
 </div>
 </div>
@@ -79,6 +60,23 @@ Focus on research and applications on GPEML with the following major aspects:
 
 Distinguish this symposium from existing Evolutionary Computation conferences and workshops. The pure optimization methods and applications, e.g., EC for numeric continuous optimization testing on benchmarks would be very well beyond the scope.
 
+## Current and Upcoming GPEML Symposia
+
+We are pleased to announce that:
+
+<div style="padding-left: 30px;">
+
+- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
+
+</div>
+
+## Past GPEML Symposia
+
+<div style="padding-left: 30px;">
+
+- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
+
+</div>
 
 <!-- ## Steering Committee Terms and Composition
 
@@ -98,13 +96,13 @@ Members of the Steering Committee are:
 - **Liang Feng**, Chongqing University, Chongqing, China
 </div> -->
 
-## Symposium Organisation
+<!-- ## Symposium Organisation
 
 **Time:** To achieve the main goals of the symposium, the preferred timeframe is July–September annually.
 
 **Organisation:** The Steering Committee will appoint a (General) Chair for the symposium each year. The Chair will form a local organizing committee to run the symposium. In addition, the immediate past symposium chair and the symposium chair-elected (immediate next chair) could act as the deputy chairs to help organizing the symposium. The conveners will be served as the Advisory Board, helping seek, recommend and contact the international speakers. The Symposium Chair will take responsibilities to run the symposium smoothly to achieve the goals of the symposia, including seeking sponsorship to make the symposium financially viable.
 
-**Invited Speakers:** Each symposium will invite a number of international and national innovative researchers in GP and EML.
+**Invited Speakers:** Each symposium will invite a number of international and national innovative researchers in GP and EML. -->
 
 <!-- ## Committee Meetings
 
