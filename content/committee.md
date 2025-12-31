@@ -24,10 +24,7 @@ The Steering Committee consists of the symposium startup proposers and a small n
 {{< member name="Liang Feng" affiliation="Chongqing University, Chongqing, China" image="/images/member/Feng_Liang.jpg" url="https://cs.cqu.edu.cn/info/1491/5633.htm" >}}
 {{< /membergrid >}}
 
-### Goals and Duties
-- Promote research and applications of Genetic Programming and Evolutionary Machine Learning as well as collaborations in GPEML in China 
-- Promote international collaborations between Chinese GPEML researchers and international innovative researchers
-- Develop postgraduate research students and early career researchers to undertake research and applications in GPEML
+### Duties
 - Determine the venue and dates of each symposium
 - Discuss and approve the draft program proposed by the organizing committee, including invited speakers of the symposium
 - Periodically review the symposium format (e.g., invited-speakers-only, paper submissions, student presentations) to ensure effectiveness and alignment with goals
