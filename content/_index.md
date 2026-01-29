@@ -66,7 +66,7 @@ We are pleased to announce that:
 
 <div style="padding-left: 30px;">
 
-- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/GPEML/2026/">GPEML-2026 overview</a> for updates.
+- **GPEML 2026**, the 2<sup>nd</sup> edition, is currently being organized. Please visit <a href="/2026/">GPEML-2026 overview</a> for updates.
 
 </div>
 
@@ -74,7 +74,7 @@ We are pleased to announce that:
 
 <div style="padding-left: 30px;">
 
-- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/GPEML/2025/">GPEML-2025 website</a> for more information.
+- **GPEML 2025**, the 1<sup>st</sup> edition of the symposium series, was held in Zhengzhou, China, July 10–12, 2025. Please visit <a href="/2025/">GPEML-2025 website</a> for more information.
 
 </div>
 

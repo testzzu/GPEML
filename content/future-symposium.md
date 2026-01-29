@@ -8,7 +8,7 @@ hideMeta = true
 ## Future GPEML Symposia
 We are pleased to announce that:
 
-- **GPEML 2026**, the 2<sup>nd</sup> edition, **Chengdu**, China, is currently being organized. Please visit [GPEML-2026 overview](/GPEML/2026/) for updates.
+- **GPEML 2026**, the 2<sup>nd</sup> edition, **Chengdu**, China, is currently being organized. Please visit [GPEML-2026 overview](/2026/) for updates.
 
 - **GPEML 2027**, the 3<sup>rd</sup> edition, **Shenyang**, China, is planned. Details to be announced.
 
@@ -24,4 +24,4 @@ We are pleased to announce that:
 - **Dates:** July 10–12, 2025  
 - **Venue:** Huazhi Hotel, Zhengzhou  
 - **Materials:** Proceedings, photos, and committee contacts are available on the event microsite.  
-- **Learn more:** [Visit the GPEML 2025 website](/GPEML/2025/)
+- **Learn more:** [Visit the GPEML 2025 website](/2025/)

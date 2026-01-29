@@ -6,11 +6,11 @@ hiddenInSectionList = true
 [params]
   customMenu = true
   menuItems = [
-    { name = 'Home', url = '/GPEML', weight = 10 },
-    { name = 'Schedule', url = '/GPEML/2025/schedule2025/', weight = 30 },
-    { name = 'Media', url = '/GPEML/2025/photos2025/', weight = 20 },
-    { name = 'Transportion', url = '/GPEML/2025/transportation/', weight = 40 },
-    { name = 'Organization', url = '/GPEML/2025/organization/', weight = 50 }
+    { name = 'Home', url = '/', weight = 10 },
+    { name = 'Schedule', url = '/2025/schedule2025/', weight = 30 },
+    { name = 'Media', url = '/2025/photos2025/', weight = 20 },
+    { name = 'Transportion', url = '/2025/transportation/', weight = 40 },
+    { name = 'Organization', url = '/2025/organization/', weight = 50 }
   ]
 +++
 
