@@ -1,4 +1,4 @@
-baseURL = 'https://testzzu.github.io/GPEML/'
+baseURL = 'https://www.gpeml.org/'
 languageCode = 'en-us'
 title = 'GPEML Symposium'
 theme = 'PaperMod'
