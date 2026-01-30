@@ -1,12 +1,12 @@
 /* Custom styles to match PRICAI 2025 website style */
 
-/* Global font family - Microsoft YaHei */
+/* Global font family - Arial only (site-wide) */
 * {
-    font-family: "Microsoft YaHei", "微软雅黑", "SimHei", "黑体", Arial, sans-serif !important;
+    font-family: Arial, sans-serif !important;
 }
 
 html, body {
-    font-family: "Microsoft YaHei", "微软雅黑", "SimHei", "黑体", Arial, sans-serif !important;
+    font-family: Arial, sans-serif !important;
 }
 
 /* Increase page width to match PRICAI 2025 style - wider layout */
