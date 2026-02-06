@@ -44,8 +44,19 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = 'HOME'
     name = 'Home'
-    url = '/'
     weight = 10
+    [[menu.main]]
+      identifier = 'gpeml-home'
+      name = 'GPEML Home'
+      url = '/'
+      weight = 11
+      parent = 'HOME'
+    [[menu.main]]
+      identifier = 'gpeml-2026'
+      name = 'GPEML 2026'
+      url = '/2026/'
+      weight = 12
+      parent = 'HOME'
   [[menu.main]]
     identifier = 'about-gpeml'
     name = 'Steering Committee'
