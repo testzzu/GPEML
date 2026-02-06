@@ -103,13 +103,44 @@
             {{- if $hasCustomMenu }}
             {{- /* Custom menu from page params */ -}}
             {{- range $currentPage.Params.menuItems }}
-            {{- $menu_item_url := (cond (strings.HasSuffix .url "/") .url (printf "%s/" .url) ) | absLangURL }}
-            {{- $is_active := eq $menu_item_url $page_url }}
-            <li class="menu-item">
+            {{- if not .parent }}
+            {{- $current_name := .name }}
+            {{- $has_children := false }}
+            {{- range $currentPage.Params.menuItems }}
+                {{- if and .parent (eq .parent $current_name) }}
+                    {{- $has_children = true }}
+                {{- end }}
+            {{- end }}
+            <li class="menu-item{{ if $has_children }} has-children{{ end }}">
+                {{- if .url }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .url "/") .url (printf "%s/" .url) ) | absLangURL }}
+                {{- $is_active := eq $menu_item_url $page_url }}
                 <a href="{{ .url | absLangURL }}" title="{{ .name }}">
                     <span {{- if $is_active }} class="active" {{- end }}>{{ .name }}</span>
                 </a>
+                {{- else }}
+                <a href="#" title="{{ .name }}">
+                    <span>{{ .name }}</span>
+                </a>
+                {{- end }}
+                {{- if $has_children }}
+                <ul class="submenu">
+                    {{- range $currentPage.Params.menuItems }}
+                    {{- if and .parent (eq .parent $current_name) }}
+                    {{- $child_menu_url := (cond (strings.HasSuffix .url "/") .url (printf "%s/" .url) ) | absLangURL }}
+                    <li>
+                        <a href="{{ .url | absLangURL }}" title="{{ .name }}">
+                            <span {{- if eq $child_menu_url $page_url }} class="active" {{- end }}>
+                                {{- .name -}}
+                            </span>
+                        </a>
+                    </li>
+                    {{- end }}
+                    {{- end }}
+                </ul>
+                {{- end }}
             </li>
+            {{- end }}
             {{- end }}
             {{- else }}
             {{- /* Default site menu */ -}}

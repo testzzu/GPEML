@@ -10,11 +10,13 @@ description = 'Zhengzhou · July 10–12, 2025'
   customMenu = true
   ShowRssButtonInSectionTermList = false
   menuItems = [
-    { name = 'Home', url = '/', weight = 10 },
+    { name = 'Home', weight = 10, hasChildren = true },
+    { name = 'GPEML Home', url = '/', weight = 11, parent = 'Home' },
+    { name = 'GPEML 2026', url = '/2026/', weight = 12, parent = 'Home' },
     { name = 'Schedule', url = '/2025/schedule2025/', weight = 30 },
     { name = 'Media', url = '/2025/photos2025/', weight = 20 },
     { name = 'Transportion', url = '/2025/transportation/', weight = 40 },
-    { name = 'Organization', url = '/2025/organization/', weight = 50 } 
+    { name = 'Organization', url = '/2025/organization/', weight = 50 }
   ]
 +++
 
