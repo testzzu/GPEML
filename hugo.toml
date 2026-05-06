@@ -2,7 +2,9 @@ baseURL = 'https://www.gpeml.org/'
 languageCode = 'en-us'
 title = 'GPEML Symposium'
 theme = 'PaperMod'
-
+[author]
+  name = "hongshan123"
+  email = "2973764804@qq.com"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
