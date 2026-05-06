@@ -8,7 +8,7 @@ hiddenInSectionList = true
   menuItems = [
     { name = 'Home', url = '/', weight = 10 },
     { name = 'Schedule', url = '/2026/schedule2026/', weight = 30 },
-    { name = 'Media', url = '/2026/photos2026/', weight = 20 },
+    
     { name = 'Transportion', url = '/2026/transportation/', weight = 40 },
     { name = 'Organization', url = '/2026/organization/', weight = 50 }
   ]
