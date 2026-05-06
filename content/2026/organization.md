@@ -37,5 +37,15 @@ hiddenInSectionList = true
 {{< member name="Risto Miikkulainen" affiliation="University of Texas at Austin, USA" image="/images/member/thumb.miikkulainen-hr.jpg" url="https://www.cs.utexas.edu/~risto/" >}}
 {{< member name="Shinichi Shirakawa" affiliation="Yokohama National University, Japan" image="/images/member/image.png" url="https://shiralab.ynu.ac.jp/en/shirakawa/" >}}
 {{< member name="Senior Lecturer Alberto Moraglio" affiliation="University of Exeter, UK" image="/images/member/thumbnail.jpg" url="https://experts.exeter.ac.uk/23132-alberto-moraglio" >}}
+{{< member name="Yanan Sun" affiliation="Sichuan University, China" image="/images/member/Yanan_sun.jpg" url="https://yn-sun.github.io/" >}}
+{{< member name="Cuie Yang" affiliation="Northeastern University, China" image="/images/member/yangcuie.png" url="http://faculty.neu.edu.cn/yangcuie/zh_CN/index.htm" >}}
+{{< member name="Jiahao Fan" affiliation="Sichuan University, China" image="/images/member/fanjiahao.png" url="https://cs.scu.edu.cn/info/1359/17831.htm" >}}
+{{< member name="Jian Zhang" affiliation="Sichuan University, China" image="/images/member/zhangjian.png" url="" >}}
+{{< member name="Jiawen Deng" affiliation="Sichuan University, China" image="/images/member/dengjiawen.png" url="" >}}
+{{< member name="Xiaotian Song" affiliation="Sichuan University, China" image="/images/member/songxiaotian.png" url="" >}}
+{{< member name="Aojun Lu" affiliation="Sichuan University, China" image="/images/member/luaojun.png" url="" >}}
+{{< member name="Zhijun Hong" affiliation="Sichuan University, China" image="/images/member/hongzhijun.png" url="" >}}
+{{< member name="Zhijun Hong" affiliation="Sichuan University, China" image="/images/member/hongzhijun.png" url="" >}}
+
 {{< /membergrid >}}
 

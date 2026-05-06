@@ -27,9 +27,7 @@ theme = 'PaperMod'
   ShowRssButtonInSectionTermList = true
   
   # 【修改这里】：将作者信息放在 params 下面
-  [params.author]
-    name = "hongsdhan123"
-    email = "2973764804@qq.com"
+  
   
   [params.assets]
     # 禁用指纹识别以便调试（生产环境可以启用）

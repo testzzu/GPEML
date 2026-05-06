@@ -22,12 +22,19 @@ description = 'Chengdu · July 24–26, 2026'
 
 ## Welcome to GPEML 2026
 
-This event focuses on the cutting-edge theories and applications of Genetic Programming 
-(GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational 
-intelligence, GP and EML have demonstrated tremendous potential in automated program 
-generation, feature engineering, explainable AI, evolutionary deep learning, and other emerging 
-fields. The forum will gather leading experts and scholars worldwide to discuss the latest 
-research advances, key technologies, and practical applications of GP and EML.
+This event focuses on the frontier theories and applications of Genetic Programming (GP) and Evolutionary Machine Learning (EML).
+
+Driven by the rapid advancement of computational intelligence, GP and EML are demonstrating vast potential across diverse domains, including:
+
+Automated program generation
+
+Feature engineering
+
+Explainable AI (XAI)
+
+Deep evolutionary learning
+
+This forum will assemble leading experts and scholars from both home and abroad to jointly explore the latest research breakthroughs, core technologies, and their practical implementation in solving complex, real-world challenges.
 
 ---
 
@@ -47,14 +54,12 @@ Forum Topics (including but not limited to):
 
 ## Organizers
 
-**[Host]** IEEE Computational Intelligence Society
-
 **[Organizer]** College of Computer Science, Sichuan University
 
 **[Co-organizers]**
 
-- School of Electrical and Information Engineering, Zhengzhou University
--College of Information Science and Engineering, Northeastern University
+- IEEE Computational Intelligence Society
+- IEEE Computational Intelligence Society Chengdu Chapter
 
 
 ---
@@ -105,8 +110,8 @@ GPEML 2026 is hosted at Wangjiang Hotel No.42 Xiashahepu Street, Jinjiang Distri
 Typical access options include:
 
 - **By air:** Chengdu Shuangliu International Airport or Chengdu Tianfu International Airport, then metro, airport shuttle, taxi, or ride-hailing to the hotel
-- **By high-speed rail:**Chengdu East Railway Station followed by a short taxi ride or metro to the Jinjiang District area
-- **Within the city:**Metro and bus connections to Jinjiang District, plus short taxi rides directly to the venue on Xiashahepu Street
+- **By high-speed rail:** Chengdu East Railway Station followed by a short taxi ride or metro to the Jinjiang District area
+- **Within the city:** Metro and bus connections to Jinjiang District, plus short taxi rides directly to the venue on Xiashahepu Street
 More detailed routes, metro lines, and arrival tips will be posted under the Attending section as the event approaches.
 ---
 
