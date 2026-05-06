@@ -2,9 +2,7 @@ baseURL = 'https://www.gpeml.org/'
 languageCode = 'en-us'
 title = 'GPEML Symposium'
 theme = 'PaperMod'
-[author]
-  name = "hongshan123"
-  email = "2973764804@qq.com"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -27,8 +25,11 @@ theme = 'PaperMod'
   ShowBreadCrumbs = true
   # 显示RSS按钮
   ShowRssButtonInSectionTermList = true
-  # 封面图片
-  # cover.image = '/images/cover.jpg'
+  
+  # 【修改这里】：将作者信息放在 params 下面
+  [params.author]
+    name = "hongsdhan123"
+    email = "2973764804@qq.com"
   
   [params.assets]
     # 禁用指纹识别以便调试（生产环境可以启用）
@@ -39,8 +40,8 @@ theme = 'PaperMod'
   
   [params.label]
     # 隐藏导航栏中的标题文字
-  text = ""
-  hideText = true
+    text = ""
+    hideText = true
   
 [menu]
   [[menu.main]]
@@ -75,7 +76,6 @@ theme = 'PaperMod'
     name = 'Symposium'
     url = '/future-symposium/'
     weight = 25
-
   [[menu.main]]
     identifier = 'news'
     name = 'News and Events'

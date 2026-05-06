@@ -19,7 +19,7 @@ description = 'Chengdu · July 24–26, 2026'
   ]
 +++
 
-## Welcome to GPEML 2025
+## Welcome to GPEML 2026
 
 This event focuses on the cutting-edge theories and applications of Genetic Programming 
 (GP) and Evolutionary Machine Learning (EML). With the rapid advancement of computational 
