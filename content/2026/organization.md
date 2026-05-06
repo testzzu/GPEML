@@ -45,7 +45,7 @@ hiddenInSectionList = true
 {{< member name="Xiaotian Song" affiliation="Sichuan University, China" image="/images/member/songxiaotian.png" url="" >}}
 {{< member name="Aojun Lu" affiliation="Sichuan University, China" image="/images/member/luaojun.png" url="" >}}
 {{< member name="Zhijun Hong" affiliation="Sichuan University, China" image="/images/member/hongzhijun.png" url="" >}}
-{{< member name="Zhijun Hong" affiliation="Sichuan University, China" image="/images/member/hongzhijun.png" url="" >}}
+
 
 {{< /membergrid >}}
 
