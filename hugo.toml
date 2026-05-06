@@ -52,6 +52,12 @@ theme = 'PaperMod'
       weight = 11
       parent = 'HOME'
     [[menu.main]]
+      identifier = 'gpeml-2025'
+      name = 'GPEML 2025'
+      url = '/2025/'
+      weight = 12
+      parent = 'HOME'
+    [[menu.main]]
       identifier = 'gpeml-2026'
       name = 'GPEML 2026'
       url = '/2026/'

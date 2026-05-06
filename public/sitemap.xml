@@ -8,7 +8,13 @@
     <loc>http://localhost:1313/2025/</loc>
     <lastmod>2025-11-24T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/2026/</loc>
+    <lastmod>2025-11-24T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/2025/photos2025/</loc>
+    <lastmod>2025-11-24T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2026/photos2026/</loc>
     <lastmod>2025-11-24T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/proceedings/</loc>
@@ -50,18 +56,22 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/2026/</loc>
-  </url><url>
     <loc>http://localhost:1313/news-events/</loc>
   </url><url>
     <loc>http://localhost:1313/2025/organization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2026/organization/</loc>
   </url><url>
     <loc>http://localhost:1313/past-symposium/</loc>
   </url><url>
     <loc>http://localhost:1313/2025/schedule2025/</loc>
   </url><url>
+    <loc>http://localhost:1313/2026/schedule2026/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/2025/transportation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/2026/transportation/</loc>
   </url>
 </urlset>
