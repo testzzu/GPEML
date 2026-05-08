@@ -5,6 +5,7 @@ hiddenInHomeList = true
 hiddenInSectionList = true
 hideFooter = true
 showPagination = false
+ShowPostNavLinks = false
 [params]
   customMenu = true
   menuItems = [
