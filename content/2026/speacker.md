@@ -4,6 +4,7 @@ slug = 'speacker'
 hiddenInHomeList = true
 hiddenInSectionList = true
 hideFooter = true
+showPagination = false
 [params]
   customMenu = true
   menuItems = [

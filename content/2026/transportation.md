@@ -4,6 +4,7 @@ slug = 'transportation'
 hiddenInHomeList = true
 hiddenInSectionList = true
 hideFooter = true
+showPagination = false
 [params]
   customMenu = true
   menuItems = [
