@@ -13,13 +13,14 @@ hiddenInSectionList = true
     { name = 'Schedule', url = '/2026/schedule2026/', weight = 30 },
     
     { name = 'Transportion', url = '/2026/transportation/', weight = 40 },
-    { name = 'Organization', url = '/2026/organization/', weight = 50 } 
+    { name = 'speacker', url = '/2026/speacker/', weight = 40 },
+    { name = 'Organization', url = '/2026/organization/', weight = 50 }
   ]
 +++
 
 ## Getting to the Venue
 
-Wangjiang Hotel (No.42 Xiashahepu Street, Jinjiang District, 610066, Chengdu, Sichuan, China)is reachable by taxi or metro from the city’s main transport hubs. Use the routes below for the smoothest arrival experience.
+[Wangjiang Hotel](http://www.wangjianghotel.com/index.html)(No.42 Xiashahepu Street, Jinjiang District, 610066, Chengdu, Sichuan, China)is reachable by taxi or metro from the city’s main transport hubs. Use the routes below for the smoothest arrival experience.
 
 ### From Chengdu Shuangliu International Airport
 
