@@ -60,25 +60,6 @@ College of Computer Science, Sichuan University
 
 
 
-## Accommodation
-
-Over the years, the symposium series aims to bring together leading researchers and practitioners in the field of Genetic Programming and Evolutionary Machine Learning. GPEML provides a platform for:
-
-- **Research Presentations** – Share the latest research findings in GP and EML  
-- **Networking** – Connect with peers and experts in genetic programming and evolutionary machine learning  
-- **Smposium & Tutorials** – Learn from leading researchers in automated program generation, feature engineering, and explainable AI  
-- **Industry Engagement** – Explore real-world applications of evolutionary deep learning and computational intelligence
-
-- Venue hotel with discounted rates: see **Accommodations with Discount** for room types and booking instructions  
-- Walking-distance options near the Huazhi Hotel for different budget levels  
-- Early booking is strongly recommended; booking codes may be required to claim negotiated rates
-
-For full details, please visit the dedicated accommodation page:
-
-- [Accommodations with Discount](http://www.wangjianghotel.com/index.html)
-
----
-
 ## Transportation
 - **Within the city:**
 GPEML 2026 is hosted at Wangjiang Hotel No.42 Xiashahepu Street, Jinjiang District, 610066, Chengdu, Sichuan
