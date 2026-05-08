@@ -3,6 +3,7 @@ title = 'Schedule 2026'
 slug = 'schedule2026'
 hiddenInHomeList = true
 hiddenInSectionList = true
+hideFooter = true
 [params]
   customMenu = true
   menuItems = [
@@ -13,6 +14,7 @@ hiddenInSectionList = true
     { name = 'Schedule', url = '/2026/schedule2026/', weight = 30 },
     
     { name = 'Transportion', url = '/2026/transportation/', weight = 40 },
+    { name = 'Speacker', url = '/2026/speacker/', weight = 40 },
     { name = 'Organization', url = '/2026/organization/', weight = 50 }
   ]
 +++
