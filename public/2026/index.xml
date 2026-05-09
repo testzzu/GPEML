@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>GPEML 2026 on GPEML Symposium</title><link>https://www.gpeml.org/2026/</link><description>Recent content in GPEML 2026 on GPEML Symposium</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://www.gpeml.org/2026/index.xml" rel="self" type="application/rss+xml"/><item><title>Photos</title><link>https://www.gpeml.org/2026/photos2026/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0800</pubDate><guid>https://www.gpeml.org/2026/photos2026/</guid><description>&lt;div class="photo-gallery" id="photoGallery"&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A1.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A1.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A2.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A2.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A8.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A8.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A3.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A3.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A4.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A4.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A5.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A5.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A6.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A6.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A7.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A7.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/A9.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/A9.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/photo1.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/photo1.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/photo2.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/photo2.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;div class="photo-item" data-src="https://www.gpeml.org/images/2025photo/photo3.jpg" data-caption=""&gt;
+&lt;img src="https://www.gpeml.org/images/2025photo/photo3.jpg" alt="" loading="lazy" onerror="this.parentElement.style.display='none';"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class="lightbox" id="lightbox"&gt;
+&lt;span class="lightbox-close" id="lightboxClose"&gt;&lt;/span&gt;
+&lt;span class="lightbox-prev" id="lightboxPrev"&gt;&lt;/span&gt;
+&lt;span class="lightbox-next" id="lightboxNext"&gt;&lt;/span&gt;
+&lt;div class="lightbox-content"&gt;
+&lt;img id="lightboxImage" src="" alt=""&gt;
+&lt;div class="lightbox-caption" id="lightboxCaption"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;script&gt;
+(function() {
+if (window.photoGalleryInitialized) return;
+window.photoGalleryInitialized = true;
+const gallery = document.getElementById('photoGallery');
+const lightbox = document.getElementById('lightbox');
+if (!gallery || !lightbox) return;
+const lightboxImage = document.getElementById('lightboxImage');
+const lightboxCaption = document.getElementById('lightboxCaption');
+const lightboxClose = document.getElementById('lightboxClose');
+const lightboxPrev = document.getElementById('lightboxPrev');
+const lightboxNext = document.getElementById('lightboxNext');
+let currentIndex = 0;
+let photos = [];
+function updatePhotosArray() {
+photos = [];
+const allGalleries = document.querySelectorAll('.photo-gallery');
+allGalleries.forEach(g =&gt; {
+const items = Array.from(g.querySelectorAll('.photo-item'));
+items.forEach(item =&gt; {
+if (item.style.display !== 'none' &amp;&amp; item.offsetParent !== null) {
+photos.push(item);
+}
+});
+});
+}
+updatePhotosArray();
+setTimeout(updatePhotosArray, 500);
+setTimeout(updatePhotosArray, 1500);
+function openLightbox(index) {
+if (photos.length === 0) return;
+currentIndex = index;
+updateLightbox();
+lightbox.classList.add('active');
+document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+lightbox.classList.remove('active');
+document.body.style.overflow = '';
+}
+function updateLightbox() {
+if (photos.length === 0) return;
+const photo = photos[currentIndex];
+const img = photo.querySelector('img');
+const caption = photo.getAttribute('data-caption') || img.getAttribute('alt') || '';
+lightboxImage.src = photo.getAttribute('data-src') || img.src;
+lightboxCaption.textContent = caption;
+}
+function showNext() {
+currentIndex = (currentIndex + 1) % photos.length;
+updateLightbox();
+}
+function showPrev() {
+currentIndex = (currentIndex - 1 + photos.length) % photos.length;
+updateLightbox();
+}
+photos.forEach((photo, index) =&gt; {
+photo.addEventListener('click', () =&gt; openLightbox(index));
+});
+if (lightboxClose) {
+lightboxClose.addEventListener('click', closeLightbox);
+}
+if (lightboxPrev) {
+lightboxPrev.addEventListener('click', (e) =&gt; {
+e.stopPropagation();
+showPrev();
+});
+}
+if (lightboxNext) {
+lightboxNext.addEventListener('click', (e) =&gt; {
+e.stopPropagation();
+showNext();
+});
+}
+if (lightbox) {
+lightbox.addEventListener('click', (e) =&gt; {
+if (e.target === lightbox) {
+closeLightbox();
+}
+});
+}
+document.addEventListener('keydown', (e) =&gt; {
+if (!lightbox.classList.contains('active')) return;
+if (e.key === 'Escape') {
+closeLightbox();
+} else if (e.key === 'ArrowLeft') {
+showPrev();
+} else if (e.key === 'ArrowRight') {
+showNext();
+}
+});
+})();
+&lt;/script&gt;
+&lt;hr&gt;</description></item><item><title>Organization 2026</title><link>https://www.gpeml.org/2026/organization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.gpeml.org/2026/organization/</guid><description>&lt;h2 id="organization-for-gpeml-2026"&gt;Organization for GPEML 2026&lt;/h2&gt;
+&lt;div class="member-grid"&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Wolfgang_Banzhaf.png" alt="Wolfgang Banzhaf" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.cse.msu.edu/~banzhafw/" target="_blank" rel="noopener noreferrer"&gt;Wolfgang Banzhaf&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Michigan State University, USA&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Mengjie_Zhang.png" alt="Mengjie Zhang" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://homepages.ecs.vuw.ac.nz/~mengjie/" target="_blank" rel="noopener noreferrer"&gt;Mengjie Zhang&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Bing_Xue.png" alt="Bing Xue" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://people.wgtn.ac.nz/Bing.Xue" target="_blank" rel="noopener noreferrer"&gt;Bing Xue&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Jiancheng_Lv.jpg" alt="Jiancheng Lv" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://cs.scu.edu.cn/info/1303/13767.htm" target="_blank" rel="noopener noreferrer"&gt;Jiancheng Lv&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Sichuan University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Gary_G._Yen.jpg" alt="Gary G. Yen" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://cs.scu.edu.cn/info/1396/19253.htm" target="_blank" rel="noopener noreferrer"&gt;Gary G. Yen&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Sichuan University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/zhongjingyao.jpg" alt="Jinghui Zhong" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www2.scut.edu.cn/cs/2017/0129/c22284a327657/page.htm" target="_blank" rel="noopener noreferrer"&gt;Jinghui Zhong&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;South China University Of Technology, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/LiangFeng.jpg" alt="Liang Feng" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://cs.cqu.edu.cn/info/1274/3810.htm" target="_blank" rel="noopener noreferrer"&gt;Liang Feng&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Chongqing University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Yanan_sun.jpg" alt="Yanan Sun" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://yn-sun.github.io/" target="_blank" rel="noopener noreferrer"&gt;Yanan Sun&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Sichuan University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/yangcuie.png" alt="Cuie Yang" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="http://faculty.neu.edu.cn/yangcuie/zh_CN/index.htm" target="_blank" rel="noopener noreferrer"&gt;Cuie Yang&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Northeastern University, China&lt;/p&gt;</description></item><item><title>Schedule 2026</title><link>https://www.gpeml.org/2026/schedule2026/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.gpeml.org/2026/schedule2026/</guid><description>&lt;h2 id="schedule"&gt;Schedule&lt;/h2&gt;
+&lt;p&gt;The detailed technical program will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plenary and keynote sessions by leading researchers in GP and EML&lt;/li&gt;
+&lt;li&gt;Panels on emerging topics such as evolutionary deep learning and explainable GP&lt;/li&gt;
+&lt;li&gt;Focused discussion and collaboration slots on July 25
+A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the Program page and the PDF program when available.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;More details will be released shortly.&lt;/p&gt;</description></item><item><title>Speaker 2026</title><link>https://www.gpeml.org/2026/speaker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.gpeml.org/2026/speaker/</guid><description>&lt;h2 id="speaker-for-gpeml-2026"&gt;Speaker for GPEML 2026&lt;/h2&gt;
+&lt;div class="member-grid"&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Xin_Yao.png" alt="Xin Yao" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.ln.edu.hk/po/people/professor-xin-yao" target="_blank" rel="noopener noreferrer"&gt;Xin Yao&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Beihang University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/thumb.miikkulainen-hr.jpg" alt="Risto Miikkulainen" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.cs.utexas.edu/~risto/" target="_blank" rel="noopener noreferrer"&gt;Risto Miikkulainen&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;University of Texas at Austin, USA&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Yaochu_Jin.jpg" alt="Yaochu Jin" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.westlake.edu.cn/faculty/yaochu-jin.html" target="_blank" rel="noopener noreferrer"&gt;Yaochu Jin&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Westlake University, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Yew_Song_Ong.jpg" alt="Yew Song Ong" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www3.ntu.edu.sg/home/asysong/home.html" target="_blank" rel="noopener noreferrer"&gt;Yew Song Ong&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Nanyang Technological University, Singapore&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/rongqu.jpg" alt="Rong Qu" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.nottingham.ac.uk/computerscience/people/rong.qu" target="_blank" rel="noopener noreferrer"&gt;Rong Qu&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;University of Nottingham, UK&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/Ting_Hu.jpg" alt="Ting Hu" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.cs.queensu.ca/people/profile.php?fname=Ting&amp;amp;lname=Hu" target="_blank" rel="noopener noreferrer"&gt;Ting Hu&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Queen&amp;#39;s University, Canada&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/tangke.jpg" alt="Ke Tang" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://www.sustech.edu.cn/en/faculties/tangke.html" target="_blank" rel="noopener noreferrer"&gt;Ke Tang&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;Southern University of Science and Technology, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/chenghuanhuan.png" alt="Huanhuan Cheng" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://cs.ustc.edu.cn/2020/0828/c23235a460073/page.htm" target="_blank" rel="noopener noreferrer"&gt;Huanhuan Cheng&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;University of Science and Technology of China, China&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="member-card"&gt;
+&lt;div class="member-avatar"&gt;
+&lt;img src="https://www.gpeml.org/images/member/thumbnail.jpg" alt="Senior Lecturer Alberto Moraglio" loading="lazy"&gt;
+&lt;/div&gt;
+&lt;div class="member-info"&gt;
+&lt;h4 class="member-name"&gt;&lt;a href="https://experts.exeter.ac.uk/23132-alberto-moraglio" target="_blank" rel="noopener noreferrer"&gt;Senior Lecturer Alberto Moraglio&lt;/a&gt;&lt;/h4&gt;
+&lt;p class="member-affiliation"&gt;University of Exeter, UK&lt;/p&gt;</description></item><item><title>Transportation Guide</title><link>https://www.gpeml.org/2026/transportation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.gpeml.org/2026/transportation/</guid><description>&lt;h2 id="getting-to-the-venue"&gt;Getting to the Venue&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.wangjianghotel.com/index.html"&gt;Wangjiang Hotel&lt;/a&gt;(No.42 Xiashahepu Street, Jinjiang District, 610066, Chengdu, Sichuan, China)is reachable by taxi or metro from the city’s main transport hubs. Use the routes below for the smoothest arrival experience.&lt;/p&gt;
+&lt;h3 id="from-chengdu-shuangliu-international-airport"&gt;From Chengdu Shuangliu International Airport&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: ~22 km&lt;/li&gt;
+&lt;li&gt;Duration: ~0.5 hour&lt;/li&gt;
+&lt;li&gt;Boarding point: Ride-hailing pickup area at Terminal 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Metro&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enter at Shuangliu Airport Station (Exit B).&lt;/li&gt;
+&lt;li&gt;Take the Suburban Line to Zhujiang road Station.&lt;/li&gt;
+&lt;li&gt;Transfer to Line 8 toward Dongda road Station.&lt;/li&gt;
+&lt;li&gt;Walk 700 m to the hotel entrance.&lt;/li&gt;
+&lt;li&gt;Total duration: ~1 hours.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="from-chengdu-tianfu-international-airport"&gt;From Chengdu Tianfu International Airport&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

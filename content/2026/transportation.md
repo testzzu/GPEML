@@ -7,7 +7,6 @@ hideFooter = true
 showPagination = false
 ShowPostNavLinks = false
 [params]
-[params]
   customMenu = true
   menuItems = [
     { name = 'Home', url = '/2026',weight = 10, hasChildren = true },
