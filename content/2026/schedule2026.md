@@ -14,7 +14,7 @@ ShowPostNavLinks = false
     { name = 'Schedule', url = '/2026/schedule2026/', weight = 30 },
     
     { name = 'Transportion', url = '/2026/transportation/', weight = 40 },
-    { name = 'Speaker', url = '/2026/Speaker/', weight = 40 },
+    { name = 'Speaker', url = '/2026/speaker/', weight = 40 },
     { name = 'Organization', url = '/2026/organization/', weight = 50 }
   ]
 +++
