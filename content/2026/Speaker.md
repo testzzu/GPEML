@@ -38,7 +38,7 @@ ShowPostNavLinks = false
 {{< member name="Handing Wang" affiliation="Xidian University, China" image="/images/member/wanghanding.jpg" url="https://faculty.xidian.edu.cn/HandingWang/zh_CN/index.htm" >}}
 
 {{< member name="Yuan Yuan" affiliation="Beihang University, China" image="/images/member/yuanyuan.jpg" url="https://scse.buaa.edu.cn/info/1078/8386.htm" >}}
-
+{{< member name="Zhichao Lu" affiliation="City University of Hong Kong" image="Zhichao_Lu.png" url="https://www.cs.cityu.edu.hk/~zhichalu/" >}}
 
 
 
