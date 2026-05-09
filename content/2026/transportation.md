@@ -7,16 +7,15 @@ hideFooter = true
 showPagination = false
 ShowPostNavLinks = false
 [params]
+[params]
   customMenu = true
   menuItems = [
     { name = 'Home', url = '/2026',weight = 10, hasChildren = true },
-    { name = 'GPEML Home', url = '/', weight = 11, parent = 'Home' },
-    { name = 'GPEML 2025', url = '/2025/', weight = 12, parent = 'Home' },
-    { name = 'GPEML 2026', url = '/2026/', weight = 12, parent = 'Home' },
+    
     { name = 'Schedule', url = '/2026/schedule2026/', weight = 30 },
     
     { name = 'Transportion', url = '/2026/transportation/', weight = 40 },
-    { name = 'Speacker', url = '/2026/speacker/', weight = 40 },
+    { name = 'Speaker', url = '/2026/Speaker/', weight = 40 },
     { name = 'Organization', url = '/2026/organization/', weight = 50 }
   ]
 +++
