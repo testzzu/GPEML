@@ -22,7 +22,7 @@ ShowPostNavLinks = false
 ## Speaker for GPEML 2026
 
 {{< membergrid >}}
-{{< member name="Xin Yao" affiliation="Beihang University, China" image="/images/member/Xin_Yao.png" url="https://www.ln.edu.hk/po/people/professor-xin-yao" >}}
+{{< member name="Xin Yao" affiliation="Lingnan University, China" image="/images/member/Xin_Yao.png" url="https://www.ln.edu.hk/po/people/professor-xin-yao" >}}
 {{< member name="Risto Miikkulainen" affiliation="University of Texas at Austin, USA" image="/images/member/thumb.miikkulainen-hr.jpg" url="https://www.cs.utexas.edu/~risto/" >}}
 {{< member name="Yaochu Jin" affiliation="Westlake University, China" image="/images/member/Yaochu_Jin.jpg" url="https://www.westlake.edu.cn/faculty/yaochu-jin.html" >}}
 {{< member name="Yew Song Ong" affiliation="Nanyang Technological University, Singapore" image="/images/member/Yew_Song_Ong.jpg" url="https://www3.ntu.edu.sg/home/asysong/home.html" >}}
