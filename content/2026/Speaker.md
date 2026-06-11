@@ -25,7 +25,7 @@ ShowPostNavLinks = false
 {{< member name="Xin Yao" affiliation="Lingnan University, China" image="/images/member/Xin_Yao.png" url="https://www.ln.edu.hk/po/people/professor-xin-yao" >}}
 {{< member name="Risto Miikkulainen" affiliation="University of Texas at Austin, USA" image="/images/member/thumb.miikkulainen-hr.jpg" url="https://www.cs.utexas.edu/~risto/" >}}
 {{< member name="Yaochu Jin" affiliation="Westlake University, China" image="/images/member/Yaochu_Jin.jpg" url="https://www.westlake.edu.cn/faculty/yaochu-jin.html" >}}
-{{< member name="Ong Yew Soon" affiliation="Nanyang Technological University, Singapore" image="/images/member/Yew_Song_Ong.jpg" url="https://www3.ntu.edu.sg/home/asysong/home.html" >}}
+{{< member name="Yew Soon Ong" affiliation="Nanyang Technological University, Singapore" image="/images/member/Yew_Song_Ong.jpg" url="https://www3.ntu.edu.sg/home/asysong/home.html" >}}
 {{< member name="Rong Qu" affiliation="University of Nottingham, UK" image="/images/member/rongqu.jpg" url="https://www.nottingham.ac.uk/computerscience/people/rong.qu" >}}
 
 {{< member name="Ting Hu" affiliation="Queen's University, Canada" image="/images/member/Ting_Hu.jpg" url="https://www.cs.queensu.ca/people/profile.php?fname=Ting&lname=Hu" >}}
