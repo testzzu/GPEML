@@ -35,8 +35,9 @@ ShowPostNavLinks = false
 {{< member name="Yanan Sun" affiliation="Sichuan University, China" image="/images/member/Yanan_sun.jpg" url="https://yn-sun.github.io/" >}}
 {{< member name="Cuie Yang" affiliation="Northeastern University, China" image="/images/member/yangcuie.png" url="http://faculty.neu.edu.cn/yangcuie/zh_CN/index.htm" >}}
 {{< member name="Jiahao Fan" affiliation="Sichuan University, China" image="/images/member/fanjiahao.png" url="https://cs.scu.edu.cn/info/1359/17831.htm" >}}
+{{< member name="Ying Bi" affiliation="Zhengzhou University, China" image="/images/member/Ying_Bi.png" url="https://www5.zzu.edu.cn/eie/info/1065/4153.htm" >}}
+{{< member name="Nan Li" affiliation="Shanxi University, China" image="/images/member/NanLI.png" url="https://dig.sxu.edu.cn/xwz/td/jszlyjy/e711ad7eac0c48c28569f435008cad72.html" >}}
 {{< member name="Jian Zhang" affiliation="Sichuan University, China" image="/images/member/zhangjian.png" url="" >}}
-
 {{< member name="Xiaotian Song" affiliation="Sichuan University, China" image="/images/member/songxiaotian.png" url="" >}}
 {{< member name="Aojun Lu" affiliation="Sichuan University, China" image="/images/member/luaojun.png" url="" >}}
 {{< member name="Zhijun Hong" affiliation="Sichuan University, China" image="/images/member/hongzhijun.png" url="" >}}
