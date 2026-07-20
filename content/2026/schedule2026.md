@@ -43,7 +43,7 @@ ShowPostNavLinks = false
     <tr><td>15:20-15:40</td><td>Tea Break</td><td></td></tr>
     <tr><td>15:40-16:20</td><td><strong>Invited Talk:</strong> Recent Advances in LLM-based Evolutionary Program Search and Its Application to Neural Architecture Search<br/>Speaker:  Prof. Zhichao Lu</td><td>Chair: Dujuan Wang</td></tr>
     <tr><td>16:20-17:00</td><td><strong>Invited Talk:</strong> Feature Reduction for Complex Data: From Streaming Scenarios to Long-Tail Distributions<br/>Speaker: Prof. Ruwang Jiao</td><td>Chair: Junhao Huang</td></tr>
-    <tr><td>17:00-17:40</td><td><strong>Invited Talk:</strong> From Single Rules to Adaptive Heuristic Families: Ensemble, Task-Aware, Preference-Aware, and Transformer-Guided Genetic Programming<br/>Speaker: Prof. Meng Xu</td><td>Chair:Yahui Jia</td></tr>
+    <tr><td>17:00-17:40</td><td><strong>Invited Talk:</strong> From Single Rules to Adaptive Heuristic Families: Ensemble, Task-Aware, Preference-Aware, and Transformer-Guided Genetic Programming<br/>Speaker: Prof. Meng Xu</td><td>Chair: Yahui Jia</td></tr>
   </tbody>
 </table>
 
@@ -63,7 +63,7 @@ ShowPostNavLinks = false
     </tr>
   </thead>
   <tbody>
-    <tr><td>9:00-9:40</td><td><strong>Opening Ceremony</strong> <td>Chair:Yanan Sun</td></tr>
+    <tr><td>9:00-9:40</td><td><strong>Opening Ceremony</strong> <td>Chair: Yanan Sun</td></tr>
     <tr><td>9:40-10:20</td><td><strong>Invited Talk:</strong> From Distributive Fairness to Procedural Fairness in Machine Learning<br/>Speaker: Prof. Xin Yao</td><td>Chair:  Mengjie Zhang</td></tr>
     <tr><td>10:20-10:40</td><td>Tea Break</td><td></td></tr>
     <tr><td>10:40-11:20</td><td><strong>Invited Talk:</strong> The AI Research Revolution: How Language Models Are Changing the Way We Conduct Research<br/>Speaker: Prof. Yew-Soon Ong</td><td>Chair:  Bing Xue</td></tr>
