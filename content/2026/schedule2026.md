@@ -45,7 +45,7 @@ ShowPostNavLinks = false
     <tr><td>14:40-15:20</td><td><strong>Invited Talk:</strong> Evolutionary Computation for Automated <br/>Speaker:  Prof. Shinichi Shirakawa</td><td>Chair: Zhixing Huang</td></tr>
     <tr><td>15:20-15:40</td><td>Tea Break</td><td>Chair: —</td></tr>
     <tr><td>15:40-16:20</td><td><strong>Invited Talk:</strong> Recent Advances in LLM-based Evolutionary Program Search and Its Application to Neural Architecture Search<br/>Speaker: Prof. Zhichao Lu</td><td>Chair: Dujuan Wang</td></tr>
-    <tr><td>16:20-17:00</td><td><strong>Invited Talk:</strong> Feature Reduction for Complex Data: From Streaming Scenarios to Long-Tail Distributions<br/>Speaker: Prof. Ruwang Jiao</td><td>Chair: —</td></tr>
+    <tr><td>16:20-17:00</td><td><strong>Invited Talk:</strong> Feature Reduction for Complex Data: From Streaming Scenarios to Long-Tail Distributions<br/>Speaker: Prof. Ruwang Jiao</td><td>Chair: Junhao Huang</td></tr>
     <tr><td>17:00-17:40</td><td><strong>Invited Talk:</strong> From Single Rules to Adaptive Heuristic Families: Ensemble, Task-Aware, Preference-Aware, and Transformer-Guided Genetic Programming<br/>Speaker:  Prof. Meng Xu</td><td>Chair:Yahui Jia</td></tr>
   </tbody>
 </table>
