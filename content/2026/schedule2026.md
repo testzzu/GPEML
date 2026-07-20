@@ -47,7 +47,7 @@ ShowPostNavLinks = false
   </tbody>
 </table>
 
-### July 15, 2026 · Morning Sessions
+### July 25, 2026 · Morning Sessions
 
 <table class="fixed-session-table">
   <colgroup>
@@ -72,7 +72,7 @@ ShowPostNavLinks = false
   </tbody>
 </table>
 
-### July 15, 2026 · Afternoon Sessions
+### July 25, 2026 · Afternoon Sessions
 
 <table class="fixed-session-table">
   <colgroup>
