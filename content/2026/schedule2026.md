@@ -21,16 +21,6 @@ ShowPostNavLinks = false
 
 ## Schedule
 
-
-The detailed technical program will include:
-
-- Plenary and keynote sessions by leading researchers in GP and EML
-- Panels on emerging topics such as evolutionary deep learning and explainable GP
-- Focused discussion and collaboration slots on July 25
-A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the Program page and the PDF program when available.
-
----
-More details will be released shortly.
 ## Daily Program Overview
 
 > Final talk titles and speaker pairings will be posted closer to the event.  
