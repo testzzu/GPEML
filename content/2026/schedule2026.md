@@ -19,7 +19,6 @@ ShowPostNavLinks = false
   ]
 +++
 
-## Schedule
 
 ## Daily Program Overview
 
