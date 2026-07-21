@@ -39,8 +39,8 @@ ShowPostNavLinks = false
 
 {{< member name="Yuan Yuan" affiliation="Beihang University, China" image="/images/member/yuanyuan.jpg" url="https://scse.buaa.edu.cn/info/1078/8386.htm" >}}
 {{< member name="Zhichao Lu" affiliation="City University of Hong Kong" image="/images/member/Zhichao_Lu.png" url="https://www.cs.cityu.edu.hk/~zhichalu/" >}}
-
-
+{{< member name="Ruwang Jiao" affiliation="Soochow University, China" image="/images/member/jiaoruwang.jpg" url="https://web.suda.edu.cn/rwjiao/" >}}
+{{< member name="Meng Xu" affiliation="Beijing Institute of Technology, China" image="/images/member/xumeng.jpg" url="https://mengxu95.github.io/" >}}
 
 {{< /membergrid >}}
 

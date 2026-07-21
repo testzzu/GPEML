@@ -961,14 +961,13 @@
 
 
 
-
 &lt;div class=&#34;member-card&#34;&gt;
   &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/member/Bing_Xue.png&#34; alt=&#34;Bing Xue&#34; loading=&#34;lazy&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/member/Gary_G._Yen.jpg&#34; alt=&#34;Gary G. Yen&#34; loading=&#34;lazy&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/Bing.Xue&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bing Xue&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://cs.scu.edu.cn/info/1396/19253.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Gary G. Yen&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Sichuan University, China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -988,24 +987,23 @@
 
 &lt;div class=&#34;member-card&#34;&gt;
   &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/member/Gary_G._Yen.jpg&#34; alt=&#34;Gary G. Yen&#34; loading=&#34;lazy&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/member/Bing_Xue.png&#34; alt=&#34;Bing Xue&#34; loading=&#34;lazy&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://cs.scu.edu.cn/info/1396/19253.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Gary G. Yen&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Sichuan University, China&lt;/p&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://people.wgtn.ac.nz/Bing.Xue&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bing Xue&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Victoria University of Wellington, New Zealand&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 
 
-
 &lt;div class=&#34;member-card&#34;&gt;
   &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/member/zhongjingyao.jpg&#34; alt=&#34;Jinghui Zhong&#34; loading=&#34;lazy&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/member/Ying_Bi.png&#34; alt=&#34;Ying Bi&#34; loading=&#34;lazy&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www2.scut.edu.cn/cs/2017/0129/c22284a327657/page.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jinghui Zhong&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;South China University Of Technology, China&lt;/p&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www5.zzu.edu.cn/eie/info/1065/4153.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ying Bi&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Zhengzhou University, China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1023,14 +1021,13 @@
 
 
 
-
 &lt;div class=&#34;member-card&#34;&gt;
   &lt;div class=&#34;member-avatar&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/member/Yanan_sun.jpg&#34; alt=&#34;Yanan Sun&#34; loading=&#34;lazy&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/member/ChaoQian.jpg&#34; alt=&#34;Chao Qian&#34; loading=&#34;lazy&#34;&gt;
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
-    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://yn-sun.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Yanan Sun&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Sichuan University, China&lt;/p&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://ai.nju.edu.cn/71/c9/c18540a422345/page.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Chao Qian&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;Nanjing University, China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1042,7 +1039,19 @@
   &lt;/div&gt;
   &lt;div class=&#34;member-info&#34;&gt;
     &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;http://faculty.neu.edu.cn/yangcuie/zh_CN/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Cuie Yang&lt;/a&gt;&lt;/h4&gt;
-    &lt;p class=&#34;member-affiliation&#34;&gt;Northeastern University, China&lt;/p&gt;</description>
+    &lt;p class=&#34;member-affiliation&#34;&gt;Northeastern University, China&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;member-card&#34;&gt;
+  &lt;div class=&#34;member-avatar&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/member/zhongjingyao.jpg&#34; alt=&#34;Jinghui Zhong&#34; loading=&#34;lazy&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;member-info&#34;&gt;
+    &lt;h4 class=&#34;member-name&#34;&gt;&lt;a href=&#34;https://www2.scut.edu.cn/cs/2017/0129/c22284a327657/page.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Jinghui Zhong&lt;/a&gt;&lt;/h4&gt;
+    &lt;p class=&#34;member-affiliation&#34;&gt;South China University Of Technology, China&lt;/p&gt;</description>
     </item>
     <item>
       <title>Past GPEML Symposia</title>
@@ -1165,16 +1174,98 @@ The overview below helps delegates plan travel and networking commitments.&lt;/p
       <link>http://localhost:1313/2026/schedule2026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/2026/schedule2026/</guid>
-      <description>&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-&lt;p&gt;The detailed technical program will include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Plenary and keynote sessions by leading researchers in GP and EML&lt;/li&gt;
-&lt;li&gt;Panels on emerging topics such as evolutionary deep learning and explainable GP&lt;/li&gt;
-&lt;li&gt;Focused discussion and collaboration slots on July 25
-A full timetable (sessions by time slot and room) will be released closer to the event. For planning purposes, please refer to the summary schedule on the Program page and the PDF program when available.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;More details will be released shortly.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;daily-program-overview&#34;&gt;Daily Program Overview&lt;/h2&gt;
+&lt;h3 id=&#34;july-24-2026--afternoon-sessions&#34;&gt;July 24, 2026 · Afternoon Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:10%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:40%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;14:00-14:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk&lt;/strong&gt;&lt;br/&gt; Role of LLM in Data-Driven Evolutionary Optimization &lt;br/&gt;Speaker:  Prof. Handing Wang&lt;/td&gt;&lt;td&gt;Chair: Yu Xue&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;14:40-15:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Evolutionary Computation for Automated &lt;br/&gt;Speaker:  Prof. Shinichi Shirakawa&lt;/td&gt;&lt;td&gt;Chair: Zhixing Huang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:20-15:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:40-16:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Recent Advances in LLM-based Evolutionary Program Search and Its Application to Neural Architecture Search&lt;br/&gt;Speaker:  Prof. Zhichao Lu&lt;/td&gt;&lt;td&gt;Chair: Dujuan Wang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;16:20-17:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Feature Reduction for Complex Data: From Streaming Scenarios to Long-Tail Distributions&lt;br/&gt;Speaker: Prof. Ruwang Jiao&lt;/td&gt;&lt;td&gt;Chair: Junhao Huang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;17:00-17:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; From Single Rules to Adaptive Heuristic Families: Ensemble, Task-Aware, Preference-Aware, and Transformer-Guided Genetic Programming&lt;br/&gt;Speaker: Prof. Meng Xu&lt;/td&gt;&lt;td&gt;Chair: Yahui Jia&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-25-2026--morning-sessions&#34;&gt;July 25, 2026 · Morning Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:10%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:40%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;9:00-9:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Opening Ceremony&lt;/strong&gt; &lt;td&gt;Chair: Yanan Sun&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;9:40-10:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; From Distributive Fairness to Procedural Fairness in Machine Learning&lt;br/&gt;Speaker: Prof. Xin Yao&lt;/td&gt;&lt;td&gt;Chair:  Mengjie Zhang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:20-10:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:40-11:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; The AI Research Revolution: How Language Models Are Changing the Way We Conduct Research&lt;br/&gt;Speaker: Prof. Yew-Soon Ong&lt;/td&gt;&lt;td&gt;Chair:  Bing Xue&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;11:20-12:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; The Synergy Triangle – How Evolution, Learning, and Foundation Models Complete Each Other  &lt;br/&gt;Panelists: Xin Yao, Risto Miikkulainen, Bing Xue, Ke Tang, Ting Hu                    &lt;/td&gt;&lt;td&gt;Chair:  Wolfgang Banzhaf&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-25-2026--afternoon-sessions&#34;&gt;July 25, 2026 · Afternoon Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:10%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:40%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;14:00-14:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Neuroevolution 3.0: Fine-tuning LLMs with evolution strategie&lt;br/&gt;Speaker: Prof. Risto Miikkulainen&lt;/td&gt;&lt;td&gt;Chair: Yanan Sun&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;14:40-15:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Program Trace Optimization: Theory and Practice&lt;br/&gt;Speaker: Prof. Alberto Moraglio&lt;/td&gt;&lt;td&gt;Chair: Ying Bi&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:20-15:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;15:40-16:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Why Evolution Favors Simplicity: The Role of Neutral Networks&lt;br/&gt;Speaker: Prof. Ting Hu&lt;/td&gt;&lt;td&gt;Chair: Cuie Yang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;16:20-17:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Automated Algorithms – Where Evolutionary Computation, GP and Learning Meet&lt;br/&gt;Speaker:  Prof. Rong Qu&lt;/td&gt;&lt;td&gt;Chair:  Jinghui Zhong&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;17:00-17:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Panel Discussion:&lt;/strong&gt; The Adoption Gap – Why Isn&#39;t GP/EML Everywhere, and What Will It Take to Get There?&lt;br/&gt;Panelists: Yaochu Jin, Rong Qu, Shinichi Shirakawa, Alberto Moraglio, Yuan Yuan&lt;/td&gt;&lt;td&gt;Chair: Mengjie Zhang&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;july-26-2025--morning-sessions&#34;&gt;July 26, 2025 · Morning Sessions&lt;/h3&gt;
+&lt;table class=&#34;fixed-session-table&#34;&gt;
+  &lt;colgroup&gt;
+    &lt;col style=&#34;width:10%&#34;&gt;
+    &lt;col style=&#34;width:60%&#34;&gt;
+    &lt;col style=&#34;width:40%&#34;&gt;
+  &lt;/colgroup&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Session&lt;/th&gt;
+      &lt;th&gt;Chair&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;9:00-9:40&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt;  Data-Driven Optimization of Complex Systems Assisted by Small Surrogates and Large Language Models&lt;br/&gt;Speaker: Prof. Yaochu Jin&lt;/td&gt;&lt;td&gt;Chair: Wolfgang Banzhaf&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;9:40-10:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt;  Algorithm Space Distillation - A perspective on data-driven automated algorithm design&lt;br/&gt;Speaker: Prof. Ke Tang&lt;/td&gt;&lt;td&gt;Chair:  Liang Feng&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:20-10:40&lt;/td&gt;&lt;td&gt;Tea Break&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;10:40-11:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; From LLM Reasoning to Continually Evolving Scheduling Intelligence&lt;br/&gt;Speaker: Prof. Yuan Yuan&lt;/td&gt;&lt;td&gt;Chair: Ye Tian&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;11:20-12:00&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Invited Talk:&lt;/strong&gt; Causal Learning and its Applications&lt;br/&gt;Speaker: Prof. Huanhuan Chen&lt;/td&gt;&lt;td&gt;Chair:  Mengjie Zhang&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;12:00-12:20&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Closing Ceremony&lt;td&gt;Chair: Yanan Sun&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     <item>
       <title>Speaker 2026</title>

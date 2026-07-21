@@ -26,9 +26,9 @@ ShowPostNavLinks = false
 
 <table class="fixed-session-table">
   <colgroup>
-    <col style="width:20%">
+    <col style="width:10%">
     <col style="width:60%">
-    <col style="width:20%">
+    <col style="width:40%">
   </colgroup>
   <thead>
     <tr>
@@ -51,9 +51,9 @@ ShowPostNavLinks = false
 
 <table class="fixed-session-table">
   <colgroup>
-    <col style="width:20%">
+    <col style="width:10%">
     <col style="width:60%">
-    <col style="width:20%">
+    <col style="width:40%">
   </colgroup>
   <thead>
     <tr>
@@ -76,9 +76,9 @@ ShowPostNavLinks = false
 
 <table class="fixed-session-table">
   <colgroup>
-    <col style="width:20%">
+    <col style="width:10%">
     <col style="width:60%">
-    <col style="width:20%">
+    <col style="width:40%">
   </colgroup>
   <thead>
     <tr>
@@ -101,9 +101,9 @@ ShowPostNavLinks = false
 
 <table class="fixed-session-table">
   <colgroup>
-    <col style="width:20%">
+    <col style="width:10%">
     <col style="width:60%">
-    <col style="width:20%">
+    <col style="width:40%">
   </colgroup>
   <thead>
     <tr>
