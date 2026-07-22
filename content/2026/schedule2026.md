@@ -93,7 +93,7 @@ ShowPostNavLinks = false
     <tr><td>15:20-15:40</td><td>Tea Break</td><td></td></tr>
     <tr><td>15:40-16:20</td><td><strong>Invited Talk:</strong> Why Evolution Favors Simplicity: The Role of Neutral Networks<br/>Speaker: Prof. Ting Hu</td><td>Chair: Cuie Yang</td></tr>
     <tr><td>16:20-17:00</td><td><strong>Invited Talk:</strong> Automated Algorithms – Where Evolutionary Computation, GP and Learning Meet<br/>Speaker:  Prof. Rong Qu</td><td>Chair:  Jinghui Zhong</td></tr>
-    <tr><td>17:00-17:40</td><td><strong>Panel Discussion:</strong> The Adoption Gap – Why Isn't GP/EML Everywhere, and What Will It Take to Get There?<br/>Panelists: Yaochu Jin, Rong Qu, Shinichi Shirakawa, Alberto Moraglio, Yuan Yuan</td><td>Chair: Mengjie Zhang</td></tr>
+    <tr><td>17:00-17:40</td><td><strong>Panel Discussion:</strong> The Adoption Gap – Why Isn't GP/EML Everywhere, and What Will It Take to Get There?<br/>Panelists: Wolfgang Banzhaf, Rong Qu, Shinichi Shirakawa, Alberto Moraglio, Yuan Yuan</td><td>Chair: Mengjie Zhang</td></tr>
   </tbody>
 </table>
 
